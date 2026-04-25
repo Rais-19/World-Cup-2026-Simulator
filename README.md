@@ -4,7 +4,5 @@ emoji: 🏆
 colorFrom: green
 colorTo: yellow
 sdk: streamlit
-sdk_version: 1.32.0
-app_file: frontend/frontendapp.py
-pinned: false
+app_file: app.py
 ---
