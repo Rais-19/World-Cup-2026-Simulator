@@ -1,0 +1,2389 @@
+{
+  "metadata": {
+    "export_date": "2026-04-22 19:52:07",
+    "total_simulations": 5000,
+    "analyzed_simulations": 5000,
+    "num_teams": 48,
+    "num_groups": 12,
+    "model_type": "Random Forest (Fixed)",
+    "cache_size": 2256,
+    "most_likely_champion": "Spain",
+    "champion_probability": 15.32,
+    "top_5_favorites": [
+      {
+        "team": "Spain",
+        "probability": 15.32
+      },
+      {
+        "team": "Argentina",
+        "probability": 12.72
+      },
+      {
+        "team": "France",
+        "probability": 11.34
+      },
+      {
+        "team": "Netherlands",
+        "probability": 7.32
+      },
+      {
+        "team": "England",
+        "probability": 7.06
+      }
+    ],
+    "fixes_applied": [
+      "Tiebreaker function - no duplicate positions",
+      "Advancement probabilities capped at 100%",
+      "Match cache - all 2,256 matchups pre-computed",
+      "Winner validation in knockout matches",
+      "Bracket mapping corrected",
+      "No \"no data\" errors - every matchup works"
+    ]
+  },
+  "champion_probabilities": [
+    {
+      "Rank": 1,
+      "Team": "Spain",
+      "Probability": 15.32,
+      "Wins": 766
+    },
+    {
+      "Rank": 2,
+      "Team": "Argentina",
+      "Probability": 12.72,
+      "Wins": 636
+    },
+    {
+      "Rank": 3,
+      "Team": "France",
+      "Probability": 11.34,
+      "Wins": 567
+    },
+    {
+      "Rank": 4,
+      "Team": "Netherlands",
+      "Probability": 7.32,
+      "Wins": 366
+    },
+    {
+      "Rank": 5,
+      "Team": "England",
+      "Probability": 7.06,
+      "Wins": 353
+    },
+    {
+      "Rank": 6,
+      "Team": "Colombia",
+      "Probability": 6.5,
+      "Wins": 325
+    },
+    {
+      "Rank": 7,
+      "Team": "Brazil",
+      "Probability": 6.239999999999999,
+      "Wins": 312
+    },
+    {
+      "Rank": 8,
+      "Team": "Germany",
+      "Probability": 4.32,
+      "Wins": 216
+    },
+    {
+      "Rank": 9,
+      "Team": "Portugal",
+      "Probability": 3.52,
+      "Wins": 176
+    },
+    {
+      "Rank": 10,
+      "Team": "Morocco",
+      "Probability": 3.26,
+      "Wins": 163
+    },
+    {
+      "Rank": 11,
+      "Team": "Senegal",
+      "Probability": 3.02,
+      "Wins": 151
+    },
+    {
+      "Rank": 12,
+      "Team": "Uruguay",
+      "Probability": 3.02,
+      "Wins": 151
+    },
+    {
+      "Rank": 13,
+      "Team": "Belgium",
+      "Probability": 2.5,
+      "Wins": 125
+    },
+    {
+      "Rank": 14,
+      "Team": "Switzerland",
+      "Probability": 2.0,
+      "Wins": 100
+    },
+    {
+      "Rank": 15,
+      "Team": "Japan",
+      "Probability": 1.96,
+      "Wins": 98
+    },
+    {
+      "Rank": 16,
+      "Team": "Croatia",
+      "Probability": 1.72,
+      "Wins": 86
+    },
+    {
+      "Rank": 17,
+      "Team": "Iran",
+      "Probability": 1.5599999999999998,
+      "Wins": 78
+    },
+    {
+      "Rank": 18,
+      "Team": "Ivory Coast",
+      "Probability": 0.74,
+      "Wins": 37
+    },
+    {
+      "Rank": 19,
+      "Team": "Egypt",
+      "Probability": 0.7000000000000001,
+      "Wins": 35
+    },
+    {
+      "Rank": 20,
+      "Team": "Australia",
+      "Probability": 0.6799999999999999,
+      "Wins": 34
+    },
+    {
+      "Rank": 21,
+      "Team": "Austria",
+      "Probability": 0.64,
+      "Wins": 32
+    },
+    {
+      "Rank": 22,
+      "Team": "Sweden",
+      "Probability": 0.6,
+      "Wins": 30
+    },
+    {
+      "Rank": 23,
+      "Team": "South Korea",
+      "Probability": 0.45999999999999996,
+      "Wins": 23
+    },
+    {
+      "Rank": 24,
+      "Team": "Turkey",
+      "Probability": 0.42,
+      "Wins": 21
+    },
+    {
+      "Rank": 25,
+      "Team": "Ecuador",
+      "Probability": 0.36,
+      "Wins": 18
+    },
+    {
+      "Rank": 26,
+      "Team": "Czech Republic",
+      "Probability": 0.32,
+      "Wins": 16
+    },
+    {
+      "Rank": 27,
+      "Team": "United States",
+      "Probability": 0.26,
+      "Wins": 13
+    },
+    {
+      "Rank": 28,
+      "Team": "Algeria",
+      "Probability": 0.26,
+      "Wins": 13
+    },
+    {
+      "Rank": 29,
+      "Team": "Qatar",
+      "Probability": 0.2,
+      "Wins": 10
+    },
+    {
+      "Rank": 30,
+      "Team": "Mexico",
+      "Probability": 0.18,
+      "Wins": 9
+    },
+    {
+      "Rank": 31,
+      "Team": "Norway",
+      "Probability": 0.12,
+      "Wins": 6
+    },
+    {
+      "Rank": 32,
+      "Team": "DR Congo",
+      "Probability": 0.12,
+      "Wins": 6
+    },
+    {
+      "Rank": 33,
+      "Team": "Tunisia",
+      "Probability": 0.12,
+      "Wins": 6
+    },
+    {
+      "Rank": 34,
+      "Team": "Jordan",
+      "Probability": 0.1,
+      "Wins": 5
+    },
+    {
+      "Rank": 35,
+      "Team": "Iraq",
+      "Probability": 0.08,
+      "Wins": 4
+    },
+    {
+      "Rank": 36,
+      "Team": "Ghana",
+      "Probability": 0.06,
+      "Wins": 3
+    },
+    {
+      "Rank": 37,
+      "Team": "South Africa",
+      "Probability": 0.06,
+      "Wins": 3
+    },
+    {
+      "Rank": 38,
+      "Team": "Cape Verde",
+      "Probability": 0.06,
+      "Wins": 3
+    },
+    {
+      "Rank": 39,
+      "Team": "Scotland",
+      "Probability": 0.04,
+      "Wins": 2
+    },
+    {
+      "Rank": 40,
+      "Team": "Uzbekistan",
+      "Probability": 0.04,
+      "Wins": 2
+    },
+    {
+      "Rank": 41,
+      "Team": "Bosnia and Herzegovina",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 42,
+      "Team": "Canada",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 43,
+      "Team": "Saudi Arabia",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 44,
+      "Team": "Paraguay",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 45,
+      "Team": "Panama",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 46,
+      "Team": "Haiti",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 47,
+      "Team": "New Zealand",
+      "Probability": 0.0,
+      "Wins": 0
+    },
+    {
+      "Rank": 48,
+      "Team": "Cura\u00e7ao",
+      "Probability": 0.0,
+      "Wins": 0
+    }
+  ],
+  "group_stage_summary": [
+    {
+      "Group": "A",
+      "Team": "Mexico",
+      "Elo": 1509.0,
+      "Champion_Prob": 0.18,
+      "1st_Place_Prob": 25.5,
+      "2nd_Place_Prob": 26.5,
+      "3rd_Place_Prob": 22.7,
+      "4th_Place_Prob": 25.3,
+      "Advance_Prob": 10.4,
+      "Confederation": "Hosts (3)"
+    },
+    {
+      "Group": "A",
+      "Team": "South Africa",
+      "Elo": 1519.5,
+      "Champion_Prob": 0.06,
+      "1st_Place_Prob": 19.2,
+      "2nd_Place_Prob": 23.7,
+      "3rd_Place_Prob": 22.9,
+      "4th_Place_Prob": 34.2,
+      "Advance_Prob": 8.6,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "A",
+      "Team": "South Korea",
+      "Elo": 1537.1,
+      "Champion_Prob": 0.46,
+      "1st_Place_Prob": 32.3,
+      "2nd_Place_Prob": 25.7,
+      "3rd_Place_Prob": 24.7,
+      "4th_Place_Prob": 17.3,
+      "Advance_Prob": 11.6,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "A",
+      "Team": "Czech Republic",
+      "Elo": 1516.3,
+      "Champion_Prob": 0.32,
+      "1st_Place_Prob": 23.0,
+      "2nd_Place_Prob": 24.1,
+      "3rd_Place_Prob": 29.7,
+      "4th_Place_Prob": 23.2,
+      "Advance_Prob": 9.4,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "B",
+      "Team": "Canada",
+      "Elo": 1449.7,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 14.0,
+      "2nd_Place_Prob": 21.7,
+      "3rd_Place_Prob": 23.5,
+      "4th_Place_Prob": 40.8,
+      "Advance_Prob": 7.1,
+      "Confederation": "Hosts (3)"
+    },
+    {
+      "Group": "B",
+      "Team": "Bosnia and Herzegovina",
+      "Elo": 1514.0,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 19.1,
+      "2nd_Place_Prob": 25.0,
+      "3rd_Place_Prob": 24.8,
+      "4th_Place_Prob": 31.1,
+      "Advance_Prob": 8.8,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "B",
+      "Team": "Qatar",
+      "Elo": 1502.0,
+      "Champion_Prob": 0.2,
+      "1st_Place_Prob": 22.2,
+      "2nd_Place_Prob": 32.0,
+      "3rd_Place_Prob": 26.8,
+      "4th_Place_Prob": 19.0,
+      "Advance_Prob": 10.8,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "B",
+      "Team": "Switzerland",
+      "Elo": 1603.3,
+      "Champion_Prob": 2.0,
+      "1st_Place_Prob": 44.7,
+      "2nd_Place_Prob": 21.3,
+      "3rd_Place_Prob": 24.9,
+      "4th_Place_Prob": 9.1,
+      "Advance_Prob": 13.2,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "C",
+      "Team": "Brazil",
+      "Elo": 1686.7,
+      "Champion_Prob": 6.24,
+      "1st_Place_Prob": 44.7,
+      "2nd_Place_Prob": 29.7,
+      "3rd_Place_Prob": 18.4,
+      "4th_Place_Prob": 7.2,
+      "Advance_Prob": 14.9,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "C",
+      "Team": "Morocco",
+      "Elo": 1630.1,
+      "Champion_Prob": 3.26,
+      "1st_Place_Prob": 34.7,
+      "2nd_Place_Prob": 36.9,
+      "3rd_Place_Prob": 18.8,
+      "4th_Place_Prob": 9.6,
+      "Advance_Prob": 14.3,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "C",
+      "Team": "Haiti",
+      "Elo": 1453.6,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 7.1,
+      "2nd_Place_Prob": 12.1,
+      "3rd_Place_Prob": 25.7,
+      "4th_Place_Prob": 55.1,
+      "Advance_Prob": 3.8,
+      "Confederation": "CONCACAF (6)"
+    },
+    {
+      "Group": "C",
+      "Team": "Scotland",
+      "Elo": 1450.2,
+      "Champion_Prob": 0.04,
+      "1st_Place_Prob": 13.5,
+      "2nd_Place_Prob": 21.3,
+      "3rd_Place_Prob": 37.1,
+      "4th_Place_Prob": 28.1,
+      "Advance_Prob": 7.0,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "D",
+      "Team": "United States",
+      "Elo": 1463.2,
+      "Champion_Prob": 0.26,
+      "1st_Place_Prob": 22.4,
+      "2nd_Place_Prob": 22.4,
+      "3rd_Place_Prob": 25.9,
+      "4th_Place_Prob": 29.3,
+      "Advance_Prob": 9.0,
+      "Confederation": "Hosts (3)"
+    },
+    {
+      "Group": "D",
+      "Team": "Paraguay",
+      "Elo": 1488.4,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 16.8,
+      "2nd_Place_Prob": 21.2,
+      "3rd_Place_Prob": 23.0,
+      "4th_Place_Prob": 39.0,
+      "Advance_Prob": 7.6,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "D",
+      "Team": "Australia",
+      "Elo": 1530.3,
+      "Champion_Prob": 0.68,
+      "1st_Place_Prob": 33.5,
+      "2nd_Place_Prob": 27.6,
+      "3rd_Place_Prob": 24.5,
+      "4th_Place_Prob": 14.4,
+      "Advance_Prob": 12.2,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "D",
+      "Team": "Turkey",
+      "Elo": 1525.5,
+      "Champion_Prob": 0.42,
+      "1st_Place_Prob": 27.3,
+      "2nd_Place_Prob": 28.8,
+      "3rd_Place_Prob": 26.6,
+      "4th_Place_Prob": 17.3,
+      "Advance_Prob": 11.2,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "E",
+      "Team": "Germany",
+      "Elo": 1648.4,
+      "Champion_Prob": 4.32,
+      "1st_Place_Prob": 45.4,
+      "2nd_Place_Prob": 23.1,
+      "3rd_Place_Prob": 23.0,
+      "4th_Place_Prob": 8.5,
+      "Advance_Prob": 13.7,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "E",
+      "Team": "Cura\u00e7ao",
+      "Elo": 1520.9,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 10.5,
+      "2nd_Place_Prob": 16.5,
+      "3rd_Place_Prob": 22.0,
+      "4th_Place_Prob": 51.0,
+      "Advance_Prob": 5.4,
+      "Confederation": "CONCACAF (6)"
+    },
+    {
+      "Group": "E",
+      "Team": "Ivory Coast",
+      "Elo": 1595.9,
+      "Champion_Prob": 0.74,
+      "1st_Place_Prob": 23.2,
+      "2nd_Place_Prob": 31.2,
+      "3rd_Place_Prob": 25.3,
+      "4th_Place_Prob": 20.3,
+      "Advance_Prob": 10.9,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "E",
+      "Team": "Ecuador",
+      "Elo": 1515.0,
+      "Champion_Prob": 0.36,
+      "1st_Place_Prob": 20.9,
+      "2nd_Place_Prob": 29.2,
+      "3rd_Place_Prob": 29.7,
+      "4th_Place_Prob": 20.2,
+      "Advance_Prob": 10.0,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "F",
+      "Team": "Netherlands",
+      "Elo": 1710.3,
+      "Champion_Prob": 7.32,
+      "1st_Place_Prob": 38.4,
+      "2nd_Place_Prob": 25.2,
+      "3rd_Place_Prob": 25.2,
+      "4th_Place_Prob": 11.2,
+      "Advance_Prob": 12.7,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "F",
+      "Team": "Japan",
+      "Elo": 1598.9,
+      "Champion_Prob": 1.96,
+      "1st_Place_Prob": 26.7,
+      "2nd_Place_Prob": 29.2,
+      "3rd_Place_Prob": 25.0,
+      "4th_Place_Prob": 19.1,
+      "Advance_Prob": 11.2,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "F",
+      "Team": "Sweden",
+      "Elo": 1597.6,
+      "Champion_Prob": 0.6,
+      "1st_Place_Prob": 21.8,
+      "2nd_Place_Prob": 25.5,
+      "3rd_Place_Prob": 26.8,
+      "4th_Place_Prob": 25.9,
+      "Advance_Prob": 9.5,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "F",
+      "Team": "Tunisia",
+      "Elo": 1528.9,
+      "Champion_Prob": 0.12,
+      "1st_Place_Prob": 13.1,
+      "2nd_Place_Prob": 20.1,
+      "3rd_Place_Prob": 23.0,
+      "4th_Place_Prob": 43.8,
+      "Advance_Prob": 6.6,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "G",
+      "Team": "Belgium",
+      "Elo": 1617.2,
+      "Champion_Prob": 2.5,
+      "1st_Place_Prob": 36.2,
+      "2nd_Place_Prob": 27.6,
+      "3rd_Place_Prob": 26.7,
+      "4th_Place_Prob": 9.5,
+      "Advance_Prob": 12.8,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "G",
+      "Team": "Egypt",
+      "Elo": 1585.1,
+      "Champion_Prob": 0.7,
+      "1st_Place_Prob": 26.8,
+      "2nd_Place_Prob": 30.4,
+      "3rd_Place_Prob": 31.1,
+      "4th_Place_Prob": 11.7,
+      "Advance_Prob": 11.4,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "G",
+      "Team": "Iran",
+      "Elo": 1566.9,
+      "Champion_Prob": 1.56,
+      "1st_Place_Prob": 30.7,
+      "2nd_Place_Prob": 29.8,
+      "3rd_Place_Prob": 29.4,
+      "4th_Place_Prob": 10.1,
+      "Advance_Prob": 12.1,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "G",
+      "Team": "New Zealand",
+      "Elo": 1493.6,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 6.3,
+      "2nd_Place_Prob": 12.2,
+      "3rd_Place_Prob": 12.8,
+      "4th_Place_Prob": 68.7,
+      "Advance_Prob": 3.7,
+      "Confederation": "OFC - Oceania (1)"
+    },
+    {
+      "Group": "H",
+      "Team": "Spain",
+      "Elo": 1777.4,
+      "Champion_Prob": 15.32,
+      "1st_Place_Prob": 51.1,
+      "2nd_Place_Prob": 18.8,
+      "3rd_Place_Prob": 24.1,
+      "4th_Place_Prob": 6.0,
+      "Advance_Prob": 14.0,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "H",
+      "Team": "Cape Verde",
+      "Elo": 1546.1,
+      "Champion_Prob": 0.06,
+      "1st_Place_Prob": 12.1,
+      "2nd_Place_Prob": 23.4,
+      "3rd_Place_Prob": 30.5,
+      "4th_Place_Prob": 34.0,
+      "Advance_Prob": 7.1,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "H",
+      "Team": "Saudi Arabia",
+      "Elo": 1496.6,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 11.8,
+      "2nd_Place_Prob": 17.9,
+      "3rd_Place_Prob": 24.3,
+      "4th_Place_Prob": 46.0,
+      "Advance_Prob": 5.9,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "H",
+      "Team": "Uruguay",
+      "Elo": 1634.5,
+      "Champion_Prob": 3.02,
+      "1st_Place_Prob": 25.0,
+      "2nd_Place_Prob": 39.9,
+      "3rd_Place_Prob": 21.1,
+      "4th_Place_Prob": 14.0,
+      "Advance_Prob": 13.0,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "I",
+      "Team": "France",
+      "Elo": 1738.6,
+      "Champion_Prob": 11.34,
+      "1st_Place_Prob": 43.0,
+      "2nd_Place_Prob": 25.1,
+      "3rd_Place_Prob": 24.0,
+      "4th_Place_Prob": 7.9,
+      "Advance_Prob": 13.6,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "I",
+      "Team": "Senegal",
+      "Elo": 1643.2,
+      "Champion_Prob": 3.02,
+      "1st_Place_Prob": 31.3,
+      "2nd_Place_Prob": 30.6,
+      "3rd_Place_Prob": 24.7,
+      "4th_Place_Prob": 13.4,
+      "Advance_Prob": 12.4,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "I",
+      "Team": "Iraq",
+      "Elo": 1541.1,
+      "Champion_Prob": 0.08,
+      "1st_Place_Prob": 11.9,
+      "2nd_Place_Prob": 19.9,
+      "3rd_Place_Prob": 23.3,
+      "4th_Place_Prob": 44.9,
+      "Advance_Prob": 6.4,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "I",
+      "Team": "Norway",
+      "Elo": 1544.2,
+      "Champion_Prob": 0.12,
+      "1st_Place_Prob": 13.8,
+      "2nd_Place_Prob": 24.4,
+      "3rd_Place_Prob": 28.0,
+      "4th_Place_Prob": 33.8,
+      "Advance_Prob": 7.6,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "J",
+      "Team": "Argentina",
+      "Elo": 1758.3,
+      "Champion_Prob": 12.72,
+      "1st_Place_Prob": 50.8,
+      "2nd_Place_Prob": 18.7,
+      "3rd_Place_Prob": 22.7,
+      "4th_Place_Prob": 7.8,
+      "Advance_Prob": 13.9,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "J",
+      "Team": "Algeria",
+      "Elo": 1553.7,
+      "Champion_Prob": 0.26,
+      "1st_Place_Prob": 17.3,
+      "2nd_Place_Prob": 28.6,
+      "3rd_Place_Prob": 27.0,
+      "4th_Place_Prob": 27.1,
+      "Advance_Prob": 9.2,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "J",
+      "Team": "Austria",
+      "Elo": 1562.5,
+      "Champion_Prob": 0.64,
+      "1st_Place_Prob": 19.8,
+      "2nd_Place_Prob": 32.0,
+      "3rd_Place_Prob": 27.4,
+      "4th_Place_Prob": 20.8,
+      "Advance_Prob": 10.4,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "J",
+      "Team": "Jordan",
+      "Elo": 1564.7,
+      "Champion_Prob": 0.1,
+      "1st_Place_Prob": 12.1,
+      "2nd_Place_Prob": 20.7,
+      "3rd_Place_Prob": 22.9,
+      "4th_Place_Prob": 44.3,
+      "Advance_Prob": 6.6,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "K",
+      "Team": "Portugal",
+      "Elo": 1633.2,
+      "Champion_Prob": 3.52,
+      "1st_Place_Prob": 34.7,
+      "2nd_Place_Prob": 30.5,
+      "3rd_Place_Prob": 22.6,
+      "4th_Place_Prob": 12.2,
+      "Advance_Prob": 13.0,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "K",
+      "Team": "DR Congo",
+      "Elo": 1529.6,
+      "Champion_Prob": 0.12,
+      "1st_Place_Prob": 13.4,
+      "2nd_Place_Prob": 20.7,
+      "3rd_Place_Prob": 30.4,
+      "4th_Place_Prob": 35.5,
+      "Advance_Prob": 6.8,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "K",
+      "Team": "Uzbekistan",
+      "Elo": 1552.1,
+      "Champion_Prob": 0.04,
+      "1st_Place_Prob": 12.1,
+      "2nd_Place_Prob": 20.0,
+      "3rd_Place_Prob": 24.7,
+      "4th_Place_Prob": 43.2,
+      "Advance_Prob": 6.4,
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Group": "K",
+      "Team": "Colombia",
+      "Elo": 1665.7,
+      "Champion_Prob": 6.5,
+      "1st_Place_Prob": 39.8,
+      "2nd_Place_Prob": 28.8,
+      "3rd_Place_Prob": 22.3,
+      "4th_Place_Prob": 9.1,
+      "Advance_Prob": 13.7,
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Group": "L",
+      "Team": "England",
+      "Elo": 1680.1,
+      "Champion_Prob": 7.06,
+      "1st_Place_Prob": 43.4,
+      "2nd_Place_Prob": 24.7,
+      "3rd_Place_Prob": 22.7,
+      "4th_Place_Prob": 9.2,
+      "Advance_Prob": 13.6,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "L",
+      "Team": "Croatia",
+      "Elo": 1599.1,
+      "Champion_Prob": 1.72,
+      "1st_Place_Prob": 33.9,
+      "2nd_Place_Prob": 31.7,
+      "3rd_Place_Prob": 22.1,
+      "4th_Place_Prob": 12.3,
+      "Advance_Prob": 13.1,
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Group": "L",
+      "Team": "Ghana",
+      "Elo": 1518.6,
+      "Champion_Prob": 0.06,
+      "1st_Place_Prob": 12.4,
+      "2nd_Place_Prob": 25.4,
+      "3rd_Place_Prob": 31.6,
+      "4th_Place_Prob": 30.6,
+      "Advance_Prob": 7.6,
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Group": "L",
+      "Team": "Panama",
+      "Elo": 1467.9,
+      "Champion_Prob": 0.0,
+      "1st_Place_Prob": 10.3,
+      "2nd_Place_Prob": 18.2,
+      "3rd_Place_Prob": 23.6,
+      "4th_Place_Prob": 47.9,
+      "Advance_Prob": 5.7,
+      "Confederation": "CONCACAF (6)"
+    }
+  ],
+  "team_strength": [
+    {
+      "Team": "Spain",
+      "Elo": 1777.4,
+      "FIFA_Rank": 3,
+      "Champion_Prob": 15.32,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Argentina",
+      "Elo": 1758.3,
+      "FIFA_Rank": 1,
+      "Champion_Prob": 12.72,
+      "Best_Stage": "Champion",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "France",
+      "Elo": 1738.6,
+      "FIFA_Rank": 2,
+      "Champion_Prob": 11.34,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Netherlands",
+      "Elo": 1710.3,
+      "FIFA_Rank": 8,
+      "Champion_Prob": 7.32,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Brazil",
+      "Elo": 1686.7,
+      "FIFA_Rank": 5,
+      "Champion_Prob": 6.24,
+      "Best_Stage": "Champion",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "England",
+      "Elo": 1680.1,
+      "FIFA_Rank": 4,
+      "Champion_Prob": 7.06,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Colombia",
+      "Elo": 1665.7,
+      "FIFA_Rank": 14,
+      "Champion_Prob": 6.5,
+      "Best_Stage": "Champion",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "Germany",
+      "Elo": 1648.4,
+      "FIFA_Rank": 9,
+      "Champion_Prob": 4.32,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Senegal",
+      "Elo": 1643.2,
+      "FIFA_Rank": 18,
+      "Champion_Prob": 3.02,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Uruguay",
+      "Elo": 1634.5,
+      "FIFA_Rank": 17,
+      "Champion_Prob": 3.02,
+      "Best_Stage": "Champion",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "Portugal",
+      "Elo": 1633.2,
+      "FIFA_Rank": 6,
+      "Champion_Prob": 3.52,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Morocco",
+      "Elo": 1630.1,
+      "FIFA_Rank": 12,
+      "Champion_Prob": 3.26,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Belgium",
+      "Elo": 1617.2,
+      "FIFA_Rank": 7,
+      "Champion_Prob": 2.5,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Switzerland",
+      "Elo": 1603.3,
+      "FIFA_Rank": 19,
+      "Champion_Prob": 2.0,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Croatia",
+      "Elo": 1599.1,
+      "FIFA_Rank": 10,
+      "Champion_Prob": 1.72,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Japan",
+      "Elo": 1598.9,
+      "FIFA_Rank": 16,
+      "Champion_Prob": 1.96,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Sweden",
+      "Elo": 1597.6,
+      "FIFA_Rank": 29,
+      "Champion_Prob": 0.6,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Ivory Coast",
+      "Elo": 1595.9,
+      "FIFA_Rank": 42,
+      "Champion_Prob": 0.74,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Egypt",
+      "Elo": 1585.1,
+      "FIFA_Rank": 36,
+      "Champion_Prob": 0.7,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Iran",
+      "Elo": 1566.9,
+      "FIFA_Rank": 21,
+      "Champion_Prob": 1.56,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Jordan",
+      "Elo": 1564.7,
+      "FIFA_Rank": 68,
+      "Champion_Prob": 0.1,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Austria",
+      "Elo": 1562.5,
+      "FIFA_Rank": 24,
+      "Champion_Prob": 0.64,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Algeria",
+      "Elo": 1553.7,
+      "FIFA_Rank": 35,
+      "Champion_Prob": 0.26,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Uzbekistan",
+      "Elo": 1552.1,
+      "FIFA_Rank": 80,
+      "Champion_Prob": 0.04,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Cape Verde",
+      "Elo": 1546.1,
+      "FIFA_Rank": 70,
+      "Champion_Prob": 0.06,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Norway",
+      "Elo": 1544.2,
+      "FIFA_Rank": 30,
+      "Champion_Prob": 0.12,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Iraq",
+      "Elo": 1541.1,
+      "FIFA_Rank": 75,
+      "Champion_Prob": 0.08,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "South Korea",
+      "Elo": 1537.1,
+      "FIFA_Rank": 22,
+      "Champion_Prob": 0.46,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Australia",
+      "Elo": 1530.3,
+      "FIFA_Rank": 23,
+      "Champion_Prob": 0.68,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "DR Congo",
+      "Elo": 1529.6,
+      "FIFA_Rank": 58,
+      "Champion_Prob": 0.12,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Tunisia",
+      "Elo": 1528.9,
+      "FIFA_Rank": 45,
+      "Champion_Prob": 0.12,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Turkey",
+      "Elo": 1525.5,
+      "FIFA_Rank": 28,
+      "Champion_Prob": 0.42,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Cura\u00e7ao",
+      "Elo": 1520.9,
+      "FIFA_Rank": 100,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Semi-Final",
+      "Confederation": "CONCACAF (6)"
+    },
+    {
+      "Team": "South Africa",
+      "Elo": 1519.5,
+      "FIFA_Rank": 65,
+      "Champion_Prob": 0.06,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Ghana",
+      "Elo": 1518.6,
+      "FIFA_Rank": 60,
+      "Champion_Prob": 0.06,
+      "Best_Stage": "Champion",
+      "Confederation": "CAF - Africa (10)"
+    },
+    {
+      "Team": "Czech Republic",
+      "Elo": 1516.3,
+      "FIFA_Rank": 36,
+      "Champion_Prob": 0.32,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Ecuador",
+      "Elo": 1515.0,
+      "FIFA_Rank": 25,
+      "Champion_Prob": 0.36,
+      "Best_Stage": "Champion",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "Bosnia and Herzegovina",
+      "Elo": 1514.0,
+      "FIFA_Rank": 62,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Mexico",
+      "Elo": 1509.0,
+      "FIFA_Rank": 15,
+      "Champion_Prob": 0.18,
+      "Best_Stage": "Champion",
+      "Confederation": "Hosts (3)"
+    },
+    {
+      "Team": "Qatar",
+      "Elo": 1502.0,
+      "FIFA_Rank": 37,
+      "Champion_Prob": 0.2,
+      "Best_Stage": "Champion",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "Saudi Arabia",
+      "Elo": 1496.6,
+      "FIFA_Rank": 56,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "AFC - Asia (9)"
+    },
+    {
+      "Team": "New Zealand",
+      "Elo": 1493.6,
+      "FIFA_Rank": 90,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Semi-Final",
+      "Confederation": "OFC - Oceania (1)"
+    },
+    {
+      "Team": "Paraguay",
+      "Elo": 1488.4,
+      "FIFA_Rank": 55,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "CONMEBOL - South America (6)"
+    },
+    {
+      "Team": "Panama",
+      "Elo": 1467.9,
+      "FIFA_Rank": 85,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "CONCACAF (6)"
+    },
+    {
+      "Team": "United States",
+      "Elo": 1463.2,
+      "FIFA_Rank": 13,
+      "Champion_Prob": 0.26,
+      "Best_Stage": "Champion",
+      "Confederation": "Hosts (3)"
+    },
+    {
+      "Team": "Haiti",
+      "Elo": 1453.6,
+      "FIFA_Rank": 95,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "CONCACAF (6)"
+    },
+    {
+      "Team": "Scotland",
+      "Elo": 1450.2,
+      "FIFA_Rank": 38,
+      "Champion_Prob": 0.04,
+      "Best_Stage": "Champion",
+      "Confederation": "UEFA - Europe (13)"
+    },
+    {
+      "Team": "Canada",
+      "Elo": 1449.7,
+      "FIFA_Rank": 40,
+      "Champion_Prob": 0.0,
+      "Best_Stage": "Finalist",
+      "Confederation": "Hosts (3)"
+    }
+  ],
+  "knockout_bracket": [
+    {
+      "Match_ID": 73,
+      "Round": "Round of 32",
+      "Team1": "Czech Republic",
+      "Team2": "Bosnia and Herzegovina",
+      "Most_Likely_Winner": "Switzerland",
+      "Probability": 18.6
+    },
+    {
+      "Match_ID": 74,
+      "Round": "Round of 32",
+      "Team1": "Ecuador",
+      "Team2": "Japan",
+      "Most_Likely_Winner": "Germany",
+      "Probability": 36.6
+    },
+    {
+      "Match_ID": 75,
+      "Round": "Round of 32",
+      "Team1": "Netherlands",
+      "Team2": "Scotland",
+      "Most_Likely_Winner": "Netherlands",
+      "Probability": 32.3
+    },
+    {
+      "Match_ID": 76,
+      "Round": "Round of 32",
+      "Team1": "Brazil",
+      "Team2": "Sweden",
+      "Most_Likely_Winner": "Brazil",
+      "Probability": 32.3
+    },
+    {
+      "Match_ID": 77,
+      "Round": "Round of 32",
+      "Team1": "France",
+      "Team2": "Morocco",
+      "Most_Likely_Winner": "France",
+      "Probability": 44.2
+    },
+    {
+      "Match_ID": 78,
+      "Round": "Round of 32",
+      "Team1": "Germany",
+      "Team2": "Senegal",
+      "Most_Likely_Winner": "Senegal",
+      "Probability": 24.8
+    },
+    {
+      "Match_ID": 79,
+      "Round": "Round of 32",
+      "Team1": "South Korea",
+      "Team2": "Norway",
+      "Most_Likely_Winner": "South Korea",
+      "Probability": 13.7
+    },
+    {
+      "Match_ID": 80,
+      "Round": "Round of 32",
+      "Team1": "England",
+      "Team2": "Ghana",
+      "Most_Likely_Winner": "England",
+      "Probability": 41.7
+    },
+    {
+      "Match_ID": 81,
+      "Round": "Round of 32",
+      "Team1": "Australia",
+      "Team2": "United States",
+      "Most_Likely_Winner": "Australia",
+      "Probability": 20.2
+    },
+    {
+      "Match_ID": 82,
+      "Round": "Round of 32",
+      "Team1": "Belgium",
+      "Team2": "Ivory Coast",
+      "Most_Likely_Winner": "Belgium",
+      "Probability": 26.9
+    },
+    {
+      "Match_ID": 83,
+      "Round": "Round of 32",
+      "Team1": "Portugal",
+      "Team2": "Croatia",
+      "Most_Likely_Winner": "Portugal",
+      "Probability": 21.0
+    },
+    {
+      "Match_ID": 84,
+      "Round": "Round of 32",
+      "Team1": "Spain",
+      "Team2": "Argentina",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 49.9
+    },
+    {
+      "Match_ID": 85,
+      "Round": "Round of 32",
+      "Team1": "Canada",
+      "Team2": "Switzerland",
+      "Most_Likely_Winner": "Switzerland",
+      "Probability": 33.9
+    },
+    {
+      "Match_ID": 86,
+      "Round": "Round of 32",
+      "Team1": "Austria",
+      "Team2": "Saudi Arabia",
+      "Most_Likely_Winner": "Argentina",
+      "Probability": 46.4
+    },
+    {
+      "Match_ID": 87,
+      "Round": "Round of 32",
+      "Team1": "Colombia",
+      "Team2": "Mexico",
+      "Most_Likely_Winner": "Colombia",
+      "Probability": 34.9
+    },
+    {
+      "Match_ID": 88,
+      "Round": "Round of 32",
+      "Team1": "Turkey",
+      "Team2": "Egypt",
+      "Most_Likely_Winner": "Belgium",
+      "Probability": 22.0
+    },
+    {
+      "Match_ID": 89,
+      "Round": "Round of 16",
+      "Team1": "Japan",
+      "Team2": "France",
+      "Most_Likely_Winner": "France",
+      "Probability": 30.0
+    },
+    {
+      "Match_ID": 90,
+      "Round": "Round of 16",
+      "Team1": "Czech Republic",
+      "Team2": "Netherlands",
+      "Most_Likely_Winner": "Netherlands",
+      "Probability": 24.8
+    },
+    {
+      "Match_ID": 91,
+      "Round": "Round of 16",
+      "Team1": "Brazil",
+      "Team2": "Germany",
+      "Most_Likely_Winner": "Brazil",
+      "Probability": 20.3
+    },
+    {
+      "Match_ID": 92,
+      "Round": "Round of 16",
+      "Team1": "Norway",
+      "Team2": "England",
+      "Most_Likely_Winner": "England",
+      "Probability": 30.1
+    },
+    {
+      "Match_ID": 93,
+      "Round": "Round of 16",
+      "Team1": "Croatia",
+      "Team2": "Spain",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 34.3
+    },
+    {
+      "Match_ID": 94,
+      "Round": "Round of 16",
+      "Team1": "United States",
+      "Team2": "Belgium",
+      "Most_Likely_Winner": "Belgium",
+      "Probability": 18.6
+    },
+    {
+      "Match_ID": 95,
+      "Round": "Round of 16",
+      "Team1": "Saudi Arabia",
+      "Team2": "Egypt",
+      "Most_Likely_Winner": "Argentina",
+      "Probability": 35.7
+    },
+    {
+      "Match_ID": 96,
+      "Round": "Round of 16",
+      "Team1": "Canada",
+      "Team2": "Mexico",
+      "Most_Likely_Winner": "Colombia",
+      "Probability": 24.9
+    },
+    {
+      "Match_ID": 97,
+      "Round": "Quarter-Final",
+      "Team1": "Japan",
+      "Team2": "Netherlands",
+      "Most_Likely_Winner": "France",
+      "Probability": 20.8
+    },
+    {
+      "Match_ID": 98,
+      "Round": "Quarter-Final",
+      "Team1": "Spain",
+      "Team2": "Belgium",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 27.2
+    },
+    {
+      "Match_ID": 99,
+      "Round": "Quarter-Final",
+      "Team1": "Germany",
+      "Team2": "England",
+      "Most_Likely_Winner": "England",
+      "Probability": 16.4
+    },
+    {
+      "Match_ID": 100,
+      "Round": "Quarter-Final",
+      "Team1": "Egypt",
+      "Team2": "Canada",
+      "Most_Likely_Winner": "Argentina",
+      "Probability": 25.8
+    },
+    {
+      "Match_ID": 101,
+      "Round": "Semi-Final",
+      "Team1": "Japan",
+      "Team2": "Spain",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 17.9
+    },
+    {
+      "Match_ID": 102,
+      "Round": "Semi-Final",
+      "Team1": "Germany",
+      "Team2": "Canada",
+      "Most_Likely_Winner": "Argentina",
+      "Probability": 17.3
+    },
+    {
+      "Match_ID": 103,
+      "Round": "Final",
+      "Team1": "Spain",
+      "Team2": "Germany",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 15.3
+    },
+    {
+      "Match_ID": 104,
+      "Round": "Third Place",
+      "Team1": "Japan",
+      "Team2": "Canada",
+      "Most_Likely_Winner": "Spain",
+      "Probability": 9.8
+    }
+  ],
+  "stage_survival": [
+    {
+      "Team": "Ghana",
+      "Group Stage": 100.0,
+      "Round of 32": 35.6,
+      "Round of 16": 11.2,
+      "Quarter-Final": 3.2,
+      "Semi-Final": 1.1,
+      "Finalist": 0.3,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Bosnia and Herzegovina",
+      "Group Stage": 100.0,
+      "Round of 32": 35.8,
+      "Round of 16": 14.1,
+      "Quarter-Final": 5.0,
+      "Semi-Final": 1.1,
+      "Finalist": 0.2,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Sweden",
+      "Group Stage": 100.0,
+      "Round of 32": 36.4,
+      "Round of 16": 12.9,
+      "Quarter-Final": 8.0,
+      "Semi-Final": 5.4,
+      "Finalist": 2.2,
+      "Champion": 0.6
+    },
+    {
+      "Team": "Colombia",
+      "Group Stage": 100.0,
+      "Round of 32": 27.9,
+      "Round of 16": 23.2,
+      "Quarter-Final": 16.9,
+      "Semi-Final": 22.4,
+      "Finalist": 12.9,
+      "Champion": 6.5
+    },
+    {
+      "Team": "Spain",
+      "Group Stage": 100.0,
+      "Round of 32": 27.8,
+      "Round of 16": 19.9,
+      "Quarter-Final": 12.0,
+      "Semi-Final": 37.1,
+      "Finalist": 23.4,
+      "Champion": 15.3
+    },
+    {
+      "Team": "Canada",
+      "Group Stage": 100.0,
+      "Round of 32": 29.6,
+      "Round of 16": 13.2,
+      "Quarter-Final": 3.0,
+      "Semi-Final": 1.1,
+      "Finalist": 0.2,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Senegal",
+      "Group Stage": 100.0,
+      "Round of 32": 29.5,
+      "Round of 16": 23.6,
+      "Quarter-Final": 13.6,
+      "Semi-Final": 14.6,
+      "Finalist": 7.1,
+      "Champion": 3.0
+    },
+    {
+      "Team": "Brazil",
+      "Group Stage": 100.0,
+      "Round of 32": 37.4,
+      "Round of 16": 19.2,
+      "Quarter-Final": 16.2,
+      "Semi-Final": 23.0,
+      "Finalist": 12.8,
+      "Champion": 6.2
+    },
+    {
+      "Team": "Netherlands",
+      "Group Stage": 100.0,
+      "Round of 32": 34.9,
+      "Round of 16": 15.3,
+      "Quarter-Final": 17.4,
+      "Semi-Final": 22.0,
+      "Finalist": 12.8,
+      "Champion": 7.3
+    },
+    {
+      "Team": "England",
+      "Group Stage": 100.0,
+      "Round of 32": 30.1,
+      "Round of 16": 22.9,
+      "Quarter-Final": 17.4,
+      "Semi-Final": 23.7,
+      "Finalist": 13.5,
+      "Champion": 7.1
+    },
+    {
+      "Team": "Croatia",
+      "Group Stage": 100.0,
+      "Round of 32": 38.1,
+      "Round of 16": 24.0,
+      "Quarter-Final": 12.5,
+      "Semi-Final": 10.6,
+      "Finalist": 4.3,
+      "Champion": 1.7
+    },
+    {
+      "Team": "Norway",
+      "Group Stage": 100.0,
+      "Round of 32": 29.1,
+      "Round of 16": 14.0,
+      "Quarter-Final": 5.3,
+      "Semi-Final": 2.6,
+      "Finalist": 0.7,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Ivory Coast",
+      "Group Stage": 100.0,
+      "Round of 32": 40.1,
+      "Round of 16": 21.0,
+      "Quarter-Final": 8.1,
+      "Semi-Final": 5.5,
+      "Finalist": 2.0,
+      "Champion": 0.7
+    },
+    {
+      "Team": "Portugal",
+      "Group Stage": 100.0,
+      "Round of 32": 32.3,
+      "Round of 16": 24.4,
+      "Quarter-Final": 14.3,
+      "Semi-Final": 15.2,
+      "Finalist": 7.6,
+      "Champion": 3.5
+    },
+    {
+      "Team": "Austria",
+      "Group Stage": 100.0,
+      "Round of 32": 42.3,
+      "Round of 16": 13.6,
+      "Quarter-Final": 7.4,
+      "Semi-Final": 5.3,
+      "Finalist": 1.7,
+      "Champion": 0.6
+    },
+    {
+      "Team": "Egypt",
+      "Group Stage": 100.0,
+      "Round of 32": 35.2,
+      "Round of 16": 25.4,
+      "Quarter-Final": 11.5,
+      "Semi-Final": 5.9,
+      "Finalist": 2.1,
+      "Champion": 0.7
+    },
+    {
+      "Team": "Japan",
+      "Group Stage": 100.0,
+      "Round of 32": 34.8,
+      "Round of 16": 16.2,
+      "Quarter-Final": 11.6,
+      "Semi-Final": 10.3,
+      "Finalist": 4.4,
+      "Champion": 2.0
+    },
+    {
+      "Team": "Switzerland",
+      "Group Stage": 100.0,
+      "Round of 32": 33.8,
+      "Round of 16": 31.9,
+      "Quarter-Final": 14.5,
+      "Semi-Final": 11.8,
+      "Finalist": 5.2,
+      "Champion": 2.0
+    },
+    {
+      "Team": "Argentina",
+      "Group Stage": 100.0,
+      "Round of 32": 32.3,
+      "Round of 16": 15.3,
+      "Quarter-Final": 13.9,
+      "Semi-Final": 33.7,
+      "Finalist": 21.9,
+      "Champion": 12.7
+    },
+    {
+      "Team": "Germany",
+      "Group Stage": 100.0,
+      "Round of 32": 34.7,
+      "Round of 16": 27.4,
+      "Quarter-Final": 13.3,
+      "Semi-Final": 17.4,
+      "Finalist": 8.1,
+      "Champion": 4.3
+    },
+    {
+      "Team": "Ecuador",
+      "Group Stage": 100.0,
+      "Round of 32": 42.5,
+      "Round of 16": 18.2,
+      "Quarter-Final": 6.1,
+      "Semi-Final": 3.5,
+      "Finalist": 1.0,
+      "Champion": 0.4
+    },
+    {
+      "Team": "Morocco",
+      "Group Stage": 100.0,
+      "Round of 32": 42.2,
+      "Round of 16": 18.5,
+      "Quarter-Final": 14.9,
+      "Semi-Final": 16.5,
+      "Finalist": 7.5,
+      "Champion": 3.3
+    },
+    {
+      "Team": "Belgium",
+      "Group Stage": 100.0,
+      "Round of 32": 30.8,
+      "Round of 16": 26.6,
+      "Quarter-Final": 17.6,
+      "Semi-Final": 13.6,
+      "Finalist": 6.1,
+      "Champion": 2.5
+    },
+    {
+      "Team": "United States",
+      "Group Stage": 100.0,
+      "Round of 32": 34.4,
+      "Round of 16": 15.6,
+      "Quarter-Final": 5.7,
+      "Semi-Final": 2.5,
+      "Finalist": 0.8,
+      "Champion": 0.3
+    },
+    {
+      "Team": "France",
+      "Group Stage": 100.0,
+      "Round of 32": 25.4,
+      "Round of 16": 24.3,
+      "Quarter-Final": 13.4,
+      "Semi-Final": 30.0,
+      "Finalist": 18.9,
+      "Champion": 11.3
+    },
+    {
+      "Team": "Czech Republic",
+      "Group Stage": 100.0,
+      "Round of 32": 40.0,
+      "Round of 16": 19.9,
+      "Quarter-Final": 6.7,
+      "Semi-Final": 2.7,
+      "Finalist": 0.8,
+      "Champion": 0.3
+    },
+    {
+      "Team": "Scotland",
+      "Group Stage": 100.0,
+      "Round of 32": 38.0,
+      "Round of 16": 8.5,
+      "Quarter-Final": 3.3,
+      "Semi-Final": 0.9,
+      "Finalist": 0.2,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Turkey",
+      "Group Stage": 100.0,
+      "Round of 32": 44.6,
+      "Round of 16": 21.0,
+      "Quarter-Final": 8.1,
+      "Semi-Final": 3.8,
+      "Finalist": 1.3,
+      "Champion": 0.4
+    },
+    {
+      "Team": "South Korea",
+      "Group Stage": 100.0,
+      "Round of 32": 40.1,
+      "Round of 16": 25.3,
+      "Quarter-Final": 8.4,
+      "Semi-Final": 4.7,
+      "Finalist": 1.5,
+      "Champion": 0.5
+    },
+    {
+      "Team": "Australia",
+      "Group Stage": 100.0,
+      "Round of 32": 45.2,
+      "Round of 16": 24.0,
+      "Quarter-Final": 9.4,
+      "Semi-Final": 5.6,
+      "Finalist": 2.2,
+      "Champion": 0.7
+    },
+    {
+      "Team": "Mexico",
+      "Group Stage": 100.0,
+      "Round of 32": 37.2,
+      "Round of 16": 21.0,
+      "Quarter-Final": 6.8,
+      "Semi-Final": 3.6,
+      "Finalist": 1.0,
+      "Champion": 0.2
+    },
+    {
+      "Team": "Saudi Arabia",
+      "Group Stage": 100.0,
+      "Round of 32": 24.2,
+      "Round of 16": 6.0,
+      "Quarter-Final": 2.5,
+      "Semi-Final": 0.6,
+      "Finalist": 0.1,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Iran",
+      "Group Stage": 100.0,
+      "Round of 32": 33.2,
+      "Round of 16": 25.8,
+      "Quarter-Final": 15.6,
+      "Semi-Final": 10.3,
+      "Finalist": 4.2,
+      "Champion": 1.6
+    },
+    {
+      "Team": "DR Congo",
+      "Group Stage": 100.0,
+      "Round of 32": 29.2,
+      "Round of 16": 13.0,
+      "Quarter-Final": 3.7,
+      "Semi-Final": 1.6,
+      "Finalist": 0.3,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Uruguay",
+      "Group Stage": 100.0,
+      "Round of 32": 40.9,
+      "Round of 16": 18.8,
+      "Quarter-Final": 11.2,
+      "Semi-Final": 14.0,
+      "Finalist": 6.8,
+      "Champion": 3.0
+    },
+    {
+      "Team": "Qatar",
+      "Group Stage": 100.0,
+      "Round of 32": 38.1,
+      "Round of 16": 25.5,
+      "Quarter-Final": 7.5,
+      "Semi-Final": 3.8,
+      "Finalist": 0.9,
+      "Champion": 0.2
+    },
+    {
+      "Team": "Paraguay",
+      "Group Stage": 100.0,
+      "Round of 32": 35.1,
+      "Round of 16": 11.0,
+      "Quarter-Final": 3.3,
+      "Semi-Final": 0.9,
+      "Finalist": 0.2,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Algeria",
+      "Group Stage": 100.0,
+      "Round of 32": 37.3,
+      "Round of 16": 11.5,
+      "Quarter-Final": 5.7,
+      "Semi-Final": 2.9,
+      "Finalist": 1.0,
+      "Champion": 0.3
+    },
+    {
+      "Team": "South Africa",
+      "Group Stage": 100.0,
+      "Round of 32": 35.9,
+      "Round of 16": 14.4,
+      "Quarter-Final": 4.9,
+      "Semi-Final": 1.3,
+      "Finalist": 0.3,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Cape Verde",
+      "Group Stage": 100.0,
+      "Round of 32": 32.0,
+      "Round of 16": 7.6,
+      "Quarter-Final": 3.5,
+      "Semi-Final": 1.3,
+      "Finalist": 0.3,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Panama",
+      "Group Stage": 100.0,
+      "Round of 32": 24.9,
+      "Round of 16": 6.7,
+      "Quarter-Final": 1.5,
+      "Semi-Final": 0.5,
+      "Finalist": 0.0,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Uzbekistan",
+      "Group Stage": 100.0,
+      "Round of 32": 25.8,
+      "Round of 16": 11.0,
+      "Quarter-Final": 3.3,
+      "Semi-Final": 1.2,
+      "Finalist": 0.3,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Iraq",
+      "Group Stage": 100.0,
+      "Round of 32": 25.9,
+      "Round of 16": 8.8,
+      "Quarter-Final": 3.0,
+      "Semi-Final": 1.2,
+      "Finalist": 0.4,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Haiti",
+      "Group Stage": 100.0,
+      "Round of 32": 20.0,
+      "Round of 16": 2.4,
+      "Quarter-Final": 0.5,
+      "Semi-Final": 0.1,
+      "Finalist": 0.0,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Jordan",
+      "Group Stage": 100.0,
+      "Round of 32": 31.3,
+      "Round of 16": 7.4,
+      "Quarter-Final": 2.8,
+      "Semi-Final": 1.2,
+      "Finalist": 0.3,
+      "Champion": 0.1
+    },
+    {
+      "Team": "Tunisia",
+      "Group Stage": 100.0,
+      "Round of 32": 29.2,
+      "Round of 16": 10.1,
+      "Quarter-Final": 3.7,
+      "Semi-Final": 1.9,
+      "Finalist": 0.4,
+      "Champion": 0.1
+    },
+    {
+      "Team": "New Zealand",
+      "Group Stage": 100.0,
+      "Round of 32": 14.4,
+      "Round of 16": 3.3,
+      "Quarter-Final": 0.6,
+      "Semi-Final": 0.1,
+      "Finalist": 0.0,
+      "Champion": 0.0
+    },
+    {
+      "Team": "Cura\u00e7ao",
+      "Group Stage": 100.0,
+      "Round of 32": 24.2,
+      "Round of 16": 5.0,
+      "Quarter-Final": 1.0,
+      "Semi-Final": 0.2,
+      "Finalist": 0.0,
+      "Champion": 0.0
+    }
+  ],
+  "upset_probabilities": [
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Czech Republic",
+      "Upset_Prob": 58.0,
+      "Favorite_Elo": 1516.3,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "South Africa",
+      "Upset_Prob": 56.7,
+      "Favorite_Elo": 1519.5,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Ecuador",
+      "Upset_Prob": 56.6,
+      "Favorite_Elo": 1515.0,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "South Korea",
+      "Upset_Prob": 56.6,
+      "Favorite_Elo": 1537.1,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Iraq",
+      "Underdog": "Australia",
+      "Upset_Prob": 56.4,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1541.1
+    },
+    {
+      "Favorite": "Haiti",
+      "Underdog": "Scotland",
+      "Upset_Prob": 56.2,
+      "Favorite_Elo": 1450.2,
+      "Underdog_Elo": 1453.6
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Mexico",
+      "Upset_Prob": 55.9,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Jordan",
+      "Underdog": "Algeria",
+      "Upset_Prob": 55.5,
+      "Favorite_Elo": 1553.7,
+      "Underdog_Elo": 1564.7
+    },
+    {
+      "Favorite": "Norway",
+      "Underdog": "Australia",
+      "Upset_Prob": 55.1,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1544.2
+    },
+    {
+      "Favorite": "Bosnia and Herzegovina",
+      "Underdog": "Mexico",
+      "Upset_Prob": 54.8,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1514.0
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "Mexico",
+      "Upset_Prob": 54.7,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Egypt",
+      "Underdog": "Iran",
+      "Upset_Prob": 54.2,
+      "Favorite_Elo": 1566.9,
+      "Underdog_Elo": 1585.1
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "Australia",
+      "Upset_Prob": 54.1,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Portugal",
+      "Underdog": "Belgium",
+      "Upset_Prob": 53.4,
+      "Favorite_Elo": 1617.2,
+      "Underdog_Elo": 1633.2
+    },
+    {
+      "Favorite": "Jordan",
+      "Underdog": "Austria",
+      "Upset_Prob": 53.2,
+      "Favorite_Elo": 1562.5,
+      "Underdog_Elo": 1564.7
+    },
+    {
+      "Favorite": "Panama",
+      "Underdog": "United States",
+      "Upset_Prob": 52.9,
+      "Favorite_Elo": 1463.2,
+      "Underdog_Elo": 1467.9
+    },
+    {
+      "Favorite": "Sweden",
+      "Underdog": "Australia",
+      "Upset_Prob": 52.4,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1597.6
+    },
+    {
+      "Favorite": "Sweden",
+      "Underdog": "Iran",
+      "Upset_Prob": 52.3,
+      "Favorite_Elo": 1566.9,
+      "Underdog_Elo": 1597.6
+    },
+    {
+      "Favorite": "Haiti",
+      "Underdog": "Canada",
+      "Upset_Prob": 52.2,
+      "Favorite_Elo": 1449.7,
+      "Underdog_Elo": 1453.6
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "Norway",
+      "Upset_Prob": 51.8,
+      "Favorite_Elo": 1544.2,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "France",
+      "Underdog": "Colombia",
+      "Upset_Prob": 51.8,
+      "Favorite_Elo": 1665.7,
+      "Underdog_Elo": 1738.6
+    },
+    {
+      "Favorite": "Cape Verde",
+      "Underdog": "Australia",
+      "Upset_Prob": 51.3,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1546.1
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Qatar",
+      "Upset_Prob": 51.1,
+      "Favorite_Elo": 1502.0,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Ghana",
+      "Upset_Prob": 51.0,
+      "Favorite_Elo": 1518.6,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Egypt",
+      "Underdog": "Australia",
+      "Upset_Prob": 50.8,
+      "Favorite_Elo": 1530.3,
+      "Underdog_Elo": 1585.1
+    },
+    {
+      "Favorite": "England",
+      "Underdog": "Colombia",
+      "Upset_Prob": 50.7,
+      "Favorite_Elo": 1665.7,
+      "Underdog_Elo": 1680.1
+    },
+    {
+      "Favorite": "Portugal",
+      "Underdog": "Morocco",
+      "Upset_Prob": 50.5,
+      "Favorite_Elo": 1630.1,
+      "Underdog_Elo": 1633.2
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "Cape Verde",
+      "Upset_Prob": 50.5,
+      "Favorite_Elo": 1546.1,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Saudi Arabia",
+      "Upset_Prob": 50.3,
+      "Favorite_Elo": 1496.6,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "Cape Verde",
+      "Underdog": "Norway",
+      "Upset_Prob": 50.3,
+      "Favorite_Elo": 1544.2,
+      "Underdog_Elo": 1546.1
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "Iraq",
+      "Upset_Prob": 50.3,
+      "Favorite_Elo": 1541.1,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Cura\u00e7ao",
+      "Underdog": "Bosnia and Herzegovina",
+      "Upset_Prob": 50.2,
+      "Favorite_Elo": 1514.0,
+      "Underdog_Elo": 1520.9
+    },
+    {
+      "Favorite": "France",
+      "Underdog": "Netherlands",
+      "Upset_Prob": 49.9,
+      "Favorite_Elo": 1710.3,
+      "Underdog_Elo": 1738.6
+    },
+    {
+      "Favorite": "Jordan",
+      "Underdog": "Mexico",
+      "Upset_Prob": 49.3,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1564.7
+    },
+    {
+      "Favorite": "Iraq",
+      "Underdog": "Mexico",
+      "Upset_Prob": 49.0,
+      "Favorite_Elo": 1541.1,
+      "Underdog_Elo": 1509.0
+    },
+    {
+      "Favorite": "Netherlands",
+      "Underdog": "Portugal",
+      "Upset_Prob": 48.7,
+      "Favorite_Elo": 1633.2,
+      "Underdog_Elo": 1710.3
+    },
+    {
+      "Favorite": "Ecuador",
+      "Underdog": "Mexico",
+      "Upset_Prob": 48.4,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1515.0
+    },
+    {
+      "Favorite": "France",
+      "Underdog": "Germany",
+      "Upset_Prob": 48.3,
+      "Favorite_Elo": 1648.4,
+      "Underdog_Elo": 1738.6
+    },
+    {
+      "Favorite": "Sweden",
+      "Underdog": "Ivory Coast",
+      "Upset_Prob": 47.9,
+      "Favorite_Elo": 1595.9,
+      "Underdog_Elo": 1597.6
+    },
+    {
+      "Favorite": "Bosnia and Herzegovina",
+      "Underdog": "Qatar",
+      "Upset_Prob": 47.5,
+      "Favorite_Elo": 1502.0,
+      "Underdog_Elo": 1514.0
+    },
+    {
+      "Favorite": "Egypt",
+      "Underdog": "Austria",
+      "Upset_Prob": 47.4,
+      "Favorite_Elo": 1562.5,
+      "Underdog_Elo": 1585.1
+    },
+    {
+      "Favorite": "Switzerland",
+      "Underdog": "Japan",
+      "Upset_Prob": 47.3,
+      "Favorite_Elo": 1598.9,
+      "Underdog_Elo": 1603.3
+    },
+    {
+      "Favorite": "Uzbekistan",
+      "Underdog": "United States",
+      "Upset_Prob": 47.2,
+      "Favorite_Elo": 1463.2,
+      "Underdog_Elo": 1552.1
+    },
+    {
+      "Favorite": "Cape Verde",
+      "Underdog": "Mexico",
+      "Upset_Prob": 47.2,
+      "Favorite_Elo": 1546.1,
+      "Underdog_Elo": 1509.0
+    },
+    {
+      "Favorite": "Ivory Coast",
+      "Underdog": "Iran",
+      "Upset_Prob": 47.2,
+      "Favorite_Elo": 1566.9,
+      "Underdog_Elo": 1595.9
+    },
+    {
+      "Favorite": "Ghana",
+      "Underdog": "Mexico",
+      "Upset_Prob": 47.1,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1518.6
+    },
+    {
+      "Favorite": "Cape Verde",
+      "Underdog": "United States",
+      "Upset_Prob": 47.1,
+      "Favorite_Elo": 1463.2,
+      "Underdog_Elo": 1546.1
+    },
+    {
+      "Favorite": "Iraq",
+      "Underdog": "Mexico",
+      "Upset_Prob": 47.1,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1541.1
+    },
+    {
+      "Favorite": "Sweden",
+      "Underdog": "Egypt",
+      "Upset_Prob": 47.0,
+      "Favorite_Elo": 1585.1,
+      "Underdog_Elo": 1597.6
+    },
+    {
+      "Favorite": "Cape Verde",
+      "Underdog": "Mexico",
+      "Upset_Prob": 46.9,
+      "Favorite_Elo": 1509.0,
+      "Underdog_Elo": 1546.1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+Match_ID,Round,Team1,Team2,Most_Likely_Winner,Probability,Slot_Coverage
+73,Round of 32,South Korea,Qatar,South Korea,51.5,11.0
+74,Round of 32,Germany,Ecuador,Germany,64.1,2.8
+75,Round of 32,Netherlands,Morocco,Netherlands,57.6,20.0
+76,Round of 32,Brazil,Japan,Brazil,58.3,15.0
+77,Round of 32,France,Senegal,France,65.0,2.3
+78,Round of 32,Ivory Coast,Senegal,Senegal,60.6,12.1
+79,Round of 32,South Africa,Czech Republic,Czech Republic,56.7,1.9
+80,Round of 32,England,Ghana,England,80.0,2.0
+81,Round of 32,Turkey,Australia,Australia,59.2,2.0
+82,Round of 32,Egypt,Iran,Iran,60.3,2.4
+83,Round of 32,Portugal,Croatia,Portugal,54.1,13.3
+84,Round of 32,Spain,Austria,Spain,77.8,21.2
+85,Round of 32,Qatar,Switzerland,Switzerland,64.0,2.3
+86,Round of 32,Argentina,Uruguay,Argentina,66.4,28.8
+87,Round of 32,Colombia,DR Congo,Colombia,75.7,2.1
+88,Round of 32,Turkey,Belgium,Belgium,64.2,9.4
+89,Round of 16,Germany,France,France,51.7,16.0
+90,Round of 16,Qatar,Netherlands,Netherlands,75.8,6.3
+91,Round of 16,Brazil,Senegal,Brazil,57.5,7.5
+92,Round of 16,South Korea,England,England,71.4,5.8
+93,Round of 16,Portugal,Spain,Spain,65.5,10.6
+94,Round of 16,Australia,Belgium,Belgium,63.8,5.7
+95,Round of 16,Argentina,Belgium,Argentina,70.5,9.7
+96,Round of 16,Switzerland,Colombia,Colombia,66.0,12.7
+97,Quarter-Final,France,Netherlands,France,56.8,6.6
+98,Quarter-Final,Spain,Belgium,Spain,73.9,6.1
+99,Quarter-Final,Brazil,England,Brazil,55.9,6.1
+100,Quarter-Final,Argentina,Colombia,Argentina,64.4,9.8
+101,Semi-Final,France,Spain,Spain,53.1,5.4
+102,Semi-Final,England,Argentina,Argentina,59.2,4.3
+103,Final,Spain,Argentina,Spain,59.1,3.7

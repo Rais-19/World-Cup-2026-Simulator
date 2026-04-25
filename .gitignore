@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+myenv/
+.env
+*.local
+.DS_Store
+.huggingface/
+.vscode/
+.idea/
+.streamlit/secrets.toml
+*.zip
+*.tar.gz

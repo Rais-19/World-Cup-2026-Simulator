@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+python-multipart
+pydantic
+pillow

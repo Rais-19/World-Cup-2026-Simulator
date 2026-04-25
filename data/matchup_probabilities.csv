@@ -1,0 +1,2257 @@
+Home,Away,Home_Win_Prob,Draw_Prob,Away_Win_Prob,Expected_Home_Goals,Expected_Away_Goals
+Cape Verde,Ghana,41.1,25.2,33.7,1.2,0.97
+Cape Verde,Iran,25.2,22.4,52.4,0.91,1.52
+Cape Verde,Bosnia and Herzegovina,45.8,17.8,36.4,1.25,0.99
+Cape Verde,Sweden,34.0,24.4,41.7,0.98,1.29
+Cape Verde,DR Congo,52.1,20.7,27.2,1.21,1.11
+Cape Verde,Colombia,10.3,13.7,76.0,0.77,1.8
+Cape Verde,Spain,7.8,25.3,66.8,0.67,1.91
+Cape Verde,Haiti,63.8,20.1,16.2,1.58,0.58
+Cape Verde,Canada,55.5,18.5,26.0,1.24,1.42
+Cape Verde,Senegal,15.4,13.7,70.9,0.84,1.63
+Cape Verde,Brazil,14.5,16.7,68.8,0.77,1.71
+Cape Verde,Netherlands,11.9,19.7,68.4,0.75,1.67
+Cape Verde,England,12.8,18.5,68.8,0.78,1.68
+Cape Verde,Croatia,22.6,29.0,48.4,0.88,1.39
+Cape Verde,Norway,47.2,22.4,30.4,1.08,1.25
+Cape Verde,Tunisia,45.8,25.6,28.6,1.11,1.17
+Cape Verde,Ivory Coast,27.9,22.2,49.9,0.99,1.28
+Cape Verde,Portugal,20.6,16.5,62.9,0.83,1.6
+Cape Verde,Panama,53.7,19.5,26.9,1.3,0.89
+Cape Verde,Austria,34.2,22.4,43.4,0.95,1.38
+Cape Verde,Uzbekistan,50.5,16.0,33.4,1.26,1.04
+Cape Verde,South Africa,51.3,17.5,31.2,1.24,1.02
+Cape Verde,Egypt,32.0,23.3,44.7,1.01,1.3
+Cape Verde,Japan,20.1,25.3,54.7,0.84,1.54
+Cape Verde,Switzerland,22.5,15.8,61.7,0.89,1.51
+Cape Verde,Argentina,7.7,16.0,76.3,0.69,1.95
+Cape Verde,Uruguay,16.6,14.9,68.5,0.84,1.65
+Cape Verde,Germany,10.2,14.4,75.4,0.78,1.72
+Cape Verde,Ecuador,48.4,22.2,29.4,1.04,1.28
+Cape Verde,Morocco,14.3,20.0,65.7,0.82,1.75
+Cape Verde,Belgium,29.5,18.3,52.2,0.87,1.54
+Cape Verde,United States,43.6,21.2,35.2,1.02,1.36
+Cape Verde,France,16.5,17.9,65.6,0.75,1.75
+Cape Verde,Czech Republic,44.8,24.4,30.8,1.09,1.26
+Cape Verde,Scotland,54.4,26.6,19.0,1.22,1.41
+Cape Verde,Turkey,43.6,23.9,32.5,1.04,1.23
+Cape Verde,New Zealand,54.3,26.3,19.5,1.52,0.69
+Cape Verde,South Korea,37.3,31.0,31.7,0.96,1.32
+Cape Verde,Qatar,48.4,18.0,33.6,1.06,1.29
+Cape Verde,Jordan,39.2,16.4,44.4,1.18,1.06
+Cape Verde,Paraguay,50.9,29.5,19.6,1.23,0.94
+Cape Verde,Australia,41.7,18.5,39.8,0.97,1.47
+Cape Verde,Iraq,43.8,18.0,38.1,1.21,1.05
+Cape Verde,Algeria,39.8,19.9,40.3,1.04,1.33
+Cape Verde,Mexico,29.4,23.3,47.2,1.01,1.37
+Cape Verde,Saudi Arabia,45.0,20.2,34.8,1.24,1.05
+Cape Verde,Curaçao,55.1,23.2,21.8,1.59,0.74
+Ghana,Cape Verde,31.5,26.8,41.7,1.22,1.13
+Ghana,Iran,25.1,34.3,40.6,0.91,1.65
+Ghana,Bosnia and Herzegovina,34.5,26.9,38.5,1.25,1.08
+Ghana,Sweden,32.7,30.7,36.6,0.98,1.4
+Ghana,DR Congo,38.8,27.3,33.9,1.22,1.2
+Ghana,Colombia,12.0,26.9,61.1,0.78,1.96
+Ghana,Spain,8.0,34.9,57.1,0.68,2.08
+Ghana,Haiti,61.0,24.0,15.0,1.58,0.63
+Ghana,Canada,44.9,23.1,32.1,1.24,1.19
+Ghana,Senegal,15.5,29.6,54.9,0.84,1.77
+Ghana,Brazil,15.4,20.0,64.6,0.78,1.86
+Ghana,Netherlands,13.7,24.5,61.8,0.75,1.81
+Ghana,England,13.2,21.4,65.3,0.78,1.83
+Ghana,Croatia,28.9,30.4,40.8,0.88,1.51
+Ghana,Norway,37.2,31.1,31.6,1.09,1.32
+Ghana,Tunisia,38.1,27.3,34.5,1.11,1.27
+Ghana,Ivory Coast,28.0,29.6,42.4,1.0,1.39
+Ghana,Portugal,19.2,14.8,66.0,0.83,1.74
+Ghana,Panama,44.4,26.2,29.4,1.31,0.96
+Ghana,Austria,26.9,34.7,38.4,0.96,1.5
+Ghana,Uzbekistan,32.8,32.0,35.2,1.26,1.13
+Ghana,South Africa,32.3,25.6,42.2,1.24,1.11
+Ghana,Egypt,29.8,25.9,44.3,1.01,1.41
+Ghana,Japan,26.2,37.4,36.4,0.84,1.68
+Ghana,Switzerland,24.7,27.1,48.2,0.89,1.64
+Ghana,Argentina,8.3,27.0,64.7,0.69,2.12
+Ghana,Uruguay,16.4,27.2,56.4,0.84,1.79
+Ghana,Germany,11.2,22.6,66.2,0.79,1.87
+Ghana,Ecuador,40.8,27.5,31.7,1.04,1.4
+Ghana,Morocco,12.5,33.7,53.7,0.83,1.91
+Ghana,Belgium,24.0,17.7,58.2,0.88,1.67
+Ghana,United States,44.2,23.9,31.9,1.03,1.48
+Ghana,France,18.6,22.4,59.0,0.75,1.91
+Ghana,Czech Republic,37.6,27.2,35.2,1.1,1.28
+Ghana,Scotland,49.6,28.9,21.5,1.23,1.1
+Ghana,Turkey,35.1,31.6,33.3,1.04,1.34
+Ghana,New Zealand,41.3,37.6,21.1,1.53,0.75
+Ghana,South Korea,32.0,38.0,30.0,0.97,1.44
+Ghana,Qatar,37.5,26.1,36.4,1.06,1.41
+Ghana,Jordan,30.1,28.0,41.8,1.19,1.15
+Ghana,Paraguay,38.2,34.2,27.6,1.24,1.03
+Ghana,Australia,33.1,32.1,34.8,0.97,1.6
+Ghana,Iraq,32.3,28.8,38.9,1.21,1.15
+Ghana,Algeria,30.6,31.3,38.1,1.05,1.45
+Ghana,Mexico,36.0,27.4,36.5,1.02,1.49
+Ghana,Saudi Arabia,38.4,25.6,36.0,1.25,1.14
+Ghana,Curaçao,51.0,28.3,20.7,1.6,0.8
+Iran,Cape Verde,60.5,21.6,17.9,1.46,0.91
+Iran,Ghana,57.8,22.0,20.2,1.44,0.86
+Iran,Bosnia and Herzegovina,59.1,20.5,20.4,1.5,0.87
+Iran,Sweden,52.3,15.2,32.6,1.17,1.13
+Iran,DR Congo,61.7,18.1,20.2,1.46,0.97
+Iran,Colombia,21.3,13.0,65.6,0.93,1.58
+Iran,Spain,10.3,19.2,70.6,0.81,1.69
+Iran,Haiti,70.3,16.2,13.5,1.89,0.51
+Iran,Canada,63.9,18.8,17.3,1.48,0.96
+Iran,Senegal,26.9,16.8,56.3,1.01,1.44
+Iran,Brazil,23.0,12.7,64.3,0.93,1.51
+Iran,Netherlands,20.8,17.6,61.5,0.9,1.47
+Iran,England,21.2,12.2,66.5,0.93,1.48
+Iran,Croatia,34.1,25.9,40.0,1.05,1.22
+Iran,Norway,62.6,15.2,22.2,1.3,1.07
+Iran,Tunisia,61.6,16.7,21.7,1.33,1.03
+Iran,Ivory Coast,47.2,11.5,41.4,1.19,1.13
+Iran,Portugal,39.1,13.8,47.1,1.0,1.41
+Iran,Panama,68.3,19.1,12.6,1.56,0.78
+Iran,Austria,44.1,16.9,39.0,1.14,1.22
+Iran,Uzbekistan,66.1,20.7,13.2,1.51,0.92
+Iran,South Africa,59.6,20.0,20.4,1.48,0.9
+Iran,Egypt,54.2,12.0,33.8,1.21,1.14
+Iran,Japan,29.8,22.9,47.4,1.0,1.36
+Iran,Switzerland,36.2,15.3,48.5,1.07,1.33
+Iran,Argentina,11.5,13.4,75.1,0.83,1.72
+Iran,Uruguay,31.3,18.3,50.4,1.01,1.45
+Iran,Germany,30.5,15.5,54.1,0.94,1.52
+Iran,Ecuador,52.8,16.7,30.5,1.24,1.13
+Iran,Morocco,23.8,23.2,53.0,0.99,1.55
+Iran,Belgium,46.5,15.0,38.5,1.05,1.35
+Iran,United States,55.0,17.0,28.0,1.22,1.2
+Iran,France,27.0,16.5,56.5,0.9,1.55
+Iran,Czech Republic,57.9,16.9,25.2,1.31,1.04
+Iran,Scotland,70.1,17.8,12.1,1.47,0.89
+Iran,Turkey,53.1,19.1,27.9,1.24,1.09
+Iran,New Zealand,69.1,16.9,14.0,1.83,0.61
+Iran,South Korea,42.8,19.7,37.5,1.16,1.16
+Iran,Qatar,61.6,12.2,26.2,1.27,1.14
+Iran,Jordan,59.3,17.4,23.3,1.42,0.93
+Iran,Paraguay,67.0,18.2,14.8,1.48,0.83
+Iran,Australia,50.0,14.5,35.6,1.16,1.3
+Iran,Iraq,62.6,18.4,19.1,1.45,0.93
+Iran,Algeria,58.6,14.4,27.0,1.25,1.17
+Iran,Mexico,54.7,14.6,30.7,1.21,1.21
+Iran,Saudi Arabia,64.1,16.1,19.9,1.49,0.92
+Iran,Curaçao,66.7,18.8,14.5,1.91,0.65
+Bosnia and Herzegovina,Cape Verde,32.4,24.1,43.6,1.18,1.14
+Bosnia and Herzegovina,Ghana,32.7,28.3,39.1,1.16,1.07
+Bosnia and Herzegovina,Iran,23.3,29.5,47.2,0.88,1.67
+Bosnia and Herzegovina,Sweden,28.3,29.9,41.8,0.95,1.41
+Bosnia and Herzegovina,DR Congo,34.6,32.8,32.6,1.18,1.22
+Bosnia and Herzegovina,Colombia,9.6,22.1,68.3,0.75,1.98
+Bosnia and Herzegovina,Spain,6.7,31.7,61.6,0.65,2.1
+Bosnia and Herzegovina,Haiti,58.9,22.7,18.4,1.53,0.64
+Bosnia and Herzegovina,Canada,50.0,21.7,28.2,1.2,1.2
+Bosnia and Herzegovina,Senegal,14.1,23.8,62.2,0.82,1.79
+Bosnia and Herzegovina,Brazil,11.1,21.9,67.0,0.75,1.88
+Bosnia and Herzegovina,Netherlands,10.2,23.5,66.2,0.73,1.83
+Bosnia and Herzegovina,England,10.7,23.7,65.6,0.75,1.85
+Bosnia and Herzegovina,Croatia,23.4,34.9,41.8,0.85,1.52
+Bosnia and Herzegovina,Norway,31.5,36.7,31.8,1.05,1.34
+Bosnia and Herzegovina,Tunisia,32.8,33.3,33.9,1.07,1.28
+Bosnia and Herzegovina,Ivory Coast,29.8,26.5,43.7,0.96,1.41
+Bosnia and Herzegovina,Portugal,14.5,15.7,69.8,0.81,1.76
+Bosnia and Herzegovina,Panama,38.4,22.4,39.2,1.26,0.97
+Bosnia and Herzegovina,Austria,26.0,30.2,43.8,0.92,1.52
+Bosnia and Herzegovina,Uzbekistan,33.3,30.0,36.7,1.22,1.14
+Bosnia and Herzegovina,South Africa,37.0,24.6,38.4,1.2,1.12
+Bosnia and Herzegovina,Egypt,30.6,28.4,41.0,0.98,1.43
+Bosnia and Herzegovina,Japan,18.8,33.2,47.9,0.81,1.7
+Bosnia and Herzegovina,Switzerland,21.4,24.5,54.1,0.86,1.66
+Bosnia and Herzegovina,Argentina,6.6,26.4,67.1,0.67,2.14
+Bosnia and Herzegovina,Uruguay,14.1,20.2,65.7,0.81,1.81
+Bosnia and Herzegovina,Germany,9.6,19.2,71.3,0.76,1.89
+Bosnia and Herzegovina,Ecuador,37.1,30.8,32.1,1.01,1.41
+Bosnia and Herzegovina,Morocco,10.3,26.6,63.1,0.8,1.93
+Bosnia and Herzegovina,Belgium,17.8,20.4,61.8,0.85,1.69
+Bosnia and Herzegovina,United States,32.3,28.9,38.7,0.99,1.5
+Bosnia and Herzegovina,France,14.4,26.6,58.9,0.73,1.93
+Bosnia and Herzegovina,Czech Republic,36.2,32.2,31.6,1.06,1.29
+Bosnia and Herzegovina,Scotland,46.6,32.8,20.7,1.19,1.11
+Bosnia and Herzegovina,Turkey,33.6,33.6,32.8,1.0,1.36
+Bosnia and Herzegovina,New Zealand,42.9,29.5,27.5,1.48,0.76
+Bosnia and Herzegovina,South Korea,28.0,40.9,31.1,0.93,1.45
+Bosnia and Herzegovina,Qatar,38.9,25.6,35.5,1.03,1.42
+Bosnia and Herzegovina,Jordan,32.6,26.0,41.4,1.15,1.17
+Bosnia and Herzegovina,Paraguay,32.6,38.7,28.7,1.2,1.04
+Bosnia and Herzegovina,Australia,32.5,26.5,41.0,0.94,1.62
+Bosnia and Herzegovina,Iraq,31.3,25.3,43.4,1.17,1.16
+Bosnia and Herzegovina,Algeria,27.5,31.7,40.9,1.01,1.46
+Bosnia and Herzegovina,Mexico,33.2,27.9,39.0,0.98,1.51
+Bosnia and Herzegovina,Saudi Arabia,36.3,29.2,34.5,1.2,1.15
+Bosnia and Herzegovina,Curaçao,50.2,24.2,25.6,1.54,0.81
+Sweden,Cape Verde,58.3,19.4,22.4,1.53,0.9
+Sweden,Ghana,56.4,22.2,21.4,1.51,0.85
+Sweden,Iran,46.0,18.8,35.2,1.15,1.32
+Sweden,Bosnia and Herzegovina,58.0,20.0,22.0,1.57,0.86
+Sweden,DR Congo,55.5,23.4,21.2,1.53,0.96
+Sweden,Colombia,23.6,17.6,58.9,0.97,1.57
+Sweden,Spain,11.1,23.4,65.4,0.85,1.67
+Sweden,Haiti,62.9,20.8,16.3,1.98,0.51
+Sweden,Canada,54.4,25.4,20.1,1.56,0.95
+Sweden,Senegal,26.0,19.2,54.8,1.06,1.42
+Sweden,Brazil,27.3,17.4,55.3,0.97,1.49
+Sweden,Netherlands,24.2,19.3,56.6,0.94,1.45
+Sweden,England,26.9,19.4,53.7,0.98,1.47
+Sweden,Croatia,38.1,31.1,30.8,1.1,1.21
+Sweden,Norway,54.7,22.5,22.8,1.37,1.06
+Sweden,Tunisia,59.2,21.5,19.3,1.39,1.02
+Sweden,Ivory Coast,47.8,15.4,36.8,1.25,1.11
+Sweden,Portugal,37.4,18.1,44.6,1.05,1.4
+Sweden,Panama,64.8,18.4,16.8,1.64,0.77
+Sweden,Austria,48.6,18.0,33.4,1.2,1.2
+Sweden,Uzbekistan,58.1,22.8,19.1,1.58,0.91
+Sweden,South Africa,55.0,22.9,22.1,1.56,0.89
+Sweden,Egypt,51.8,14.1,34.1,1.27,1.13
+Sweden,Japan,39.9,24.8,35.3,1.05,1.35
+Sweden,Switzerland,45.2,18.8,35.9,1.12,1.32
+Sweden,Argentina,12.9,22.6,64.5,0.87,1.7
+Sweden,Uruguay,28.4,17.8,53.8,1.06,1.44
+Sweden,Germany,29.0,17.3,53.7,0.99,1.5
+Sweden,Ecuador,56.4,17.3,26.3,1.3,1.12
+Sweden,Morocco,24.4,25.1,50.5,1.04,1.53
+Sweden,Belgium,45.3,21.7,33.0,1.1,1.34
+Sweden,United States,56.1,19.2,24.6,1.28,1.19
+Sweden,France,29.2,22.4,48.4,0.95,1.53
+Sweden,Czech Republic,54.8,21.1,24.1,1.37,1.02
+Sweden,Scotland,60.9,26.6,12.6,1.54,0.88
+Sweden,Turkey,51.0,17.9,31.1,1.3,1.08
+Sweden,New Zealand,65.7,18.9,15.5,1.92,0.6
+Sweden,South Korea,52.5,26.3,21.2,1.21,1.15
+Sweden,Qatar,54.4,16.0,29.6,1.33,1.13
+Sweden,Jordan,59.1,16.7,24.2,1.49,0.92
+Sweden,Paraguay,57.3,23.9,18.8,1.55,0.82
+Sweden,Australia,56.6,16.4,27.0,1.22,1.28
+Sweden,Iraq,59.7,18.4,21.9,1.52,0.92
+Sweden,Algeria,53.5,17.2,29.3,1.31,1.16
+Sweden,Mexico,52.4,20.4,27.2,1.27,1.19
+Sweden,Saudi Arabia,51.1,24.9,24.0,1.56,0.91
+Sweden,Curaçao,67.8,16.5,15.6,2.0,0.64
+DR Congo,Cape Verde,41.3,20.5,38.2,1.24,1.1
+DR Congo,Ghana,38.8,21.2,40.0,1.22,1.03
+DR Congo,Iran,24.6,28.6,46.8,0.93,1.61
+DR Congo,Bosnia and Herzegovina,50.0,19.8,30.2,1.27,1.05
+DR Congo,Sweden,35.4,26.7,37.9,1.0,1.36
+DR Congo,Colombia,13.5,20.4,66.1,0.79,1.9
+DR Congo,Spain,9.0,25.1,66.0,0.69,2.03
+DR Congo,Haiti,65.0,17.9,17.2,1.6,0.62
+DR Congo,Canada,46.9,25.0,28.1,1.26,1.15
+DR Congo,Senegal,17.9,19.3,62.9,0.86,1.73
+DR Congo,Brazil,16.8,15.5,67.7,0.79,1.81
+DR Congo,Netherlands,13.8,17.3,68.9,0.76,1.76
+DR Congo,England,15.0,15.4,69.6,0.79,1.78
+DR Congo,Croatia,28.5,30.5,41.0,0.89,1.47
+DR Congo,Norway,40.4,30.5,29.1,1.1,1.29
+DR Congo,Tunisia,36.7,33.4,29.9,1.12,1.24
+DR Congo,Ivory Coast,28.7,21.9,49.4,1.01,1.35
+DR Congo,Portugal,22.8,15.1,62.1,0.85,1.69
+DR Congo,Panama,62.9,17.1,20.0,1.32,0.94
+DR Congo,Austria,28.6,28.6,42.8,0.97,1.46
+DR Congo,Uzbekistan,44.8,23.2,32.0,1.28,1.1
+DR Congo,South Africa,42.1,20.5,37.4,1.26,1.08
+DR Congo,Egypt,35.9,21.4,42.7,1.03,1.37
+DR Congo,Japan,27.7,33.0,39.3,0.85,1.63
+DR Congo,Switzerland,29.2,25.8,45.0,0.9,1.6
+DR Congo,Argentina,7.7,17.1,75.2,0.7,2.06
+DR Congo,Uruguay,20.8,19.9,59.4,0.85,1.75
+DR Congo,Germany,18.2,18.0,63.8,0.8,1.82
+DR Congo,Ecuador,41.9,28.9,29.2,1.05,1.36
+DR Congo,Morocco,17.8,30.5,51.7,0.84,1.86
+DR Congo,Belgium,26.9,20.1,53.0,0.89,1.63
+DR Congo,United States,48.8,22.1,29.1,1.04,1.44
+DR Congo,France,16.9,17.2,66.0,0.76,1.86
+DR Congo,Czech Republic,38.3,29.7,32.0,1.11,1.24
+DR Congo,Scotland,48.4,33.5,18.1,1.24,1.07
+DR Congo,Turkey,38.6,30.4,31.0,1.05,1.31
+DR Congo,New Zealand,47.2,27.9,25.0,1.55,0.73
+DR Congo,South Korea,31.3,41.2,27.5,0.98,1.4
+DR Congo,Qatar,46.3,23.2,30.5,1.08,1.37
+DR Congo,Jordan,38.0,21.1,40.9,1.21,1.12
+DR Congo,Paraguay,37.8,34.7,27.5,1.26,1.0
+DR Congo,Australia,39.2,26.8,34.1,0.98,1.56
+DR Congo,Iraq,40.3,21.4,38.3,1.23,1.12
+DR Congo,Algeria,36.1,26.6,37.3,1.06,1.41
+DR Congo,Mexico,42.4,25.2,32.4,1.03,1.45
+DR Congo,Saudi Arabia,38.0,23.3,38.7,1.26,1.11
+DR Congo,Curaçao,59.8,18.8,21.4,1.62,0.78
+Colombia,Cape Verde,75.0,11.1,13.8,1.72,0.68
+Colombia,Ghana,67.4,17.4,15.2,1.69,0.64
+Colombia,Iran,59.8,10.4,29.8,1.28,0.99
+Colombia,Bosnia and Herzegovina,70.1,12.9,17.0,1.76,0.65
+Colombia,Sweden,66.6,12.1,21.3,1.38,0.84
+Colombia,DR Congo,69.1,17.1,13.8,1.71,0.72
+Colombia,Spain,20.9,19.9,59.2,0.95,1.25
+Colombia,Haiti,71.4,15.3,13.2,2.22,0.4
+Colombia,Canada,69.2,16.5,14.3,1.75,0.71
+Colombia,Senegal,50.8,11.1,38.2,1.19,1.07
+Colombia,Brazil,46.5,12.9,40.6,1.09,1.12
+Colombia,Netherlands,42.4,14.5,43.1,1.06,1.09
+Colombia,England,50.7,12.7,36.6,1.1,1.1
+Colombia,Croatia,52.6,19.5,27.9,1.23,0.91
+Colombia,Norway,74.3,12.0,13.8,1.53,0.8
+Colombia,Tunisia,73.9,10.8,15.3,1.56,0.76
+Colombia,Ivory Coast,65.6,10.6,23.8,1.4,0.84
+Colombia,Portugal,52.6,11.4,36.0,1.17,1.05
+Colombia,Panama,73.6,10.5,15.9,1.83,0.58
+Colombia,Austria,66.5,8.9,24.6,1.34,0.9
+Colombia,Uzbekistan,77.8,10.3,11.9,1.77,0.68
+Colombia,South Africa,66.9,19.8,13.3,1.74,0.67
+Colombia,Egypt,66.7,10.6,22.6,1.42,0.85
+Colombia,Japan,52.5,13.2,34.3,1.18,1.01
+Colombia,Switzerland,63.1,11.3,25.6,1.25,0.99
+Colombia,Argentina,25.5,16.7,57.8,0.97,1.27
+Colombia,Uruguay,55.5,11.3,33.2,1.18,1.08
+Colombia,Germany,42.3,11.3,46.4,1.11,1.13
+Colombia,Ecuador,73.7,10.5,15.8,1.46,0.84
+Colombia,Morocco,47.1,16.9,36.0,1.16,1.15
+Colombia,Belgium,55.7,13.8,30.5,1.23,1.0
+Colombia,United States,65.7,12.3,22.0,1.44,0.89
+Colombia,France,51.8,13.7,34.4,1.06,1.15
+Colombia,Czech Republic,72.4,10.8,16.7,1.54,0.77
+Colombia,Scotland,76.7,14.0,9.3,1.72,0.66
+Colombia,Turkey,72.7,9.6,17.7,1.46,0.81
+Colombia,New Zealand,68.9,18.1,12.9,2.15,0.45
+Colombia,South Korea,72.2,11.5,16.3,1.36,0.86
+Colombia,Qatar,72.5,9.4,18.1,1.49,0.85
+Colombia,Jordan,67.5,15.3,17.2,1.67,0.69
+Colombia,Paraguay,75.0,13.8,11.2,1.74,0.62
+Colombia,Australia,69.1,8.5,22.4,1.36,0.96
+Colombia,Iraq,72.8,11.1,16.2,1.7,0.69
+Colombia,Algeria,73.7,9.0,17.3,1.47,0.87
+Colombia,Mexico,68.1,11.3,20.6,1.43,0.89
+Colombia,Saudi Arabia,67.8,15.6,16.6,1.75,0.69
+Colombia,Curaçao,69.6,16.1,14.4,2.24,0.48
+Spain,Cape Verde,65.3,15.6,19.1,2.11,0.51
+Spain,Ghana,75.2,11.7,13.1,2.08,0.48
+Spain,Iran,65.9,10.2,23.9,1.58,0.75
+Spain,Bosnia and Herzegovina,69.2,14.9,15.9,2.16,0.49
+Spain,Sweden,61.1,16.8,22.0,1.7,0.63
+Spain,DR Congo,65.4,15.9,18.7,2.1,0.54
+Spain,Colombia,57.2,10.9,31.9,1.34,0.88
+Spain,Haiti,71.2,16.6,12.2,2.73,0.4
+Spain,Canada,66.9,19.4,13.7,2.14,0.54
+Spain,Senegal,60.2,11.2,28.7,1.46,0.8
+Spain,Brazil,48.9,12.8,38.3,1.34,0.84
+Spain,Netherlands,41.7,11.9,46.4,1.3,0.82
+Spain,England,50.2,13.5,36.3,1.34,0.83
+Spain,Croatia,58.4,17.9,23.7,1.52,0.68
+Spain,Norway,64.3,14.9,20.8,1.88,0.6
+Spain,Tunisia,67.5,14.2,18.3,1.91,0.57
+Spain,Ivory Coast,62.9,14.7,22.4,1.72,0.63
+Spain,Portugal,62.9,13.2,23.9,1.44,0.79
+Spain,Panama,74.5,12.2,13.3,2.25,0.44
+Spain,Austria,65.4,11.6,22.9,1.65,0.68
+Spain,Uzbekistan,71.1,12.2,16.7,2.18,0.51
+Spain,South Africa,71.9,12.7,15.4,2.14,0.5
+Spain,Egypt,66.0,11.9,22.0,1.75,0.64
+Spain,Japan,58.7,12.5,28.8,1.45,0.76
+Spain,Switzerland,63.4,13.2,23.4,1.54,0.74
+Spain,Argentina,42.3,11.4,46.3,1.19,0.96
+Spain,Uruguay,59.5,10.3,30.2,1.45,0.81
+Spain,Germany,54.0,11.9,34.1,1.36,0.85
+Spain,Ecuador,70.9,12.1,17.0,1.79,0.63
+Spain,Morocco,57.8,17.0,25.2,1.43,0.86
+Spain,Belgium,62.1,14.9,23.1,1.51,0.76
+Spain,United States,62.8,16.5,20.8,1.77,0.67
+Spain,France,45.3,12.6,42.2,1.3,0.86
+Spain,Czech Republic,67.4,13.7,18.9,1.89,0.58
+Spain,Scotland,73.6,16.3,10.1,2.12,0.5
+Spain,Turkey,68.7,10.9,20.4,1.79,0.61
+Spain,New Zealand,71.2,17.1,11.7,2.63,0.4
+Spain,South Korea,69.8,11.9,18.2,1.67,0.65
+Spain,Qatar,68.5,10.9,20.5,1.83,0.64
+Spain,Jordan,67.1,15.4,17.5,2.05,0.52
+Spain,Paraguay,71.6,16.4,12.0,2.14,0.46
+Spain,Australia,69.6,9.9,20.5,1.67,0.72
+Spain,Iraq,71.2,11.9,16.9,2.09,0.52
+Spain,Algeria,68.1,12.0,20.0,1.8,0.65
+Spain,Mexico,60.2,15.2,24.6,1.75,0.67
+Spain,Saudi Arabia,62.3,18.4,19.4,2.15,0.52
+Spain,Curaçao,66.1,18.8,15.1,2.75,0.4
+Haiti,Cape Verde,12.2,24.6,63.2,1.06,1.51
+Haiti,Ghana,16.7,16.7,66.6,1.05,1.42
+Haiti,Iran,6.5,18.4,75.1,0.79,2.21
+Haiti,Bosnia and Herzegovina,18.9,18.9,62.3,1.09,1.44
+Haiti,Sweden,8.1,10.8,81.1,0.85,1.87
+Haiti,DR Congo,23.5,24.1,52.5,1.06,1.61
+Haiti,Colombia,8.2,13.4,78.4,0.67,2.61
+Haiti,Spain,9.0,26.1,64.9,0.59,2.78
+Haiti,Canada,32.3,29.4,38.3,1.08,1.58
+Haiti,Senegal,9.2,14.1,76.7,0.73,2.37
+Haiti,Brazil,8.0,16.4,75.6,0.67,2.49
+Haiti,Netherlands,7.5,15.8,76.8,0.65,2.42
+Haiti,England,7.9,16.7,75.4,0.68,2.45
+Haiti,Croatia,9.6,15.9,74.5,0.76,2.01
+Haiti,Norway,7.1,15.8,77.1,0.95,1.77
+Haiti,Tunisia,23.0,21.0,56.0,0.96,1.7
+Haiti,Ivory Coast,11.2,23.1,65.7,0.87,1.86
+Haiti,Portugal,5.8,18.2,76.0,0.72,2.33
+Haiti,Panama,24.1,22.5,53.4,1.13,1.29
+Haiti,Austria,5.7,18.2,76.1,0.83,2.0
+Haiti,Uzbekistan,13.1,26.5,60.4,1.1,1.51
+Haiti,South Africa,19.3,19.0,61.7,1.08,1.48
+Haiti,Egypt,8.1,14.4,77.5,0.88,1.88
+Haiti,Japan,9.5,14.1,76.3,0.73,2.24
+Haiti,Switzerland,7.6,10.8,81.6,0.78,2.2
+Haiti,Argentina,8.2,21.4,70.5,0.6,2.83
+Haiti,Uruguay,8.8,13.9,77.3,0.73,2.4
+Haiti,Germany,8.3,12.6,79.1,0.68,2.5
+Haiti,Ecuador,15.7,17.5,66.8,0.9,1.86
+Haiti,Morocco,8.1,21.2,70.7,0.72,2.55
+Haiti,Belgium,6.8,16.2,77.0,0.76,2.23
+Haiti,United States,24.9,29.6,45.5,0.89,1.98
+Haiti,France,7.9,21.5,70.6,0.65,2.55
+Haiti,Czech Republic,16.4,17.7,65.9,0.95,1.71
+Haiti,Scotland,33.3,31.2,35.5,1.07,1.47
+Haiti,Turkey,23.8,20.7,55.5,0.9,1.79
+Haiti,New Zealand,25.5,31.5,43.0,1.33,1.0
+Haiti,South Korea,15.9,17.0,67.0,0.84,1.92
+Haiti,Qatar,20.9,19.7,59.4,0.92,1.88
+Haiti,Jordan,10.8,25.8,63.4,1.03,1.54
+Haiti,Paraguay,22.4,28.0,49.5,1.08,1.37
+Haiti,Australia,18.9,20.1,61.0,0.84,2.14
+Haiti,Iraq,12.9,23.1,63.9,1.05,1.53
+Haiti,Algeria,9.4,22.2,68.4,0.91,1.93
+Haiti,Mexico,16.0,20.0,64.1,0.88,1.99
+Haiti,Saudi Arabia,18.8,21.7,59.5,1.08,1.52
+Haiti,Curaçao,32.1,20.4,47.6,1.38,1.07
+Canada,Cape Verde,27.2,23.1,49.6,1.57,1.37
+Canada,Ghana,36.7,18.9,44.4,1.15,1.28
+Canada,Iran,11.9,26.2,61.9,0.87,2.0
+Canada,Bosnia and Herzegovina,32.9,17.7,49.4,1.2,1.3
+Canada,Sweden,14.1,21.7,64.1,0.94,1.69
+Canada,DR Congo,35.2,26.1,38.8,1.16,1.46
+Canada,Colombia,9.7,16.9,73.4,0.74,2.37
+Canada,Spain,6.8,24.8,68.5,0.65,2.52
+Canada,Haiti,52.2,21.0,26.8,1.51,0.77
+Canada,Senegal,10.7,17.7,71.7,0.81,2.15
+Canada,Brazil,6.6,11.1,82.4,0.74,2.26
+Canada,Netherlands,9.0,14.8,76.2,0.72,2.2
+Canada,England,6.8,12.2,81.0,0.74,2.22
+Canada,Croatia,8.3,16.1,75.6,0.84,1.83
+Canada,Norway,13.5,28.3,58.2,1.04,1.6
+Canada,Tunisia,23.3,23.5,53.2,1.06,1.54
+Canada,Ivory Coast,18.1,26.5,55.4,0.95,1.68
+Canada,Portugal,8.1,12.1,79.8,0.8,2.11
+Canada,Panama,42.2,18.7,39.1,1.34,1.17
+Canada,Austria,13.5,27.6,58.9,0.91,1.82
+Canada,Uzbekistan,28.2,26.2,45.6,1.58,1.37
+Canada,South Africa,35.1,18.2,46.7,1.19,1.34
+Canada,Egypt,16.8,26.0,57.1,0.97,1.71
+Canada,Japan,14.4,21.5,64.1,0.8,2.03
+Canada,Switzerland,10.8,15.7,73.6,0.85,1.99
+Canada,Argentina,6.7,21.7,71.6,0.66,2.57
+Canada,Uruguay,10.4,16.9,72.7,0.8,2.17
+Canada,Germany,8.5,16.2,75.3,0.75,2.27
+Canada,Ecuador,22.6,20.7,56.7,0.99,1.69
+Canada,Morocco,8.4,25.3,66.3,0.79,2.31
+Canada,Belgium,8.7,12.0,79.3,0.84,2.03
+Canada,United States,32.5,22.7,44.9,0.98,1.8
+Canada,France,7.6,17.0,75.4,0.72,2.31
+Canada,Czech Republic,22.4,22.0,55.6,1.05,1.55
+Canada,Scotland,28.5,35.8,35.7,1.17,1.33
+Canada,Turkey,27.2,23.5,49.2,0.99,1.63
+Canada,New Zealand,43.7,25.6,30.7,1.46,0.91
+Canada,South Korea,14.3,20.6,65.2,0.92,1.74
+Canada,Qatar,24.9,20.8,54.3,1.01,1.7
+Canada,Jordan,30.0,25.0,45.0,1.61,1.4
+Canada,Paraguay,33.9,24.7,41.4,1.18,1.24
+Canada,Australia,23.3,25.3,51.4,0.93,1.94
+Canada,Iraq,25.6,22.4,52.0,1.6,1.39
+Canada,Algeria,13.3,28.9,57.8,1.0,1.75
+Canada,Mexico,22.4,19.4,58.1,0.97,1.8
+Canada,Saudi Arabia,26.7,24.6,48.7,1.19,1.38
+Canada,Curaçao,43.4,17.1,39.5,1.52,0.97
+Senegal,Cape Verde,62.1,19.6,18.2,1.65,0.75
+Senegal,Ghana,63.7,19.3,17.0,1.63,0.7
+Senegal,Iran,55.9,11.9,32.2,1.23,1.09
+Senegal,Bosnia and Herzegovina,60.7,24.0,15.3,1.69,0.71
+Senegal,Sweden,56.2,13.4,30.3,1.33,0.93
+Senegal,DR Congo,68.6,16.4,15.0,1.65,0.8
+Senegal,Colombia,31.2,17.2,51.6,1.05,1.3
+Senegal,Spain,13.8,21.4,64.8,0.92,1.38
+Senegal,Haiti,69.2,16.3,14.5,2.14,0.42
+Senegal,Canada,63.0,18.2,18.9,1.68,0.79
+Senegal,Brazil,36.5,15.5,48.0,1.05,1.23
+Senegal,Netherlands,39.8,16.6,43.7,1.02,1.2
+Senegal,England,37.3,16.2,46.5,1.05,1.21
+Senegal,Croatia,41.9,25.8,32.3,1.19,1.0
+Senegal,Norway,65.8,16.3,17.9,1.47,0.88
+Senegal,Tunisia,71.0,13.7,15.2,1.5,0.84
+Senegal,Ivory Coast,55.3,12.7,32.0,1.35,0.92
+Senegal,Portugal,53.0,14.6,32.4,1.13,1.15
+Senegal,Panama,70.2,17.0,12.8,1.76,0.64
+Senegal,Austria,55.8,13.2,31.0,1.29,0.99
+Senegal,Uzbekistan,68.0,18.7,13.3,1.71,0.75
+Senegal,South Africa,65.4,19.6,15.0,1.68,0.73
+Senegal,Egypt,61.7,13.6,24.7,1.37,0.93
+Senegal,Japan,40.9,21.3,37.8,1.14,1.11
+Senegal,Switzerland,55.3,14.8,29.8,1.21,1.09
+Senegal,Argentina,16.0,16.4,67.6,0.94,1.4
+Senegal,Uruguay,45.5,15.9,38.6,1.14,1.19
+Senegal,Germany,42.1,15.3,42.7,1.07,1.24
+Senegal,Ecuador,70.1,12.3,17.6,1.41,0.92
+Senegal,Morocco,45.2,19.3,35.6,1.12,1.26
+Senegal,Belgium,53.0,17.5,29.5,1.19,1.11
+Senegal,United States,62.5,14.7,22.8,1.38,0.98
+Senegal,France,38.4,16.5,45.0,1.02,1.26
+Senegal,Czech Republic,68.7,13.5,17.7,1.48,0.85
+Senegal,Scotland,70.3,16.4,13.3,1.66,0.73
+Senegal,Turkey,66.6,10.5,22.9,1.41,0.89
+Senegal,New Zealand,68.8,17.6,13.6,2.07,0.5
+Senegal,South Korea,60.5,17.6,21.9,1.31,0.95
+Senegal,Qatar,66.7,10.7,22.6,1.44,0.93
+Senegal,Jordan,55.5,25.3,19.2,1.61,0.76
+Senegal,Paraguay,72.8,14.7,12.6,1.67,0.68
+Senegal,Australia,63.1,13.7,23.3,1.31,1.06
+Senegal,Iraq,59.2,23.8,17.0,1.64,0.76
+Senegal,Algeria,60.3,13.0,26.7,1.41,0.96
+Senegal,Mexico,63.0,13.0,24.0,1.37,0.99
+Senegal,Saudi Arabia,68.4,15.7,15.8,1.68,0.76
+Senegal,Curaçao,67.8,17.4,14.7,2.16,0.53
+Brazil,Cape Verde,69.9,15.9,14.2,1.87,0.68
+Brazil,Ghana,73.3,14.3,12.4,1.84,0.63
+Brazil,Iran,61.5,15.4,23.1,1.39,0.99
+Brazil,Bosnia and Herzegovina,69.7,15.2,15.1,1.91,0.64
+Brazil,Sweden,57.3,20.9,21.7,1.5,0.84
+Brazil,DR Congo,66.7,21.4,11.9,1.86,0.72
+Brazil,Colombia,47.0,13.1,39.8,1.18,1.17
+Brazil,Spain,35.9,23.3,40.7,1.03,1.25
+Brazil,Haiti,71.3,17.2,11.5,2.42,0.4
+Brazil,Canada,62.1,24.9,13.0,1.9,0.71
+Brazil,Senegal,49.9,16.5,33.6,1.29,1.06
+Brazil,Netherlands,45.4,15.3,39.2,1.15,1.08
+Brazil,England,48.9,16.5,34.6,1.19,1.1
+Brazil,Croatia,58.6,19.5,21.9,1.34,0.9
+Brazil,Norway,65.2,21.0,13.8,1.66,0.79
+Brazil,Tunisia,66.1,19.7,14.2,1.69,0.76
+Brazil,Ivory Coast,57.6,17.8,24.5,1.52,0.83
+Brazil,Portugal,55.1,14.7,30.2,1.27,1.04
+Brazil,Panama,76.8,11.4,11.7,1.99,0.58
+Brazil,Austria,60.1,16.7,23.3,1.46,0.9
+Brazil,Uzbekistan,74.1,13.4,12.5,1.93,0.68
+Brazil,South Africa,74.5,14.6,10.9,1.89,0.66
+Brazil,Egypt,63.1,17.0,19.9,1.55,0.84
+Brazil,Japan,54.7,16.8,28.5,1.28,1.01
+Brazil,Switzerland,57.8,21.8,20.4,1.36,0.98
+Brazil,Argentina,33.1,24.3,42.6,1.06,1.27
+Brazil,Uruguay,52.2,15.2,32.6,1.28,1.07
+Brazil,Germany,44.8,12.0,43.1,1.2,1.12
+Brazil,Ecuador,65.0,17.6,17.3,1.59,0.83
+Brazil,Morocco,52.2,18.5,29.3,1.26,1.14
+Brazil,Belgium,57.9,17.7,24.4,1.34,1.0
+Brazil,United States,61.2,19.4,19.4,1.56,0.89
+Brazil,France,45.8,19.7,34.5,1.15,1.14
+Brazil,Czech Republic,64.0,18.8,17.2,1.67,0.77
+Brazil,Scotland,68.3,20.8,10.9,1.87,0.66
+Brazil,Turkey,69.1,15.2,15.7,1.59,0.8
+Brazil,New Zealand,65.9,20.0,14.1,2.33,0.45
+Brazil,South Korea,70.5,17.1,12.4,1.48,0.86
+Brazil,Qatar,62.9,15.8,21.3,1.62,0.84
+Brazil,Jordan,70.7,16.3,13.0,1.82,0.69
+Brazil,Paraguay,66.8,19.9,13.3,1.89,0.61
+Brazil,Australia,69.4,14.4,16.2,1.48,0.96
+Brazil,Iraq,72.6,14.1,13.3,1.85,0.69
+Brazil,Algeria,68.4,17.1,14.5,1.6,0.86
+Brazil,Mexico,62.1,18.6,19.2,1.55,0.89
+Brazil,Saudi Arabia,56.0,26.9,17.1,1.9,0.68
+Brazil,Curaçao,66.5,18.5,15.0,2.43,0.48
+Netherlands,Cape Verde,71.2,14.1,14.6,1.92,0.63
+Netherlands,Ghana,67.7,17.7,14.6,1.89,0.59
+Netherlands,Iran,61.2,13.7,25.1,1.43,0.92
+Netherlands,Bosnia and Herzegovina,70.9,14.1,15.0,1.97,0.6
+Netherlands,Sweden,58.1,22.3,19.6,1.54,0.78
+Netherlands,DR Congo,60.9,28.2,10.9,1.91,0.67
+Netherlands,Colombia,46.0,10.9,43.1,1.22,1.09
+Netherlands,Spain,34.6,15.6,49.8,1.06,1.16
+Netherlands,Haiti,72.7,16.1,11.1,2.49,0.4
+Netherlands,Canada,62.1,24.9,13.0,1.95,0.66
+Netherlands,Senegal,53.8,11.1,35.1,1.33,0.99
+Netherlands,Brazil,48.2,12.8,39.1,1.22,1.04
+Netherlands,England,50.6,12.6,36.9,1.22,1.02
+Netherlands,Croatia,57.6,20.8,21.6,1.38,0.84
+Netherlands,Norway,64.1,21.7,14.2,1.71,0.74
+Netherlands,Tunisia,62.1,20.8,17.1,1.74,0.71
+Netherlands,Ivory Coast,62.1,17.4,20.6,1.57,0.78
+Netherlands,Portugal,52.9,14.6,32.5,1.31,0.97
+Netherlands,Panama,75.3,11.9,12.8,2.05,0.54
+Netherlands,Austria,65.0,15.8,19.2,1.5,0.84
+Netherlands,Uzbekistan,74.7,11.9,13.4,1.98,0.63
+Netherlands,South Africa,64.9,20.8,14.3,1.95,0.62
+Netherlands,Egypt,65.6,17.1,17.3,1.59,0.79
+Netherlands,Japan,56.5,15.5,28.0,1.32,0.94
+Netherlands,Switzerland,58.8,18.2,23.0,1.4,0.92
+Netherlands,Argentina,33.6,24.0,42.4,1.09,1.18
+Netherlands,Uruguay,55.8,11.8,32.3,1.32,1.0
+Netherlands,Germany,43.1,11.6,45.3,1.24,1.05
+Netherlands,Ecuador,62.6,19.3,18.0,1.63,0.78
+Netherlands,Morocco,48.6,16.6,34.8,1.3,1.07
+Netherlands,Belgium,57.5,16.5,26.0,1.38,0.93
+Netherlands,United States,59.3,18.3,22.4,1.61,0.83
+Netherlands,France,49.9,15.5,34.6,1.18,1.07
+Netherlands,Czech Republic,57.8,21.5,20.7,1.72,0.71
+Netherlands,Scotland,66.3,23.4,10.3,1.93,0.62
+Netherlands,Turkey,67.6,15.4,17.0,1.63,0.75
+Netherlands,New Zealand,70.1,16.8,13.1,2.4,0.42
+Netherlands,South Korea,66.3,18.5,15.3,1.52,0.8
+Netherlands,Qatar,64.5,15.7,19.8,1.67,0.79
+Netherlands,Jordan,74.4,13.3,12.3,1.87,0.64
+Netherlands,Paraguay,63.2,23.5,13.4,1.95,0.57
+Netherlands,Australia,67.8,13.7,18.6,1.52,0.89
+Netherlands,Iraq,74.5,12.3,13.2,1.9,0.64
+Netherlands,Algeria,72.6,13.3,14.2,1.64,0.81
+Netherlands,Mexico,60.2,19.2,20.7,1.6,0.83
+Netherlands,Saudi Arabia,55.2,31.0,13.8,1.96,0.64
+Netherlands,Curaçao,66.7,18.1,15.2,2.5,0.45
+England,Cape Verde,69.1,16.5,14.4,1.85,0.69
+England,Ghana,71.5,14.6,13.9,1.83,0.65
+England,Iran,59.0,15.3,25.7,1.39,1.01
+England,Bosnia and Herzegovina,71.2,14.0,14.8,1.9,0.66
+England,Sweden,56.4,21.4,22.1,1.49,0.85
+England,DR Congo,64.7,21.6,13.7,1.85,0.73
+England,Colombia,44.5,11.3,44.2,1.18,1.19
+England,Spain,31.2,19.8,49.0,1.03,1.27
+England,Haiti,71.5,16.5,12.0,2.4,0.4
+England,Canada,57.8,28.0,14.2,1.88,0.72
+England,Senegal,49.1,13.9,37.0,1.28,1.08
+England,Brazil,38.6,16.4,45.0,1.18,1.14
+England,Netherlands,39.9,13.9,46.3,1.14,1.11
+England,Croatia,57.4,19.6,23.0,1.33,0.92
+England,Norway,59.4,25.6,14.9,1.65,0.81
+England,Tunisia,63.7,21.4,14.9,1.68,0.78
+England,Ivory Coast,55.2,17.3,27.5,1.51,0.85
+England,Portugal,54.1,14.2,31.7,1.26,1.06
+England,Panama,73.1,12.1,14.8,1.98,0.59
+England,Austria,57.2,19.3,23.5,1.45,0.92
+England,Uzbekistan,72.8,13.7,13.5,1.92,0.69
+England,South Africa,72.5,14.9,12.6,1.88,0.68
+England,Egypt,60.0,17.3,22.8,1.54,0.86
+England,Japan,54.6,15.6,29.8,1.27,1.02
+England,Switzerland,62.2,17.3,20.5,1.35,1.0
+England,Argentina,27.1,20.4,52.5,1.05,1.29
+England,Uruguay,50.7,13.6,35.7,1.28,1.09
+England,Germany,43.8,9.9,46.3,1.2,1.14
+England,Ecuador,62.2,20.6,17.2,1.58,0.85
+England,Morocco,48.5,17.8,33.7,1.25,1.17
+England,Belgium,56.7,17.2,26.0,1.33,1.02
+England,United States,58.4,21.3,20.4,1.55,0.91
+England,France,41.6,19.1,39.3,1.14,1.16
+England,Czech Republic,61.0,21.4,17.6,1.66,0.78
+England,Scotland,64.1,23.1,12.7,1.86,0.67
+England,Turkey,65.6,17.2,17.2,1.58,0.82
+England,New Zealand,63.7,20.6,15.8,2.32,0.46
+England,South Korea,67.4,19.0,13.6,1.47,0.88
+England,Qatar,60.4,17.2,22.4,1.61,0.86
+England,Jordan,69.5,15.6,14.9,1.8,0.7
+England,Paraguay,63.3,21.9,14.8,1.88,0.63
+England,Australia,67.1,15.1,17.9,1.47,0.98
+England,Iraq,71.9,12.7,15.4,1.84,0.7
+England,Algeria,66.3,17.0,16.8,1.59,0.88
+England,Mexico,60.2,21.4,18.4,1.54,0.91
+England,Saudi Arabia,53.1,30.2,16.6,1.89,0.7
+England,Curaçao,66.1,18.3,15.6,2.42,0.49
+Croatia,Cape Verde,64.5,17.3,18.3,1.65,0.89
+Croatia,Ghana,54.7,31.6,13.8,1.63,0.83
+Croatia,Iran,40.7,22.9,36.4,1.23,1.29
+Croatia,Bosnia and Herzegovina,67.1,20.0,12.8,1.69,0.84
+Croatia,Sweden,44.2,25.3,30.6,1.33,1.1
+Croatia,DR Congo,50.0,30.7,19.3,1.64,0.94
+Croatia,Colombia,22.9,23.3,53.8,1.05,1.53
+Croatia,Spain,18.6,30.4,50.9,0.91,1.63
+Croatia,Haiti,70.6,19.3,10.1,2.13,0.5
+Croatia,Canada,50.7,31.6,17.7,1.68,0.93
+Croatia,Senegal,27.6,26.4,46.0,1.14,1.39
+Croatia,Brazil,26.6,18.1,55.2,1.05,1.46
+Croatia,Netherlands,26.3,24.5,49.3,1.02,1.42
+Croatia,England,30.1,19.9,50.0,1.05,1.44
+Croatia,Norway,47.2,32.9,19.9,1.47,1.04
+Croatia,Tunisia,44.7,36.2,19.2,1.5,1.0
+Croatia,Ivory Coast,40.8,21.3,37.9,1.34,1.09
+Croatia,Portugal,34.5,17.4,48.1,1.12,1.37
+Croatia,Panama,69.1,19.0,11.9,1.76,0.76
+Croatia,Austria,43.2,23.6,33.2,1.29,1.18
+Croatia,Uzbekistan,63.0,18.7,18.3,1.7,0.89
+Croatia,South Africa,58.8,27.1,14.1,1.67,0.87
+Croatia,Egypt,46.6,22.7,30.8,1.37,1.11
+Croatia,Japan,34.4,25.4,40.2,1.13,1.32
+Croatia,Switzerland,39.1,26.5,34.4,1.2,1.29
+Croatia,Argentina,16.3,27.1,56.7,0.93,1.66
+Croatia,Uruguay,28.3,23.0,48.7,1.13,1.41
+Croatia,Germany,31.3,19.7,49.1,1.06,1.47
+Croatia,Ecuador,46.7,33.5,19.8,1.4,1.09
+Croatia,Morocco,28.2,28.2,43.6,1.11,1.5
+Croatia,Belgium,38.5,22.9,38.6,1.18,1.31
+Croatia,United States,53.8,22.5,23.7,1.38,1.16
+Croatia,France,30.5,25.0,44.5,1.02,1.5
+Croatia,Czech Republic,37.2,40.9,21.8,1.48,1.0
+Croatia,Scotland,57.4,30.0,12.6,1.65,0.86
+Croatia,Turkey,46.1,30.1,23.8,1.4,1.05
+Croatia,New Zealand,61.8,24.7,13.6,2.06,0.59
+Croatia,South Korea,46.8,34.6,18.7,1.3,1.12
+Croatia,Qatar,47.0,28.0,25.0,1.43,1.1
+Croatia,Jordan,66.1,17.3,16.6,1.6,0.9
+Croatia,Paraguay,50.3,35.2,14.5,1.67,0.8
+Croatia,Australia,44.1,22.7,33.2,1.31,1.25
+Croatia,Iraq,69.6,17.1,13.3,1.63,0.9
+Croatia,Algeria,46.7,25.1,28.2,1.41,1.13
+Croatia,Mexico,43.6,25.4,31.0,1.37,1.17
+Croatia,Saudi Arabia,47.5,34.5,18.0,1.68,0.89
+Croatia,Curaçao,59.5,22.3,18.2,2.15,0.63
+Norway,Cape Verde,50.3,18.7,31.1,1.37,1.05
+Norway,Ghana,50.5,21.8,27.6,1.35,0.99
+Norway,Iran,27.0,22.6,50.4,1.03,1.54
+Norway,Bosnia and Herzegovina,54.8,17.6,27.6,1.41,1.0
+Norway,Sweden,38.0,21.4,40.6,1.1,1.3
+Norway,DR Congo,52.8,21.3,25.9,1.37,1.12
+Norway,Colombia,17.8,16.2,65.9,0.87,1.82
+Norway,Spain,12.0,26.5,61.5,0.76,1.94
+Norway,Haiti,60.1,23.5,16.4,1.78,0.59
+Norway,Canada,52.6,22.1,25.3,1.4,1.1
+Norway,Senegal,21.1,17.2,61.7,0.95,1.65
+Norway,Brazil,20.8,18.5,60.7,0.87,1.74
+Norway,Netherlands,20.8,21.8,57.4,0.85,1.69
+Norway,England,18.4,19.0,62.5,0.88,1.71
+Norway,Croatia,29.3,30.2,40.4,0.99,1.4
+Norway,Tunisia,49.9,19.5,30.6,1.25,1.18
+Norway,Ivory Coast,30.8,21.6,47.6,1.12,1.3
+Norway,Portugal,32.6,19.2,48.3,0.94,1.62
+Norway,Panama,64.1,18.4,17.4,1.47,0.9
+Norway,Austria,33.2,23.6,43.2,1.08,1.4
+Norway,Uzbekistan,51.8,21.8,26.4,1.42,1.05
+Norway,South Africa,54.4,17.9,27.7,1.39,1.03
+Norway,Egypt,36.1,22.6,41.3,1.14,1.31
+Norway,Japan,28.2,26.4,45.4,0.94,1.56
+Norway,Switzerland,29.2,20.4,50.4,1.0,1.53
+Norway,Argentina,11.6,20.5,67.9,0.78,1.97
+Norway,Uruguay,23.9,18.5,57.5,0.95,1.67
+Norway,Germany,21.2,19.0,59.8,0.89,1.75
+Norway,Ecuador,48.9,22.1,29.0,1.17,1.3
+Norway,Morocco,20.0,28.3,51.7,0.93,1.78
+Norway,Belgium,39.9,23.5,36.7,0.98,1.56
+Norway,United States,52.6,20.1,27.3,1.15,1.38
+Norway,France,24.0,22.6,53.4,0.85,1.78
+Norway,Czech Republic,42.5,21.4,36.0,1.23,1.19
+Norway,Scotland,53.5,29.7,16.7,1.38,1.03
+Norway,Turkey,45.2,21.8,33.0,1.17,1.25
+Norway,New Zealand,57.5,26.9,15.6,1.72,0.7
+Norway,South Korea,36.3,33.4,30.3,1.09,1.34
+Norway,Qatar,46.1,19.2,34.7,1.19,1.31
+Norway,Jordan,44.1,17.7,38.2,1.34,1.07
+Norway,Paraguay,62.7,23.4,13.8,1.39,0.96
+Norway,Australia,47.1,18.5,34.4,1.09,1.49
+Norway,Iraq,51.7,17.2,31.1,1.36,1.07
+Norway,Algeria,40.6,22.0,37.4,1.17,1.35
+Norway,Mexico,46.5,20.7,32.8,1.14,1.39
+Norway,Saudi Arabia,47.5,25.2,27.3,1.4,1.06
+Norway,Curaçao,63.2,19.3,17.5,1.79,0.75
+Tunisia,Cape Verde,36.8,22.6,40.6,1.31,1.08
+Tunisia,Ghana,48.3,23.0,28.6,1.29,1.01
+Tunisia,Iran,22.7,25.3,52.0,0.98,1.58
+Tunisia,Bosnia and Herzegovina,44.8,26.9,28.3,1.34,1.03
+Tunisia,Sweden,34.6,23.4,42.0,1.05,1.34
+Tunisia,DR Congo,46.1,25.5,28.4,1.3,1.15
+Tunisia,Colombia,15.3,21.4,63.3,0.83,1.87
+Tunisia,Spain,11.1,30.1,58.8,0.72,1.99
+Tunisia,Haiti,64.0,20.9,15.1,1.69,0.61
+Tunisia,Canada,46.6,20.5,32.9,1.33,1.13
+Tunisia,Senegal,19.0,19.8,61.2,0.9,1.7
+Tunisia,Brazil,20.5,18.2,61.3,0.83,1.78
+Tunisia,Netherlands,18.7,24.0,57.3,0.8,1.73
+Tunisia,England,18.2,20.9,60.9,0.83,1.75
+Tunisia,Croatia,24.4,35.5,40.1,0.94,1.44
+Tunisia,Norway,37.1,28.9,34.0,1.16,1.27
+Tunisia,Ivory Coast,27.8,24.6,47.7,1.06,1.33
+Tunisia,Portugal,26.5,20.1,53.4,0.89,1.67
+Tunisia,Panama,60.7,21.1,18.2,1.4,0.92
+Tunisia,Austria,24.4,25.7,49.9,1.02,1.44
+Tunisia,Uzbekistan,39.1,27.7,33.2,1.35,1.08
+Tunisia,South Africa,48.3,23.1,28.6,1.33,1.06
+Tunisia,Egypt,32.0,19.9,48.1,1.08,1.35
+Tunisia,Japan,24.4,33.6,41.9,0.9,1.61
+Tunisia,Switzerland,29.8,24.0,46.2,0.95,1.57
+Tunisia,Argentina,10.5,23.4,66.1,0.74,2.03
+Tunisia,Uruguay,20.3,21.2,58.5,0.9,1.72
+Tunisia,Germany,18.1,20.3,61.6,0.84,1.79
+Tunisia,Ecuador,38.4,27.2,34.4,1.11,1.33
+Tunisia,Morocco,16.7,31.9,51.4,0.88,1.83
+Tunisia,Belgium,30.4,24.9,44.7,0.94,1.6
+Tunisia,United States,47.6,23.1,29.3,1.1,1.42
+Tunisia,France,23.7,21.6,54.7,0.81,1.83
+Tunisia,Czech Republic,36.4,28.7,34.9,1.17,1.22
+Tunisia,Scotland,51.7,29.8,18.4,1.31,1.05
+Tunisia,Turkey,36.6,27.8,35.6,1.11,1.28
+Tunisia,New Zealand,52.7,33.0,14.3,1.63,0.72
+Tunisia,South Korea,29.5,36.0,34.5,1.03,1.37
+Tunisia,Qatar,40.3,22.0,37.7,1.14,1.35
+Tunisia,Jordan,34.0,20.7,45.3,1.27,1.1
+Tunisia,Paraguay,45.7,32.9,21.5,1.32,0.98
+Tunisia,Australia,35.5,21.4,43.1,1.04,1.53
+Tunisia,Iraq,39.9,24.8,35.2,1.29,1.1
+Tunisia,Algeria,31.1,25.5,43.4,1.12,1.38
+Tunisia,Mexico,37.1,28.8,34.0,1.09,1.42
+Tunisia,Saudi Arabia,41.0,33.2,25.8,1.33,1.09
+Tunisia,Curaçao,61.6,24.0,14.4,1.7,0.77
+Ivory Coast,Cape Verde,57.3,15.6,27.0,1.44,0.88
+Ivory Coast,Ghana,63.5,20.5,16.0,1.42,0.82
+Ivory Coast,Iran,43.8,17.0,39.2,1.07,1.28
+Ivory Coast,Bosnia and Herzegovina,63.8,16.2,20.1,1.47,0.84
+Ivory Coast,Sweden,47.9,18.4,33.7,1.16,1.09
+Ivory Coast,DR Congo,60.5,17.3,22.2,1.43,0.93
+Ivory Coast,Colombia,25.8,18.4,55.8,0.91,1.52
+Ivory Coast,Spain,11.2,21.3,67.6,0.8,1.62
+Ivory Coast,Haiti,60.2,23.5,16.2,1.86,0.49
+Ivory Coast,Canada,60.4,16.9,22.6,1.46,0.92
+Ivory Coast,Senegal,26.7,18.4,54.9,0.99,1.38
+Ivory Coast,Brazil,27.3,16.7,56.0,0.91,1.45
+Ivory Coast,Netherlands,23.4,18.5,58.0,0.89,1.41
+Ivory Coast,England,26.9,20.6,52.5,0.92,1.42
+Ivory Coast,Croatia,36.4,29.5,34.0,1.03,1.19
+Ivory Coast,Norway,56.7,16.8,26.5,1.28,1.03
+Ivory Coast,Tunisia,55.6,17.2,27.2,1.31,0.99
+Ivory Coast,Portugal,37.4,21.0,41.6,0.98,1.35
+Ivory Coast,Panama,68.2,17.9,13.9,1.54,0.75
+Ivory Coast,Austria,48.3,18.2,33.5,1.13,1.17
+Ivory Coast,Uzbekistan,59.2,16.1,24.6,1.49,0.88
+Ivory Coast,South Africa,63.2,17.7,19.1,1.46,0.86
+Ivory Coast,Egypt,48.5,14.4,37.1,1.19,1.1
+Ivory Coast,Japan,38.6,22.2,39.1,0.99,1.3
+Ivory Coast,Switzerland,45.4,17.6,37.1,1.05,1.28
+Ivory Coast,Argentina,12.3,19.2,68.6,0.81,1.65
+Ivory Coast,Uruguay,31.0,18.1,50.8,0.99,1.39
+Ivory Coast,Germany,29.5,19.4,51.0,0.93,1.46
+Ivory Coast,Ecuador,54.5,20.5,25.0,1.22,1.08
+Ivory Coast,Morocco,26.4,23.2,50.3,0.97,1.48
+Ivory Coast,Belgium,44.4,22.8,32.8,1.03,1.3
+Ivory Coast,United States,56.9,19.1,24.0,1.21,1.39
+Ivory Coast,France,26.8,18.2,55.0,0.89,1.48
+Ivory Coast,Czech Republic,54.2,20.8,24.9,1.29,0.99
+Ivory Coast,Scotland,60.6,24.2,15.2,1.44,0.86
+Ivory Coast,Turkey,53.0,21.6,25.4,1.22,1.04
+Ivory Coast,New Zealand,57.7,27.6,14.8,1.8,0.58
+Ivory Coast,South Korea,46.8,27.4,25.7,1.14,1.12
+Ivory Coast,Qatar,62.6,14.1,23.3,1.25,1.09
+Ivory Coast,Jordan,60.3,14.4,25.3,1.4,0.9
+Ivory Coast,Paraguay,62.6,22.9,14.5,1.46,0.8
+Ivory Coast,Australia,52.2,14.5,33.4,1.14,1.24
+Ivory Coast,Iraq,62.1,15.9,22.0,1.43,0.89
+Ivory Coast,Algeria,45.0,15.6,39.4,1.23,1.12
+Ivory Coast,Mexico,50.7,19.5,29.8,1.19,1.37
+Ivory Coast,Saudi Arabia,57.6,21.0,21.4,1.47,0.89
+Ivory Coast,Curaçao,68.1,16.4,15.5,1.88,0.62
+Portugal,Cape Verde,67.0,17.2,15.7,1.72,0.79
+Portugal,Ghana,70.3,16.0,13.7,1.7,0.74
+Portugal,Iran,55.2,13.5,31.3,1.29,1.16
+Portugal,Bosnia and Herzegovina,70.3,14.7,15.0,1.77,0.75
+Portugal,Sweden,56.8,15.7,27.5,1.39,0.98
+Portugal,DR Congo,60.2,24.5,15.3,1.72,0.84
+Portugal,Colombia,31.9,15.0,53.1,1.09,1.37
+Portugal,Spain,22.6,28.9,48.5,0.96,1.46
+Portugal,Haiti,67.2,19.2,13.5,2.23,0.44
+Portugal,Canada,53.5,28.0,18.5,1.75,0.83
+Portugal,Senegal,44.1,13.7,42.2,1.19,1.24
+Portugal,Brazil,40.1,17.2,42.7,1.1,1.3
+Portugal,Netherlands,48.7,15.3,36.0,1.06,1.27
+Portugal,England,40.9,16.1,43.0,1.1,1.28
+Portugal,Croatia,49.0,18.9,32.0,1.24,1.05
+Portugal,Norway,56.8,22.8,20.4,1.54,0.93
+Portugal,Tunisia,59.6,21.3,19.1,1.57,0.89
+Portugal,Ivory Coast,55.5,14.5,30.1,1.41,0.97
+Portugal,Panama,70.3,13.3,16.4,1.84,0.67
+Portugal,Austria,54.1,18.3,27.5,1.35,1.05
+Portugal,Uzbekistan,67.5,16.1,16.4,1.78,0.79
+Portugal,South Africa,69.5,17.4,13.1,1.75,0.77
+Portugal,Egypt,59.0,14.3,26.7,1.43,0.99
+Portugal,Japan,50.5,13.3,36.2,1.19,1.17
+Portugal,Switzerland,56.8,15.5,27.8,1.26,1.15
+Portugal,Argentina,21.8,24.5,53.7,0.98,1.48
+Portugal,Uruguay,45.8,11.9,42.3,1.19,1.25
+Portugal,Germany,37.9,11.0,51.1,1.11,1.31
+Portugal,Ecuador,61.1,18.4,20.5,1.47,0.98
+Portugal,Morocco,42.3,20.1,37.5,1.17,1.34
+Portugal,Belgium,51.3,19.6,29.1,1.24,1.17
+Portugal,United States,61.0,16.5,22.6,1.45,1.04
+Portugal,France,37.8,20.5,41.7,1.06,1.33
+Portugal,Czech Republic,56.9,21.2,21.9,1.55,0.89
+Portugal,Scotland,61.5,23.2,15.3,1.73,0.77
+Portugal,Turkey,61.3,17.2,21.4,1.47,0.94
+Portugal,New Zealand,63.7,21.1,15.1,2.16,0.53
+Portugal,South Korea,60.8,19.9,19.3,1.36,1.0
+Portugal,Qatar,61.1,15.6,23.3,1.5,0.98
+Portugal,Jordan,66.9,16.0,17.1,1.68,0.81
+Portugal,Paraguay,61.8,23.5,14.7,1.75,0.72
+Portugal,Australia,59.3,13.6,27.0,1.37,1.12
+Portugal,Iraq,68.3,16.4,15.4,1.71,0.8
+Portugal,Algeria,60.4,16.3,23.3,1.47,1.01
+Portugal,Mexico,60.2,17.6,22.2,1.43,1.04
+Portugal,Saudi Arabia,51.7,31.8,16.5,1.76,0.8
+Portugal,Curaçao,67.0,18.2,14.8,2.25,0.56
+Panama,Cape Verde,30.2,26.6,43.2,1.11,1.3
+Panama,Ghana,20.5,22.4,57.1,1.1,1.22
+Panama,Iran,13.8,26.8,59.4,0.83,1.91
+Panama,Bosnia and Herzegovina,25.6,22.0,52.4,1.14,1.24
+Panama,Sweden,14.8,18.8,66.4,0.9,1.61
+Panama,DR Congo,28.5,31.1,40.4,1.11,1.39
+Panama,Colombia,8.0,16.7,75.2,0.71,2.26
+Panama,Spain,7.4,30.8,61.8,0.62,2.4
+Panama,Haiti,50.6,26.2,23.2,1.44,0.73
+Panama,Canada,28.9,26.3,44.8,1.13,1.37
+Panama,Senegal,8.7,20.4,71.0,0.77,2.05
+Panama,Brazil,8.1,14.5,77.4,0.71,2.15
+Panama,Netherlands,6.8,19.2,74.0,0.69,2.09
+Panama,England,6.2,15.1,78.7,0.71,2.12
+Panama,Croatia,16.5,22.7,60.8,0.8,1.74
+Panama,Norway,30.4,25.8,43.8,0.99,1.53
+Panama,Tunisia,24.9,22.8,52.2,1.01,1.47
+Panama,Ivory Coast,19.6,24.6,55.8,0.91,1.61
+Panama,Portugal,8.4,12.1,79.5,0.76,2.01
+Panama,Austria,17.0,25.5,57.5,0.87,1.73
+Panama,Uzbekistan,26.2,31.1,42.7,1.15,1.31
+Panama,South Africa,28.0,22.2,49.8,1.13,1.28
+Panama,Egypt,15.6,18.4,66.0,0.92,1.63
+Panama,Japan,11.9,23.7,64.4,0.77,1.94
+Panama,Switzerland,10.0,16.5,73.5,0.81,1.9
+Panama,Argentina,5.7,19.0,75.3,0.63,2.45
+Panama,Uruguay,10.3,21.8,67.9,0.77,2.07
+Panama,Germany,6.9,16.2,76.9,0.72,2.16
+Panama,Ecuador,25.7,21.8,52.5,0.95,1.61
+Panama,Morocco,7.1,25.9,66.9,0.75,2.21
+Panama,Belgium,11.0,11.9,77.1,0.8,1.93
+Panama,United States,28.0,26.2,45.8,0.93,1.71
+Panama,France,8.8,19.5,71.7,0.69,2.2
+Panama,Czech Republic,23.8,19.9,56.3,1.0,1.48
+Panama,Scotland,28.4,33.9,37.8,1.12,1.29
+Panama,Turkey,28.8,26.3,44.9,0.95,1.55
+Panama,New Zealand,36.7,33.5,29.7,1.39,0.87
+Panama,South Korea,29.4,29.2,41.4,0.88,1.66
+Panama,Qatar,26.2,26.1,47.7,0.97,1.62
+Panama,Jordan,25.2,30.5,44.3,1.08,1.33
+Panama,Paraguay,23.3,30.1,46.6,1.13,1.3
+Panama,Australia,24.7,25.4,49.9,0.88,1.85
+Panama,Iraq,31.4,27.7,40.9,1.1,1.33
+Panama,Algeria,21.6,26.2,52.2,0.95,1.67
+Panama,Mexico,23.7,22.1,54.3,0.93,1.72
+Panama,Saudi Arabia,24.9,27.2,47.9,1.13,1.32
+Panama,Curaçao,34.0,21.7,44.3,1.45,0.92
+Austria,Cape Verde,58.3,21.0,20.8,1.46,0.96
+Austria,Ghana,50.0,24.6,25.4,1.43,0.9
+Austria,Iran,34.6,17.5,47.8,1.09,1.4
+Austria,Bosnia and Herzegovina,54.0,24.2,21.7,1.49,0.91
+Austria,Sweden,41.3,18.7,40.0,1.17,1.18
+Austria,DR Congo,57.0,22.1,20.9,1.45,1.02
+Austria,Colombia,19.2,15.8,65.0,0.92,1.65
+Austria,Spain,10.4,22.3,67.3,0.81,1.76
+Austria,Haiti,66.7,20.7,12.6,1.88,0.54
+Austria,Canada,57.8,24.7,17.5,1.48,1.0
+Austria,Senegal,26.1,16.9,56.9,1.0,1.5
+Austria,Brazil,22.6,16.1,61.3,0.92,1.58
+Austria,Netherlands,19.6,20.0,60.5,0.9,1.53
+Austria,England,22.3,16.7,61.0,0.93,1.55
+Austria,Croatia,28.6,26.7,44.7,1.05,1.28
+Austria,Norway,59.6,18.8,21.6,1.3,1.12
+Austria,Tunisia,59.3,19.8,20.9,1.32,1.07
+Austria,Ivory Coast,39.7,12.8,47.6,1.19,1.18
+Austria,Portugal,37.9,16.0,46.1,0.99,1.47
+Austria,Panama,65.3,21.1,13.6,1.55,0.82
+Austria,Uzbekistan,57.4,26.1,16.5,1.5,0.96
+Austria,South Africa,55.3,21.2,23.6,1.48,0.94
+Austria,Egypt,47.4,13.6,39.0,1.21,1.19
+Austria,Japan,28.4,23.9,47.8,1.0,1.42
+Austria,Switzerland,36.0,16.9,47.2,1.06,1.39
+Austria,Argentina,11.9,15.8,72.4,0.82,1.79
+Austria,Uruguay,28.0,16.4,55.6,1.0,1.52
+Austria,Germany,22.9,14.9,62.2,0.94,1.58
+Austria,Ecuador,48.7,18.7,32.6,1.24,1.18
+Austria,Morocco,22.0,21.8,56.2,0.98,1.61
+Austria,Belgium,42.9,17.0,40.0,1.04,1.41
+Austria,United States,56.2,16.9,27.0,1.22,1.25
+Austria,France,26.9,19.2,53.9,0.9,1.61
+Austria,Czech Republic,53.1,21.2,25.7,1.31,1.08
+Austria,Scotland,62.5,25.5,12.0,1.46,0.93
+Austria,Turkey,49.1,19.6,31.3,1.24,1.14
+Austria,New Zealand,68.1,19.5,12.5,1.82,0.64
+Austria,South Korea,39.6,24.3,36.1,1.15,1.21
+Austria,Qatar,59.5,15.2,25.3,1.26,1.19
+Austria,Jordan,53.2,17.0,29.8,1.42,0.97
+Austria,Paraguay,60.0,23.9,16.1,1.47,0.87
+Austria,Australia,42.8,15.1,42.2,1.15,1.35
+Austria,Iraq,59.7,17.9,22.3,1.44,0.97
+Austria,Algeria,52.3,16.1,31.5,1.24,1.22
+Austria,Mexico,47.3,17.1,35.6,1.21,1.26
+Austria,Saudi Arabia,58.8,20.1,21.1,1.48,0.96
+Austria,Curaçao,66.2,19.6,14.1,1.9,0.68
+Uzbekistan,Cape Verde,42.7,19.4,37.9,1.22,1.04
+Uzbekistan,Ghana,42.6,27.5,29.9,1.2,0.97
+Uzbekistan,Iran,26.4,23.1,50.5,0.91,1.51
+Uzbekistan,Bosnia and Herzegovina,48.8,18.0,33.2,1.24,0.99
+Uzbekistan,Sweden,40.1,22.4,37.5,0.98,1.28
+Uzbekistan,DR Congo,50.7,23.7,25.6,1.21,1.1
+Uzbekistan,Colombia,8.3,14.5,77.2,0.77,1.79
+Uzbekistan,Spain,7.0,22.6,70.3,0.67,1.91
+Uzbekistan,Haiti,68.6,18.5,12.8,1.57,0.58
+Uzbekistan,Canada,56.1,19.9,24.0,1.23,1.42
+Uzbekistan,Senegal,13.3,15.2,71.6,0.84,1.63
+Uzbekistan,Brazil,13.9,16.8,69.3,0.77,1.71
+Uzbekistan,Netherlands,13.1,20.1,66.8,0.75,1.66
+Uzbekistan,England,12.8,18.5,68.7,0.77,1.68
+Uzbekistan,Croatia,25.9,26.7,47.3,0.87,1.38
+Uzbekistan,Norway,50.9,24.7,24.4,1.08,1.24
+Uzbekistan,Tunisia,51.0,26.7,22.3,1.1,1.27
+Uzbekistan,Ivory Coast,31.3,25.3,43.4,0.99,1.28
+Uzbekistan,Portugal,25.3,18.6,56.1,0.83,1.6
+Uzbekistan,Panama,59.1,18.8,22.1,1.3,0.88
+Uzbekistan,Austria,38.0,24.5,37.5,0.95,1.38
+Uzbekistan,South Africa,51.2,20.7,28.1,1.23,1.02
+Uzbekistan,Egypt,35.6,25.1,39.4,1.01,1.29
+Uzbekistan,Japan,23.7,23.7,52.5,0.84,1.54
+Uzbekistan,Switzerland,23.8,19.8,56.5,0.89,1.51
+Uzbekistan,Argentina,7.0,16.4,76.6,0.69,1.94
+Uzbekistan,Uruguay,16.4,18.0,65.6,0.84,1.65
+Uzbekistan,Germany,11.5,16.1,72.4,0.78,1.72
+Uzbekistan,Ecuador,50.5,22.9,26.6,1.03,1.28
+Uzbekistan,Morocco,15.5,24.3,60.2,0.82,1.75
+Uzbekistan,Belgium,28.5,19.5,51.9,0.87,1.53
+Uzbekistan,United States,42.6,19.9,37.5,1.02,1.36
+Uzbekistan,France,16.3,19.4,64.3,0.75,1.75
+Uzbekistan,Czech Republic,48.3,25.4,26.4,1.09,1.25
+Uzbekistan,Scotland,54.9,28.3,16.8,1.22,1.4
+Uzbekistan,Turkey,46.6,25.7,27.8,1.03,1.23
+Uzbekistan,New Zealand,65.4,19.5,15.1,1.52,0.69
+Uzbekistan,South Korea,37.8,28.3,33.9,0.96,1.32
+Uzbekistan,Qatar,53.3,20.2,26.5,1.06,1.29
+Uzbekistan,Jordan,42.1,19.4,38.5,1.18,1.06
+Uzbekistan,Paraguay,51.9,31.1,17.0,1.23,0.94
+Uzbekistan,Australia,37.5,16.3,46.2,0.96,1.47
+Uzbekistan,Iraq,52.3,18.2,29.5,1.2,1.05
+Uzbekistan,Algeria,42.5,22.6,34.9,1.04,1.33
+Uzbekistan,Mexico,34.5,21.8,43.7,1.01,1.37
+Uzbekistan,Saudi Arabia,53.1,19.1,27.8,1.24,1.05
+Uzbekistan,Curaçao,57.3,20.8,21.9,1.58,0.73
+South Africa,Cape Verde,36.3,23.6,40.2,1.21,1.13
+South Africa,Ghana,29.8,27.0,43.1,1.19,1.06
+South Africa,Iran,23.2,31.8,45.0,0.9,1.66
+South Africa,Bosnia and Herzegovina,37.0,23.7,39.2,1.24,1.08
+South Africa,Sweden,30.0,32.5,37.4,0.97,1.4
+South Africa,DR Congo,40.5,28.1,31.4,1.21,1.21
+South Africa,Colombia,11.0,19.4,69.6,0.77,1.96
+South Africa,Spain,5.3,29.4,65.3,0.67,2.09
+South Africa,Haiti,60.1,23.9,16.1,1.57,0.64
+South Africa,Canada,43.8,25.7,30.4,1.23,1.19
+South Africa,Senegal,16.1,22.1,61.7,0.84,1.78
+South Africa,Brazil,14.8,18.1,67.0,0.77,1.87
+South Africa,Netherlands,13.5,21.8,64.7,0.75,1.82
+South Africa,England,12.3,18.5,69.2,0.77,1.84
+South Africa,Croatia,24.5,36.4,39.1,0.87,1.51
+South Africa,Norway,35.0,33.9,31.1,1.08,1.33
+South Africa,Tunisia,34.6,31.3,34.1,1.1,1.28
+South Africa,Ivory Coast,26.1,23.3,50.6,0.99,1.4
+South Africa,Portugal,19.1,15.4,65.5,0.83,1.75
+South Africa,Panama,47.4,21.4,31.2,1.29,0.97
+South Africa,Austria,23.7,32.5,43.8,0.95,1.51
+South Africa,Uzbekistan,38.7,28.7,32.6,1.25,1.14
+South Africa,Egypt,28.5,27.1,44.4,1.0,1.42
+South Africa,Japan,23.5,36.7,39.8,0.83,1.69
+South Africa,Switzerland,25.0,24.8,50.2,0.88,1.65
+South Africa,Argentina,6.1,21.2,72.7,0.69,2.13
+South Africa,Uruguay,17.1,20.7,62.2,0.83,1.8
+South Africa,Germany,11.4,16.9,71.7,0.78,1.88
+South Africa,Ecuador,38.5,31.7,29.8,1.03,1.4
+South Africa,Morocco,11.5,26.4,62.1,0.82,1.92
+South Africa,Belgium,24.1,18.7,57.2,0.87,1.68
+South Africa,United States,46.2,24.6,29.2,1.02,1.49
+South Africa,France,17.6,21.4,60.9,0.75,1.92
+South Africa,Czech Republic,36.0,34.3,29.7,1.09,1.28
+South Africa,Scotland,49.8,31.5,18.7,1.22,1.4
+South Africa,Turkey,34.6,31.6,33.7,1.03,1.35
+South Africa,New Zealand,43.2,31.7,25.1,1.51,0.76
+South Africa,South Korea,26.9,44.4,28.7,0.96,1.44
+South Africa,Qatar,40.6,26.0,33.3,1.05,1.41
+South Africa,Jordan,33.6,24.1,42.3,1.18,1.16
+South Africa,Paraguay,34.3,39.0,26.7,1.23,1.03
+South Africa,Australia,32.9,29.7,37.3,0.96,1.61
+South Africa,Iraq,35.6,23.1,41.3,1.2,1.15
+South Africa,Algeria,29.8,29.2,41.0,1.04,1.45
+South Africa,Mexico,38.5,27.0,34.4,1.01,1.5
+South Africa,Saudi Arabia,37.3,29.3,33.4,1.23,1.15
+South Africa,Curaçao,56.7,24.2,19.1,1.58,0.8
+Egypt,Cape Verde,56.3,15.7,28.0,1.45,0.92
+Egypt,Ghana,63.4,18.5,18.0,1.43,0.86
+Egypt,Iran,44.1,16.5,39.5,1.08,1.35
+Egypt,Bosnia and Herzegovina,63.0,14.7,22.3,1.49,0.88
+Egypt,Sweden,47.0,17.8,35.3,1.17,1.14
+Egypt,DR Congo,63.2,15.5,21.3,1.45,0.98
+Egypt,Colombia,26.2,17.2,56.6,0.92,1.59
+Egypt,Spain,12.0,22.9,65.1,0.8,1.7
+Egypt,Haiti,61.0,21.9,17.1,1.88,0.52
+Egypt,Canada,58.2,21.5,20.3,1.47,0.97
+Egypt,Senegal,27.6,17.1,55.2,1.0,1.45
+Egypt,Brazil,29.9,15.7,54.3,0.92,1.52
+Egypt,Netherlands,26.2,17.6,56.3,0.89,1.48
+Egypt,England,28.0,17.4,54.6,0.92,1.49
+Egypt,Croatia,30.3,30.7,39.0,1.04,1.23
+Egypt,Norway,50.2,17.9,31.9,1.29,1.08
+Egypt,Tunisia,64.3,14.8,20.8,1.32,1.04
+Egypt,Ivory Coast,43.5,12.2,44.3,1.18,1.13
+Egypt,Portugal,39.5,18.3,42.2,0.99,1.42
+Egypt,Panama,68.2,16.4,15.4,1.55,0.79
+Egypt,Austria,49.7,17.6,32.8,1.14,1.22
+Egypt,Uzbekistan,58.8,18.7,22.5,1.5,0.92
+Egypt,South Africa,63.3,16.1,20.6,1.47,0.9
+Egypt,Japan,32.6,23.8,43.6,1.0,1.37
+Egypt,Switzerland,40.6,18.3,41.1,1.06,1.34
+Egypt,Argentina,12.0,18.2,69.8,0.82,1.73
+Egypt,Uruguay,30.7,18.8,50.5,1.0,1.46
+Egypt,Germany,29.3,19.2,51.5,0.94,1.53
+Egypt,Ecuador,57.5,18.2,24.3,1.23,1.14
+Egypt,Morocco,25.1,24.5,50.4,0.98,1.56
+Egypt,Belgium,44.2,20.9,34.8,1.04,1.36
+Egypt,United States,59.0,16.9,24.2,1.22,1.21
+Egypt,France,28.4,18.1,53.5,0.89,1.56
+Egypt,Czech Republic,54.2,15.8,30.0,1.3,1.04
+Egypt,Scotland,61.4,24.7,14.0,1.46,0.9
+Egypt,Turkey,51.8,19.2,29.0,1.23,1.09
+Egypt,New Zealand,66.4,19.6,14.0,1.81,0.61
+Egypt,South Korea,39.8,30.0,30.2,1.15,1.17
+Egypt,Qatar,57.2,13.0,29.9,1.26,1.15
+Egypt,Jordan,57.6,13.7,28.7,1.41,0.94
+Egypt,Paraguay,67.6,18.1,14.3,1.47,0.84
+Egypt,Australia,54.9,13.9,31.2,1.15,1.3
+Egypt,Iraq,57.5,15.0,27.4,1.44,0.94
+Egypt,Algeria,53.4,13.9,32.7,1.24,1.18
+Egypt,Mexico,52.5,17.6,29.9,1.2,1.21
+Egypt,Saudi Arabia,58.6,18.3,23.1,1.48,0.93
+Egypt,Curaçao,69.4,15.8,14.9,1.89,0.65
+Japan,Cape Verde,61.1,17.9,21.0,1.56,0.83
+Japan,Ghana,48.6,29.9,21.5,1.54,0.78
+Japan,Iran,40.3,16.7,43.0,1.17,1.21
+Japan,Bosnia and Herzegovina,59.9,23.9,16.1,1.6,0.79
+Japan,Sweden,51.4,20.3,28.3,1.26,1.02
+Japan,DR Congo,56.3,21.0,22.8,1.56,0.88
+Japan,Colombia,22.2,19.7,58.1,0.99,1.43
+Japan,Spain,13.9,22.8,63.3,0.87,1.52
+Japan,Haiti,67.3,20.5,12.2,2.02,0.46
+Japan,Canada,50.7,27.0,22.3,1.59,0.87
+Japan,Senegal,29.1,21.6,49.2,1.08,1.3
+Japan,Brazil,26.5,14.0,59.5,0.99,1.36
+Japan,Netherlands,26.8,16.1,57.1,0.96,1.33
+Japan,England,30.5,16.6,52.9,1.0,1.34
+Japan,Croatia,36.9,28.6,34.4,1.12,1.1
+Japan,Norway,57.6,20.8,21.6,1.39,0.97
+Japan,Tunisia,53.7,22.6,23.6,1.42,0.93
+Japan,Ivory Coast,50.8,15.6,33.6,1.27,1.02
+Japan,Portugal,38.8,15.8,45.4,1.07,1.28
+Japan,Panama,60.6,23.1,16.3,1.67,0.71
+Japan,Austria,45.7,17.3,36.9,1.22,1.1
+Japan,Uzbekistan,70.9,13.8,15.4,1.61,0.83
+Japan,South Africa,52.7,26.6,20.6,1.59,0.81
+Japan,Egypt,55.6,14.0,30.4,1.3,1.03
+Japan,Switzerland,47.3,17.9,34.8,1.14,1.2
+Japan,Argentina,11.7,18.3,69.9,0.89,1.55
+Japan,Uruguay,29.2,18.4,52.5,1.08,1.31
+Japan,Germany,25.8,17.4,56.8,1.01,1.37
+Japan,Ecuador,50.1,24.8,25.1,1.33,1.02
+Japan,Morocco,24.3,22.5,53.2,1.06,1.4
+Japan,Belgium,46.4,18.6,35.1,1.12,1.22
+Japan,United States,55.8,18.2,26.0,1.31,1.09
+Japan,France,27.2,16.9,55.8,0.96,1.4
+Japan,Czech Republic,48.6,26.0,25.5,1.4,0.94
+Japan,Scotland,55.8,27.5,16.7,1.57,0.81
+Japan,Turkey,55.6,16.9,27.5,1.33,0.98
+Japan,New Zealand,59.3,24.3,16.4,1.95,0.55
+Japan,South Korea,48.6,23.4,28.0,1.24,1.05
+Japan,Qatar,51.1,17.3,31.6,1.36,1.03
+Japan,Jordan,60.0,20.0,20.0,1.52,0.84
+Japan,Paraguay,51.9,28.9,19.2,1.58,0.75
+Japan,Australia,49.1,14.2,36.7,1.24,1.17
+Japan,Iraq,58.0,22.4,19.6,1.55,0.84
+Japan,Algeria,52.3,18.0,29.8,1.34,1.06
+Japan,Mexico,50.5,17.0,32.4,1.3,1.09
+Japan,Saudi Arabia,53.0,24.4,22.5,1.59,0.84
+Japan,Curaçao,58.5,22.4,19.2,2.04,0.59
+Switzerland,Cape Verde,62.3,21.2,16.5,1.57,0.85
+Switzerland,Ghana,56.2,24.6,19.2,1.54,0.79
+Switzerland,Iran,44.0,13.6,42.4,1.17,1.24
+Switzerland,Bosnia and Herzegovina,55.9,27.6,16.5,1.6,0.81
+Switzerland,Sweden,53.4,15.1,31.5,1.26,1.05
+Switzerland,DR Congo,61.4,19.9,18.7,1.56,0.9
+Switzerland,Colombia,24.1,19.6,56.3,0.99,1.47
+Switzerland,Spain,11.5,21.2,67.3,0.87,1.56
+Switzerland,Haiti,68.3,19.0,12.7,2.03,0.47
+Switzerland,Canada,54.6,25.9,19.5,1.59,0.89
+Switzerland,Senegal,23.0,21.9,55.1,1.08,1.33
+Switzerland,Brazil,27.3,13.8,58.9,0.99,1.4
+Switzerland,Netherlands,29.2,16.5,54.3,0.96,1.36
+Switzerland,England,30.0,16.1,53.8,1.0,1.37
+Switzerland,Croatia,42.1,29.6,28.3,1.13,1.13
+Switzerland,Norway,60.0,21.0,19.0,1.39,0.99
+Switzerland,Tunisia,57.8,21.5,20.6,1.42,0.95
+Switzerland,Ivory Coast,50.3,14.3,35.3,1.28,1.04
+Switzerland,Portugal,42.5,14.6,42.9,1.07,1.3
+Switzerland,Panama,61.7,23.8,14.5,1.67,0.72
+Switzerland,Austria,43.5,14.0,42.4,1.23,1.12
+Switzerland,Uzbekistan,65.8,18.2,16.0,1.62,0.85
+Switzerland,South Africa,56.9,25.0,18.1,1.59,0.83
+Switzerland,Egypt,55.4,13.1,31.5,1.3,1.06
+Switzerland,Japan,39.0,22.3,38.7,1.08,1.26
+Switzerland,Argentina,12.7,18.5,68.8,0.89,1.59
+Switzerland,Uruguay,31.2,15.6,53.2,1.08,1.34
+Switzerland,Germany,28.8,16.2,55.0,1.01,1.4
+Switzerland,Ecuador,59.2,17.4,23.3,1.33,1.04
+Switzerland,Morocco,26.0,24.7,49.3,1.06,1.43
+Switzerland,Belgium,44.2,19.5,36.3,1.12,1.25
+Switzerland,United States,58.8,18.3,23.0,1.31,1.11
+Switzerland,France,30.6,19.8,49.6,0.97,1.43
+Switzerland,Czech Republic,55.5,21.4,23.2,1.4,0.96
+Switzerland,Scotland,62.6,24.9,12.5,1.57,0.82
+Switzerland,Turkey,57.2,15.9,27.0,1.33,1.01
+Switzerland,New Zealand,65.3,20.6,14.1,1.96,0.56
+Switzerland,South Korea,51.8,20.6,27.6,1.24,1.07
+Switzerland,Qatar,55.7,16.5,27.8,1.36,1.05
+Switzerland,Jordan,55.7,22.6,21.6,1.52,0.86
+Switzerland,Paraguay,61.1,23.5,15.4,1.59,0.77
+Switzerland,Australia,49.3,15.4,35.3,1.24,1.2
+Switzerland,Iraq,58.2,22.4,19.3,1.55,0.86
+Switzerland,Algeria,55.9,17.6,26.6,1.34,1.08
+Switzerland,Mexico,53.7,16.8,29.5,1.3,1.12
+Switzerland,Saudi Arabia,55.8,24.0,20.2,1.59,0.85
+Switzerland,Curaçao,64.8,20.0,15.2,2.04,0.6
+Argentina,Cape Verde,72.1,12.5,15.3,2.08,0.54
+Argentina,Ghana,78.2,10.4,11.4,2.05,0.51
+Argentina,Iran,68.4,8.4,23.1,1.55,0.79
+Argentina,Bosnia and Herzegovina,72.1,13.2,14.7,2.13,0.52
+Argentina,Sweden,71.1,10.8,18.0,1.67,0.67
+Argentina,DR Congo,76.8,10.0,13.2,2.07,0.58
+Argentina,Colombia,51.8,13.9,34.3,1.32,0.94
+Argentina,Spain,38.9,16.3,44.8,1.15,1.0
+Argentina,Haiti,73.5,17.0,9.4,2.69,0.4
+Argentina,Canada,70.8,17.3,11.9,2.11,0.57
+Argentina,Senegal,61.9,11.1,27.0,1.43,0.85
+Argentina,Brazil,48.1,16.7,35.1,1.32,0.89
+Argentina,Netherlands,45.9,14.5,39.6,1.28,0.87
+Argentina,England,49.4,13.3,37.2,1.32,0.88
+Argentina,Croatia,66.3,12.7,21.0,1.49,0.72
+Argentina,Norway,71.8,11.3,17.0,1.85,0.64
+Argentina,Tunisia,72.8,11.4,15.7,1.89,0.61
+Argentina,Ivory Coast,73.4,9.4,17.1,1.69,0.67
+Argentina,Portugal,63.4,14.1,22.5,1.42,0.84
+Argentina,Panama,78.9,12.2,8.9,2.22,0.46
+Argentina,Austria,69.4,9.1,21.6,1.63,0.72
+Argentina,Uzbekistan,75.0,10.6,14.5,2.15,0.54
+Argentina,South Africa,77.5,10.3,12.2,2.11,0.53
+Argentina,Egypt,72.6,7.9,19.5,1.72,0.68
+Argentina,Japan,70.6,8.1,21.3,1.43,0.81
+Argentina,Switzerland,71.9,10.1,18.0,1.52,0.79
+Argentina,Uruguay,65.6,9.6,24.8,1.43,0.86
+Argentina,Germany,51.8,11.3,36.9,1.34,0.9
+Argentina,Ecuador,74.9,9.9,15.2,1.77,0.67
+Argentina,Morocco,60.1,13.4,26.5,1.4,0.92
+Argentina,Belgium,64.9,13.8,21.3,1.49,0.8
+Argentina,United States,72.1,12.5,15.3,1.74,0.71
+Argentina,France,54.8,11.6,33.6,1.28,0.92
+Argentina,Czech Republic,72.6,10.7,16.7,1.86,0.61
+Argentina,Scotland,77.0,15.0,8.0,2.08,0.53
+Argentina,Turkey,73.6,8.8,17.6,1.77,0.64
+Argentina,New Zealand,73.2,17.8,9.1,2.6,0.4
+Argentina,South Korea,73.6,11.0,15.4,1.64,0.69
+Argentina,Qatar,72.2,10.3,17.4,1.8,0.68
+Argentina,Jordan,70.3,12.6,17.1,2.02,0.55
+Argentina,Paraguay,75.4,16.3,8.3,2.1,0.49
+Argentina,Australia,73.3,7.7,19.0,1.65,0.77
+Argentina,Iraq,75.3,10.7,14.0,2.06,0.55
+Argentina,Algeria,71.7,10.5,17.9,1.78,0.69
+Argentina,Mexico,68.1,12.1,19.8,1.73,0.71
+Argentina,Saudi Arabia,66.6,17.7,15.7,2.12,0.55
+Argentina,Curaçao,68.7,19.4,11.9,2.71,0.4
+Uruguay,Cape Verde,61.9,19.0,19.1,1.64,0.76
+Uruguay,Ghana,59.7,23.3,17.1,1.62,0.72
+Uruguay,Iran,53.2,11.1,35.8,1.23,1.12
+Uruguay,Bosnia and Herzegovina,64.5,18.3,17.3,1.68,0.73
+Uruguay,Sweden,57.3,15.6,27.1,1.32,0.95
+Uruguay,DR Congo,63.0,20.5,16.4,1.64,0.81
+Uruguay,Colombia,29.7,17.1,53.2,1.04,1.32
+Uruguay,Spain,16.5,23.1,60.4,0.91,1.41
+Uruguay,Haiti,69.6,16.3,14.1,2.13,0.43
+Uruguay,Canada,61.3,19.0,19.7,1.67,0.8
+Uruguay,Senegal,44.0,14.7,41.3,1.13,1.2
+Uruguay,Brazil,39.8,16.5,43.7,1.04,1.26
+Uruguay,Netherlands,40.8,16.7,42.5,1.01,1.23
+Uruguay,England,42.6,16.3,41.1,1.05,1.24
+Uruguay,Croatia,42.4,27.6,30.0,1.18,1.02
+Uruguay,Norway,65.1,17.1,17.8,1.46,0.89
+Uruguay,Tunisia,66.2,15.2,18.6,1.49,0.86
+Uruguay,Ivory Coast,58.5,12.5,29.0,1.34,0.94
+Uruguay,Portugal,54.1,14.2,31.7,1.12,1.18
+Uruguay,Panama,72.1,14.1,13.8,1.75,0.65
+Uruguay,Austria,57.8,12.6,29.6,1.29,1.01
+Uruguay,Uzbekistan,72.4,14.8,12.8,1.7,0.76
+Uruguay,South Africa,60.1,24.4,15.5,1.67,0.75
+Uruguay,Egypt,57.5,13.0,29.5,1.36,0.95
+Uruguay,Japan,46.0,17.9,36.2,1.13,1.14
+Uruguay,Switzerland,56.1,12.8,31.1,1.2,1.11
+Uruguay,Argentina,16.8,16.6,66.5,0.93,1.43
+Uruguay,Germany,34.9,16.1,49.0,1.06,1.27
+Uruguay,Ecuador,71.7,12.6,15.7,1.4,0.94
+Uruguay,Morocco,41.8,19.9,38.3,1.11,1.29
+Uruguay,Belgium,54.1,17.4,28.5,1.18,1.13
+Uruguay,United States,61.8,14.7,23.5,1.38,1.0
+Uruguay,France,35.9,15.8,48.3,1.01,1.29
+Uruguay,Czech Republic,66.2,15.4,18.4,1.47,0.86
+Uruguay,Scotland,70.7,17.0,12.3,1.65,0.74
+Uruguay,Turkey,65.7,12.9,21.4,1.4,0.91
+Uruguay,New Zealand,66.6,18.6,14.9,2.05,0.51
+Uruguay,South Korea,62.1,18.4,19.4,1.3,0.97
+Uruguay,Qatar,63.4,11.5,25.1,1.43,0.95
+Uruguay,Jordan,61.6,18.4,20.0,1.6,0.78
+Uruguay,Paraguay,70.0,16.2,13.8,1.66,0.69
+Uruguay,Australia,60.3,12.8,26.9,1.3,1.08
+Uruguay,Iraq,63.5,20.3,16.2,1.63,0.78
+Uruguay,Algeria,61.4,14.4,24.2,1.4,0.98
+Uruguay,Mexico,67.1,11.9,21.1,1.36,1.01
+Uruguay,Saudi Arabia,65.0,18.3,16.7,1.67,0.77
+Uruguay,Curaçao,65.7,19.6,14.7,2.14,0.54
+Germany,Cape Verde,71.4,15.2,13.4,1.69,0.72
+Germany,Ghana,60.9,24.2,14.8,1.67,0.67
+Germany,Iran,58.9,11.2,29.9,1.27,1.05
+Germany,Bosnia and Herzegovina,71.7,14.2,14.0,1.73,0.68
+Germany,Sweden,65.0,12.5,22.5,1.36,0.89
+Germany,DR Congo,66.9,21.6,11.5,1.69,0.76
+Germany,Colombia,40.4,13.7,45.9,1.07,1.24
+Germany,Spain,19.0,21.2,59.8,0.94,1.32
+Germany,Haiti,64.8,17.6,17.6,2.19,0.4
+Germany,Canada,62.6,19.3,18.1,1.72,0.75
+Germany,Senegal,47.4,11.8,40.8,1.17,1.13
+Germany,Brazil,42.6,12.5,44.9,1.08,1.19
+Germany,Netherlands,40.6,14.4,45.0,1.04,1.15
+Germany,England,46.5,12.3,41.2,1.08,1.17
+Germany,Croatia,45.2,21.9,33.0,1.22,0.96
+Germany,Norway,69.6,15.5,14.9,1.51,0.84
+Germany,Tunisia,70.1,13.6,16.3,1.54,0.81
+Germany,Ivory Coast,62.8,11.8,25.4,1.38,0.88
+Germany,Portugal,60.6,10.9,28.5,1.16,1.11
+Germany,Panama,74.7,10.9,14.3,1.81,0.61
+Germany,Austria,63.4,12.6,24.0,1.33,0.95
+Germany,Uzbekistan,74.2,14.0,11.8,1.75,0.72
+Germany,South Africa,65.2,21.0,13.8,1.72,0.7
+Germany,Egypt,67.5,11.5,21.0,1.4,0.9
+Germany,Japan,48.3,15.0,36.7,1.16,1.07
+Germany,Switzerland,61.1,11.3,27.6,1.24,1.05
+Germany,Argentina,22.1,16.3,61.6,0.96,1.35
+Germany,Uruguay,57.2,10.4,32.4,1.17,1.14
+Germany,Ecuador,72.6,12.4,15.0,1.44,0.89
+Germany,Morocco,49.7,16.2,34.2,1.15,1.21
+Germany,Belgium,56.3,14.1,29.6,1.22,1.06
+Germany,United States,69.5,13.5,17.1,1.42,0.94
+Germany,France,48.3,13.0,38.7,1.04,1.21
+Germany,Czech Republic,67.2,14.7,18.0,1.52,0.81
+Germany,Scotland,67.5,16.9,15.6,1.7,0.7
+Germany,Turkey,71.6,11.2,17.1,1.44,0.85
+Germany,New Zealand,64.5,19.6,15.9,2.12,0.48
+Germany,South Korea,70.7,12.2,17.2,1.34,0.91
+Germany,Qatar,68.2,12.3,19.5,1.47,0.89
+Germany,Jordan,71.5,15.6,12.9,1.65,0.73
+Germany,Paraguay,68.0,17.7,14.3,1.72,0.65
+Germany,Australia,72.9,8.6,18.5,1.34,1.02
+Germany,Iraq,72.3,14.2,13.4,1.68,0.73
+Germany,Algeria,72.3,10.5,17.2,1.45,0.92
+Germany,Mexico,68.6,12.1,19.3,1.41,0.95
+Germany,Saudi Arabia,66.0,19.0,15.0,1.73,0.73
+Germany,Curaçao,64.7,19.6,15.7,2.21,0.51
+Ecuador,Cape Verde,36.3,22.7,41.0,1.35,1.11
+Ecuador,Ghana,46.2,22.9,30.8,1.33,1.04
+Ecuador,Iran,29.4,26.7,43.9,1.01,1.62
+Ecuador,Bosnia and Herzegovina,46.9,23.8,29.3,1.38,1.06
+Ecuador,Sweden,40.1,26.3,33.6,1.09,1.37
+Ecuador,DR Congo,40.7,28.5,30.7,1.36,1.18
+Ecuador,Colombia,14.7,20.9,64.4,0.86,1.92
+Ecuador,Spain,10.1,29.9,60.0,0.75,2.04
+Ecuador,Haiti,69.6,16.0,14.4,1.75,0.62
+Ecuador,Canada,55.3,21.4,23.2,1.37,1.16
+Ecuador,Senegal,18.3,20.8,60.9,0.93,1.74
+Ecuador,Brazil,18.0,20.0,62.0,0.86,1.83
+Ecuador,Netherlands,15.6,24.5,59.9,0.83,1.78
+Ecuador,England,18.4,22.0,59.6,0.86,1.8
+Ecuador,Croatia,30.6,30.5,39.0,0.97,1.48
+Ecuador,Norway,36.7,28.7,34.6,1.2,1.3
+Ecuador,Tunisia,44.5,21.2,34.3,1.23,1.25
+Ecuador,Ivory Coast,37.5,18.2,44.2,1.1,1.36
+Ecuador,Portugal,26.4,17.8,55.8,0.92,1.71
+Ecuador,Panama,57.7,21.0,21.3,1.44,0.95
+Ecuador,Austria,32.3,24.2,43.5,1.06,1.47
+Ecuador,Uzbekistan,37.6,27.2,35.2,1.4,1.11
+Ecuador,South Africa,42.9,22.4,34.7,1.37,1.09
+Ecuador,Egypt,38.6,24.4,37.0,1.12,1.38
+Ecuador,Japan,25.6,32.3,42.0,0.93,1.65
+Ecuador,Switzerland,27.2,24.0,48.8,0.99,1.61
+Ecuador,Argentina,10.7,24.3,65.0,0.77,2.08
+Ecuador,Uruguay,20.7,21.5,57.8,0.93,1.76
+Ecuador,Germany,17.6,21.8,60.6,0.87,1.84
+Ecuador,Morocco,14.0,29.9,56.1,0.91,1.87
+Ecuador,Belgium,26.3,21.6,52.1,0.97,1.64
+Ecuador,United States,34.7,25.7,39.5,1.13,1.46
+Ecuador,France,21.7,26.0,52.3,0.83,1.87
+Ecuador,Czech Republic,41.8,24.5,33.7,1.21,1.25
+Ecuador,Scotland,57.0,26.7,16.3,1.36,1.08
+Ecuador,Turkey,34.3,23.2,42.5,1.15,1.32
+Ecuador,New Zealand,56.4,29.4,14.3,1.69,0.74
+Ecuador,South Korea,29.5,34.1,36.4,1.07,1.41
+Ecuador,Qatar,40.6,22.4,37.1,1.17,1.38
+Ecuador,Jordan,37.6,20.7,41.8,1.32,1.13
+Ecuador,Paraguay,47.1,27.7,25.3,1.37,1.01
+Ecuador,Australia,33.0,25.3,41.7,1.07,1.57
+Ecuador,Iraq,37.3,21.3,41.4,1.34,1.13
+Ecuador,Algeria,32.2,29.2,38.7,1.16,1.42
+Ecuador,Mexico,35.6,27.7,36.7,1.12,1.46
+Ecuador,Saudi Arabia,41.1,27.8,31.1,1.38,1.12
+Ecuador,Curaçao,56.6,27.1,16.3,1.76,0.78
+Morocco,Cape Verde,69.3,15.1,15.6,1.64,0.76
+Morocco,Ghana,60.9,22.9,16.2,1.62,0.72
+Morocco,Iran,55.8,10.6,33.6,1.23,1.11
+Morocco,Bosnia and Herzegovina,72.8,13.3,13.9,1.68,0.73
+Morocco,Sweden,58.7,12.7,28.6,1.32,0.94
+Morocco,DR Congo,61.2,20.9,17.9,1.63,0.81
+Morocco,Colombia,31.1,17.7,51.2,1.04,1.32
+Morocco,Spain,17.0,21.4,61.6,0.91,1.41
+Morocco,Haiti,67.5,19.4,13.1,2.12,0.43
+Morocco,Canada,62.2,17.8,20.0,1.67,0.8
+Morocco,Senegal,39.9,13.9,46.2,1.13,1.2
+Morocco,Brazil,38.6,13.4,47.9,1.04,1.26
+Morocco,Netherlands,38.5,14.1,47.3,1.01,1.22
+Morocco,England,40.3,12.9,46.7,1.05,1.24
+Morocco,Croatia,40.0,22.8,37.2,1.18,1.02
+Morocco,Norway,64.5,14.3,21.2,1.46,0.89
+Morocco,Tunisia,66.5,12.7,20.9,1.49,0.86
+Morocco,Ivory Coast,58.6,11.7,29.7,1.34,0.94
+Morocco,Portugal,50.5,12.7,36.9,1.12,1.18
+Morocco,Panama,74.8,12.2,12.9,1.75,0.65
+Morocco,Austria,58.9,11.5,29.6,1.28,1.01
+Morocco,Uzbekistan,70.8,13.9,15.3,1.69,0.76
+Morocco,South Africa,61.5,25.1,13.5,1.66,0.75
+Morocco,Egypt,55.2,11.7,33.1,1.36,0.95
+Morocco,Japan,46.5,16.2,37.3,1.13,1.13
+Morocco,Switzerland,56.0,13.0,31.0,1.2,1.11
+Morocco,Argentina,17.8,15.8,66.4,0.93,1.43
+Morocco,Uruguay,44.9,14.2,40.8,1.13,1.21
+Morocco,Germany,38.7,14.7,46.6,1.06,1.26
+Morocco,Ecuador,70.1,11.1,18.8,1.4,0.94
+Morocco,Belgium,51.4,17.9,30.7,1.18,1.13
+Morocco,United States,67.3,12.7,20.0,1.37,1.0
+Morocco,France,38.1,13.5,48.3,1.01,1.29
+Morocco,Czech Republic,66.8,13.1,20.2,1.47,0.86
+Morocco,Scotland,70.9,16.3,12.8,1.65,0.74
+Morocco,Turkey,65.8,11.1,23.1,1.39,0.91
+Morocco,New Zealand,65.9,21.0,13.0,2.05,0.51
+Morocco,South Korea,63.8,14.9,21.3,1.3,0.97
+Morocco,Qatar,66.3,10.4,23.3,1.43,0.95
+Morocco,Jordan,67.0,15.6,17.4,1.6,0.78
+Morocco,Paraguay,70.8,15.2,14.0,1.66,0.69
+Morocco,Australia,60.5,9.8,29.6,1.3,1.08
+Morocco,Iraq,71.7,12.5,15.7,1.63,0.77
+Morocco,Algeria,62.4,11.2,26.4,1.4,0.98
+Morocco,Mexico,65.0,12.3,22.7,1.36,1.01
+Morocco,Saudi Arabia,67.3,16.4,16.3,1.67,0.77
+Morocco,Curaçao,66.3,20.6,13.1,2.14,0.54
+Belgium,Cape Verde,68.9,16.7,14.4,1.7,0.85
+Belgium,Ghana,70.3,16.7,12.9,1.68,0.8
+Belgium,Iran,54.3,14.3,31.4,1.27,1.24
+Belgium,Bosnia and Herzegovina,68.6,16.0,15.4,1.74,0.81
+Belgium,Sweden,56.9,17.1,25.9,1.37,1.05
+Belgium,DR Congo,61.1,25.8,13.1,1.69,0.9
+Belgium,Colombia,32.7,23.0,44.3,1.08,1.47
+Belgium,Spain,26.1,28.5,45.4,0.94,1.56
+Belgium,Haiti,69.8,17.4,12.9,2.2,0.48
+Belgium,Canada,58.7,24.2,17.1,1.73,0.89
+Belgium,Senegal,39.2,20.6,40.2,1.17,1.33
+Belgium,Brazil,42.5,20.2,37.2,1.08,1.4
+Belgium,Netherlands,42.7,19.3,38.0,1.05,1.36
+Belgium,England,39.1,20.7,40.2,1.08,1.38
+Belgium,Croatia,49.0,20.8,30.2,1.22,1.13
+Belgium,Norway,60.6,20.7,18.6,1.51,0.99
+Belgium,Tunisia,60.4,21.3,18.3,1.54,0.95
+Belgium,Ivory Coast,56.8,16.3,26.9,1.39,1.04
+Belgium,Portugal,53.4,17.2,29.5,1.16,1.31
+Belgium,Panama,75.8,10.6,13.6,1.82,0.72
+Belgium,Austria,54.3,17.8,27.9,1.33,1.13
+Belgium,Uzbekistan,68.6,17.2,14.2,1.76,0.85
+Belgium,South Africa,72.0,16.8,11.2,1.73,0.83
+Belgium,Egypt,59.6,15.5,24.9,1.41,1.06
+Belgium,Japan,50.0,17.6,32.4,1.17,1.26
+Belgium,Switzerland,56.7,18.5,24.8,1.24,1.23
+Belgium,Argentina,21.3,28.1,50.6,0.96,1.59
+Belgium,Uruguay,44.1,17.8,38.1,1.17,1.35
+Belgium,Germany,39.0,18.7,42.3,1.1,1.41
+Belgium,Ecuador,62.0,17.6,20.5,1.45,1.05
+Belgium,Morocco,38.4,28.0,33.6,1.15,1.43
+Belgium,United States,65.9,17.3,16.8,1.42,1.11
+Belgium,France,37.3,22.2,40.5,1.05,1.43
+Belgium,Czech Republic,60.8,18.7,20.4,1.52,0.96
+Belgium,Scotland,64.7,21.3,14.0,1.71,0.83
+Belgium,Turkey,61.4,16.4,22.2,1.45,1.01
+Belgium,New Zealand,67.3,19.3,13.4,2.13,0.56
+Belgium,South Korea,63.9,16.9,19.2,1.35,1.08
+Belgium,Qatar,62.1,15.0,22.9,1.48,1.06
+Belgium,Jordan,67.8,16.4,15.8,1.65,0.87
+Belgium,Paraguay,63.8,22.6,13.6,1.72,0.77
+Belgium,Australia,54.5,17.2,28.3,1.35,1.2
+Belgium,Iraq,71.6,15.8,12.6,1.69,0.86
+Belgium,Algeria,58.8,20.2,21.0,1.45,1.08
+Belgium,Mexico,61.3,17.5,21.2,1.41,1.12
+Belgium,Saudi Arabia,52.9,31.7,15.3,1.73,0.86
+Belgium,Curaçao,70.9,16.0,13.1,2.22,0.6
+United States,Cape Verde,47.1,21.0,31.9,1.45,1.26
+United States,Ghana,34.3,23.7,42.0,1.36,1.18
+United States,Iran,26.7,29.0,44.3,0.98,1.84
+United States,Bosnia and Herzegovina,46.7,18.6,34.7,1.38,1.2
+United States,Sweden,40.4,18.0,41.6,1.05,1.56
+United States,DR Congo,39.4,25.8,34.8,1.54,1.34
+United States,Colombia,18.2,17.3,64.4,0.83,2.18
+United States,Spain,12.2,25.3,62.5,0.73,2.32
+United States,Haiti,55.1,23.9,20.9,1.69,0.7
+United States,Canada,41.5,25.8,32.7,1.52,1.32
+United States,Senegal,21.9,22.5,55.6,0.9,1.97
+United States,Brazil,14.9,14.9,70.2,0.83,2.07
+United States,Netherlands,19.2,18.0,62.8,0.81,2.02
+United States,England,16.5,16.6,66.9,0.84,2.04
+United States,Croatia,24.3,28.2,47.5,0.94,1.68
+United States,Norway,39.0,24.1,36.9,1.17,1.47
+United States,Tunisia,37.4,20.6,42.0,1.63,1.41
+United States,Ivory Coast,35.4,18.8,45.8,1.78,1.55
+United States,Portugal,25.5,22.0,52.6,0.89,1.94
+United States,Panama,52.9,20.0,27.0,1.4,1.07
+United States,Austria,32.4,23.2,44.4,1.03,1.67
+United States,Uzbekistan,47.2,22.6,30.2,1.45,1.26
+United States,South Africa,34.6,24.1,41.3,1.42,1.23
+United States,Egypt,37.6,22.2,40.3,1.09,1.57
+United States,Japan,27.3,24.8,47.9,0.9,1.87
+United States,Switzerland,32.9,23.9,43.2,0.96,1.83
+United States,Argentina,11.4,17.4,71.2,0.74,2.36
+United States,Uruguay,28.3,24.6,47.1,0.9,2.0
+United States,Germany,18.5,18.6,62.9,0.84,2.09
+United States,Ecuador,37.4,19.8,42.8,1.11,1.55
+United States,Morocco,19.9,31.7,48.4,0.89,2.12
+United States,Belgium,22.8,21.3,55.8,0.94,1.86
+United States,France,18.4,20.2,61.3,0.81,2.12
+United States,Czech Republic,37.9,19.0,43.1,1.17,1.42
+United States,Scotland,46.4,23.4,30.2,1.31,1.23
+United States,Turkey,33.5,18.0,48.5,1.11,1.49
+United States,New Zealand,45.8,31.2,23.0,1.64,0.84
+United States,South Korea,31.3,27.6,41.0,1.04,1.6
+United States,Qatar,32.5,18.0,49.4,1.14,1.57
+United States,Jordan,44.1,22.8,33.1,1.47,1.28
+United States,Paraguay,38.9,27.8,33.2,1.33,1.14
+United States,Australia,27.1,27.5,45.4,1.04,1.78
+United States,Iraq,45.7,20.4,33.9,1.47,1.28
+United States,Algeria,34.0,25.5,40.6,1.12,1.61
+United States,Mexico,26.8,28.5,44.7,1.09,1.66
+United States,Saudi Arabia,32.6,22.0,45.4,1.46,1.27
+United States,Curaçao,44.1,19.4,36.5,1.71,0.89
+France,Cape Verde,69.7,12.5,17.8,2.05,0.6
+France,Ghana,74.9,11.1,14.0,2.02,0.57
+France,Iran,61.6,14.8,23.5,1.53,0.88
+France,Bosnia and Herzegovina,73.1,12.5,14.3,2.1,0.57
+France,Sweden,64.3,16.2,19.5,1.65,0.75
+France,DR Congo,67.4,17.0,15.6,2.04,0.64
+France,Colombia,42.9,19.1,38.0,1.3,1.04
+France,Spain,39.7,17.6,42.8,1.13,1.11
+France,Haiti,74.9,15.8,9.2,2.65,0.4
+France,Canada,67.8,21.2,11.0,2.08,0.63
+France,Senegal,51.6,17.1,31.3,1.41,0.95
+France,Brazil,47.5,16.8,35.7,1.3,0.99
+France,Netherlands,45.6,13.7,40.7,1.26,0.97
+France,England,47.4,14.9,37.7,1.31,0.98
+France,Croatia,64.6,16.3,19.1,1.47,0.8
+France,Norway,63.4,18.8,17.8,1.82,0.71
+France,Tunisia,68.1,16.3,15.6,1.86,0.68
+France,Ivory Coast,64.5,15.0,20.4,1.67,0.74
+France,Portugal,56.9,15.1,28.0,1.4,0.93
+France,Panama,75.5,12.4,12.1,2.19,0.51
+France,Austria,61.0,15.1,23.9,1.6,0.8
+France,Uzbekistan,71.7,11.6,16.6,2.11,0.6
+France,South Africa,73.7,12.5,13.8,2.08,0.59
+France,Egypt,67.8,12.5,19.7,1.7,0.75
+France,Japan,59.8,16.1,24.1,1.41,0.89
+France,Switzerland,60.9,19.4,19.7,1.49,0.88
+France,Argentina,40.8,18.0,41.1,1.16,1.13
+France,Uruguay,51.2,17.4,31.4,1.41,0.96
+France,Germany,45.1,15.2,39.6,1.32,1.0
+France,Ecuador,68.9,14.6,16.6,1.74,0.74
+France,Morocco,50.9,20.2,29.0,1.38,1.02
+France,Belgium,58.2,22.3,19.5,1.47,0.89
+France,United States,68.4,14.3,17.3,1.72,0.79
+France,Czech Republic,67.9,15.6,16.5,1.84,0.68
+France,Scotland,73.1,18.6,8.3,2.05,0.59
+France,Turkey,66.2,13.5,20.4,1.74,0.72
+France,New Zealand,73.1,16.9,10.0,2.56,0.4
+France,South Korea,65.7,16.3,18.0,1.62,0.76
+France,Qatar,68.4,13.1,18.5,1.78,0.75
+France,Jordan,68.5,13.2,18.3,1.99,0.61
+France,Paraguay,72.1,17.2,10.8,2.07,0.55
+France,Australia,63.7,13.9,22.4,1.62,0.85
+France,Iraq,68.7,13.1,18.2,2.03,0.61
+France,Algeria,63.9,15.2,20.9,1.75,0.77
+France,Mexico,63.8,18.5,17.7,1.7,0.79
+France,Saudi Arabia,62.6,21.7,15.7,2.09,0.61
+France,Curaçao,71.3,16.9,11.9,2.67,0.43
+Czech Republic,Cape Verde,35.5,22.3,42.1,1.32,1.13
+Czech Republic,Ghana,45.2,21.9,32.9,1.3,1.06
+Czech Republic,Iran,26.8,25.3,47.9,0.99,1.65
+Czech Republic,Bosnia and Herzegovina,44.4,23.0,32.6,1.35,1.07
+Czech Republic,Sweden,36.0,26.8,37.2,1.06,1.39
+Czech Republic,DR Congo,41.1,30.5,28.5,1.32,1.2
+Czech Republic,Colombia,12.8,24.1,63.1,0.84,1.95
+Czech Republic,Spain,9.8,32.2,58.0,0.73,2.07
+Czech Republic,Haiti,67.2,17.0,15.8,1.71,0.63
+Czech Republic,Canada,51.5,23.3,25.3,1.34,1.18
+Czech Republic,Senegal,16.2,24.7,59.1,0.91,1.77
+Czech Republic,Brazil,15.6,22.0,62.5,0.84,1.86
+Czech Republic,Netherlands,14.5,27.4,58.1,0.81,1.81
+Czech Republic,England,15.6,24.5,59.8,0.84,1.82
+Czech Republic,Croatia,25.9,36.0,38.1,0.95,1.5
+Czech Republic,Norway,32.8,28.8,38.4,1.18,1.32
+Czech Republic,Tunisia,36.0,27.8,36.2,1.2,1.27
+Czech Republic,Ivory Coast,31.5,24.0,44.4,1.08,1.39
+Czech Republic,Portugal,22.1,18.8,59.1,0.9,1.73
+Czech Republic,Panama,55.2,20.1,24.7,1.41,0.96
+Czech Republic,Austria,30.9,28.0,41.0,1.04,1.49
+Czech Republic,Uzbekistan,34.5,27.9,37.6,1.37,1.13
+Czech Republic,South Africa,43.0,22.5,34.5,1.34,1.1
+Czech Republic,Egypt,34.2,24.1,41.7,1.1,1.41
+Czech Republic,Japan,24.2,33.1,42.7,0.91,1.67
+Czech Republic,Switzerland,23.9,24.0,52.2,0.97,1.64
+Czech Republic,Argentina,8.2,26.7,65.2,0.75,2.11
+Czech Republic,Uruguay,17.0,21.8,61.3,0.91,1.79
+Czech Republic,Germany,16.9,23.9,59.2,0.85,1.87
+Czech Republic,Ecuador,34.9,30.3,34.8,1.13,1.39
+Czech Republic,Morocco,11.9,33.4,54.7,0.89,1.9
+Czech Republic,Belgium,23.7,23.4,52.9,0.95,1.67
+Czech Republic,United States,40.2,24.7,35.1,1.11,1.48
+Czech Republic,France,18.2,25.3,56.5,0.82,1.9
+Czech Republic,Scotland,54.0,26.4,19.6,1.33,1.1
+Czech Republic,Turkey,32.1,26.3,41.6,1.12,1.34
+Czech Republic,New Zealand,56.7,26.6,16.7,1.65,0.75
+Czech Republic,South Korea,26.3,36.8,36.9,1.05,1.43
+Czech Republic,Qatar,39.3,21.2,39.5,1.15,1.4
+Czech Republic,Jordan,36.2,20.0,43.8,1.32,1.15
+Czech Republic,Paraguay,47.2,28.2,24.6,1.34,1.02
+Czech Republic,Australia,33.2,27.9,38.9,1.05,1.59
+Czech Republic,Iraq,37.7,20.2,42.1,1.31,1.14
+Czech Republic,Algeria,30.3,29.0,40.6,1.13,1.44
+Czech Republic,Mexico,39.2,26.8,34.0,1.1,1.48
+Czech Republic,Saudi Arabia,42.4,27.7,29.9,1.35,1.14
+Czech Republic,Curaçao,58.0,25.4,16.5,1.72,0.8
+Scotland,Cape Verde,26.1,24.8,49.1,1.61,1.4
+Scotland,Ghana,33.7,21.2,45.2,1.19,1.31
+Scotland,Iran,11.5,32.6,56.0,0.9,2.04
+Scotland,Bosnia and Herzegovina,32.3,21.0,46.7,1.24,1.33
+Scotland,Sweden,15.6,23.8,60.6,0.97,1.73
+Scotland,DR Congo,32.2,27.8,40.0,1.21,1.49
+Scotland,Colombia,11.9,20.2,67.9,0.77,2.42
+Scotland,Spain,9.9,24.7,65.4,0.67,2.58
+Scotland,Haiti,56.2,21.7,22.2,1.57,0.78
+Scotland,Canada,24.8,29.8,45.5,1.23,1.47
+Scotland,Senegal,10.5,22.3,67.2,0.84,2.2
+Scotland,Brazil,7.4,10.6,82.0,0.77,2.31
+Scotland,Netherlands,9.2,15.1,75.7,0.75,2.24
+Scotland,England,7.5,12.6,79.9,0.77,2.27
+Scotland,Croatia,8.5,14.4,77.1,0.87,1.87
+Scotland,Norway,11.7,27.6,60.7,1.08,1.64
+Scotland,Tunisia,22.5,27.4,50.1,1.1,1.57
+Scotland,Ivory Coast,19.2,27.0,53.9,0.99,1.72
+Scotland,Portugal,8.0,12.7,79.3,0.83,2.16
+Scotland,Panama,46.5,19.7,33.8,1.37,1.19
+Scotland,Austria,10.9,31.9,57.1,0.95,1.86
+Scotland,Uzbekistan,27.6,28.3,44.1,1.61,1.4
+Scotland,South Africa,33.7,21.4,44.9,1.58,1.37
+Scotland,Egypt,16.9,26.7,56.4,1.0,1.75
+Scotland,Japan,14.0,22.3,63.7,0.83,2.08
+Scotland,Switzerland,10.2,19.7,70.1,0.88,2.03
+Scotland,Argentina,7.5,22.6,69.8,0.69,2.62
+Scotland,Uruguay,10.2,19.8,70.0,0.83,2.22
+Scotland,Germany,10.5,18.8,70.7,0.78,2.32
+Scotland,Ecuador,19.3,23.6,57.1,1.03,1.73
+Scotland,Morocco,9.8,27.5,62.7,0.82,2.36
+Scotland,Belgium,8.5,11.6,79.9,0.87,2.07
+Scotland,United States,26.8,25.7,47.5,1.01,1.84
+Scotland,France,7.9,19.0,73.1,0.75,2.36
+Scotland,Czech Republic,18.7,20.5,60.8,1.09,1.58
+Scotland,Turkey,24.2,25.7,50.1,1.03,1.66
+Scotland,New Zealand,45.2,24.4,30.4,1.51,0.93
+Scotland,South Korea,13.4,23.7,63.0,0.96,1.78
+Scotland,Qatar,20.5,21.6,57.8,1.05,1.74
+Scotland,Jordan,28.4,26.1,45.5,1.64,1.43
+Scotland,Paraguay,41.9,22.1,36.1,1.23,1.27
+Scotland,Australia,20.9,28.5,50.6,0.96,1.98
+Scotland,Iraq,26.4,23.7,50.0,1.63,1.42
+Scotland,Algeria,12.9,32.4,54.6,1.03,1.79
+Scotland,Mexico,15.9,21.5,62.6,1.01,1.84
+Scotland,Saudi Arabia,32.5,22.7,44.8,1.23,1.41
+Scotland,Curaçao,41.4,18.9,39.8,1.58,0.99
+Turkey,Cape Verde,37.2,19.9,43.0,1.34,1.07
+Turkey,Ghana,44.2,23.3,32.5,1.32,1.0
+Turkey,Iran,25.5,23.1,51.4,1.0,1.56
+Turkey,Bosnia and Herzegovina,44.0,25.3,30.7,1.37,1.02
+Turkey,Sweden,37.9,21.2,40.9,1.08,1.32
+Turkey,DR Congo,46.0,25.9,28.2,1.34,1.14
+Turkey,Colombia,17.3,19.9,62.8,0.85,1.85
+Turkey,Spain,11.8,27.8,60.4,0.74,1.97
+Turkey,Haiti,67.7,17.7,14.6,1.74,0.6
+Turkey,Canada,52.3,20.9,26.8,1.36,1.12
+Turkey,Senegal,21.0,17.9,61.1,0.93,1.68
+Turkey,Brazil,19.7,17.3,63.0,0.85,1.76
+Turkey,Netherlands,17.2,20.2,62.5,0.83,1.72
+Turkey,England,17.9,19.5,62.6,0.86,1.73
+Turkey,Croatia,26.1,28.1,45.7,0.97,1.43
+Turkey,Norway,42.7,24.8,32.5,1.2,1.25
+Turkey,Tunisia,41.7,24.7,33.6,1.22,1.2
+Turkey,Ivory Coast,31.4,20.0,48.6,1.09,1.32
+Turkey,Portugal,28.0,16.3,55.7,0.92,1.65
+Turkey,Panama,56.1,21.6,22.3,1.43,0.91
+Turkey,Austria,31.0,23.2,45.8,1.05,1.42
+Turkey,Uzbekistan,44.8,24.2,31.1,1.39,1.07
+Turkey,South Africa,45.5,22.5,31.9,1.36,1.05
+Turkey,Egypt,38.2,18.8,43.0,1.11,1.34
+Turkey,Japan,28.3,26.3,45.4,0.92,1.59
+Turkey,Switzerland,31.2,19.0,49.9,0.98,1.56
+Turkey,Argentina,11.6,21.9,66.5,0.76,2.01
+Turkey,Uruguay,23.6,17.1,59.3,0.92,1.7
+Turkey,Germany,20.6,17.9,61.5,0.87,1.77
+Turkey,Ecuador,41.1,23.9,35.0,1.14,1.32
+Turkey,Morocco,18.8,26.4,54.8,0.91,1.81
+Turkey,Belgium,32.3,20.0,47.6,0.96,1.58
+Turkey,United States,45.4,21.3,33.4,1.13,1.41
+Turkey,France,21.4,19.4,59.2,0.83,1.81
+Turkey,Czech Republic,38.1,20.9,41.0,1.2,1.21
+Turkey,Scotland,51.1,25.6,23.3,1.35,1.04
+Turkey,New Zealand,56.5,28.4,15.2,1.68,0.71
+Turkey,South Korea,32.1,34.0,34.0,1.06,1.36
+Turkey,Qatar,37.0,16.9,46.1,1.17,1.33
+Turkey,Jordan,36.2,19.1,44.7,1.31,1.09
+Turkey,Paraguay,46.2,32.7,21.1,1.36,0.97
+Turkey,Australia,37.8,23.0,39.2,1.06,1.52
+Turkey,Iraq,38.8,21.9,39.3,1.33,1.09
+Turkey,Algeria,32.5,22.3,45.2,1.15,1.37
+Turkey,Mexico,40.1,23.0,36.9,1.12,1.41
+Turkey,Saudi Arabia,41.9,29.7,28.3,1.37,1.08
+Turkey,Curaçao,55.2,26.2,18.6,1.75,0.76
+New Zealand,Cape Verde,27.2,37.2,35.6,1.07,1.3
+New Zealand,Ghana,25.2,34.3,40.5,1.05,1.22
+New Zealand,Iran,19.1,28.1,52.8,0.8,1.9
+New Zealand,Bosnia and Herzegovina,25.3,37.1,37.6,1.1,1.26
+New Zealand,Sweden,14.1,25.3,60.6,0.86,1.61
+New Zealand,DR Congo,26.2,38.2,35.6,1.07,1.38
+New Zealand,Colombia,8.3,33.5,58.2,0.68,2.25
+New Zealand,Spain,9.4,37.2,53.4,0.59,2.4
+New Zealand,Haiti,41.3,31.3,27.4,1.38,0.73
+New Zealand,Canada,30.1,31.5,38.5,1.09,1.36
+New Zealand,Senegal,8.2,30.0,61.9,0.74,2.04
+New Zealand,Brazil,9.8,34.7,55.5,0.68,2.14
+New Zealand,Netherlands,9.1,38.4,52.6,0.66,2.09
+New Zealand,England,10.0,34.9,55.1,0.68,2.11
+New Zealand,Croatia,19.0,38.4,42.6,0.77,1.74
+New Zealand,Norway,21.1,30.7,48.2,0.95,1.52
+New Zealand,Tunisia,26.6,36.3,37.1,0.97,1.46
+New Zealand,Ivory Coast,9.8,26.4,63.8,0.87,1.6
+New Zealand,Portugal,10.0,36.4,53.6,0.73,2.0
+New Zealand,Panama,30.3,28.0,41.7,1.14,1.11
+New Zealand,Austria,19.6,28.4,52.0,0.84,1.73
+New Zealand,Uzbekistan,27.4,37.5,35.1,1.11,1.3
+New Zealand,South Africa,27.1,39.4,33.5,1.09,1.28
+New Zealand,Egypt,12.6,20.6,66.7,0.89,1.62
+New Zealand,Japan,12.2,30.1,57.7,0.74,1.93
+New Zealand,Switzerland,9.3,24.2,66.5,0.78,1.89
+New Zealand,Argentina,7.9,35.1,57.1,0.61,2.44
+New Zealand,Uruguay,8.4,31.8,59.8,0.74,2.06
+New Zealand,Germany,7.5,34.6,57.9,0.69,2.16
+New Zealand,Ecuador,23.2,37.1,39.8,0.91,1.61
+New Zealand,Morocco,7.0,39.8,53.1,0.72,2.2
+New Zealand,Belgium,12.4,34.8,52.8,0.77,1.92
+New Zealand,United States,27.3,35.7,37.0,0.9,1.71
+New Zealand,France,13.2,39.5,47.3,0.66,2.2
+New Zealand,Czech Republic,24.5,36.6,38.9,0.96,1.47
+New Zealand,Scotland,38.0,31.6,30.4,1.07,1.27
+New Zealand,Turkey,24.3,33.7,42.0,0.91,1.55
+New Zealand,South Korea,25.2,33.2,41.6,0.85,1.65
+New Zealand,Qatar,24.2,32.1,43.7,0.93,1.62
+New Zealand,Jordan,27.1,34.9,38.0,1.04,1.33
+New Zealand,Paraguay,33.1,32.9,34.0,1.08,1.25
+New Zealand,Australia,21.1,29.2,49.7,0.85,1.84
+New Zealand,Iraq,26.4,38.2,35.4,1.06,1.32
+New Zealand,Algeria,20.9,29.7,49.4,0.91,1.66
+New Zealand,Mexico,19.7,37.2,43.1,0.89,1.71
+New Zealand,Saudi Arabia,29.2,37.4,33.3,1.09,1.31
+New Zealand,Curaçao,36.5,26.6,36.9,1.4,0.92
+South Korea,Cape Verde,44.2,27.9,27.9,1.42,1.03
+South Korea,Ghana,41.7,29.6,28.7,1.4,0.96
+South Korea,Iran,24.3,24.9,50.8,1.06,1.5
+South Korea,Bosnia and Herzegovina,48.9,28.7,22.4,1.46,0.98
+South Korea,Sweden,34.4,27.0,38.6,1.14,1.27
+South Korea,DR Congo,43.6,29.4,26.9,1.42,1.09
+South Korea,Colombia,19.6,19.6,60.8,0.9,1.78
+South Korea,Spain,11.1,28.0,60.9,0.79,1.89
+South Korea,Haiti,72.5,16.9,10.6,1.84,0.58
+South Korea,Canada,51.9,27.5,20.6,1.45,1.08
+South Korea,Senegal,20.1,23.9,56.0,0.98,1.61
+South Korea,Brazil,21.2,15.7,63.1,0.9,1.69
+South Korea,Netherlands,18.7,19.7,61.6,0.88,1.65
+South Korea,England,19.7,18.4,61.9,0.91,1.67
+South Korea,Croatia,30.6,24.3,45.2,1.02,1.37
+South Korea,Norway,45.5,27.5,27.0,1.27,1.2
+South Korea,Tunisia,43.7,29.4,26.9,1.29,1.15
+South Korea,Ivory Coast,31.0,18.8,50.1,1.16,1.26
+South Korea,Portugal,30.8,16.4,52.8,0.97,1.58
+South Korea,Panama,62.0,23.3,14.7,1.52,0.88
+South Korea,Austria,30.0,24.5,45.5,1.11,1.36
+South Korea,Uzbekistan,56.6,25.0,18.5,1.47,1.03
+South Korea,South Africa,46.0,28.9,25.1,1.44,1.01
+South Korea,Egypt,38.7,20.0,41.3,1.18,1.28
+South Korea,Japan,31.3,28.7,40.1,0.98,1.53
+South Korea,Switzerland,32.2,20.6,47.2,1.04,1.49
+South Korea,Argentina,12.5,24.8,62.7,0.81,1.92
+South Korea,Uruguay,26.7,17.4,55.9,0.98,1.63
+South Korea,Germany,23.3,16.9,59.8,0.92,1.7
+South Korea,Ecuador,43.3,23.6,33.1,1.21,1.27
+South Korea,Morocco,19.4,29.1,51.5,0.96,1.74
+South Korea,Belgium,39.0,17.9,43.1,1.02,1.52
+South Korea,United States,48.3,19.5,32.2,1.19,1.35
+South Korea,France,24.5,21.2,54.3,0.88,1.73
+South Korea,Czech Republic,44.0,27.0,29.0,1.28,1.16
+South Korea,Scotland,60.4,23.3,16.3,1.43,1.0
+South Korea,Turkey,38.8,24.8,36.4,1.21,1.22
+South Korea,New Zealand,55.6,28.7,15.7,1.78,0.68
+South Korea,Qatar,41.7,22.7,35.6,1.24,1.28
+South Korea,Jordan,37.5,24.8,37.7,1.38,1.05
+South Korea,Paraguay,44.2,36.3,19.5,1.44,0.93
+South Korea,Australia,38.9,18.8,42.3,1.13,1.45
+South Korea,Iraq,43.9,27.7,28.4,1.41,1.04
+South Korea,Algeria,35.4,25.7,38.9,1.22,1.31
+South Korea,Mexico,42.6,21.0,36.4,1.18,1.35
+South Korea,Saudi Arabia,42.3,33.1,24.6,1.45,1.04
+South Korea,Curaçao,57.9,24.5,17.6,1.86,0.73
+Qatar,Cape Verde,42.3,17.7,40.0,1.28,1.12
+Qatar,Ghana,43.0,22.1,34.9,1.25,1.05
+Qatar,Iran,25.9,22.2,51.9,0.95,1.63
+Qatar,Bosnia and Herzegovina,47.5,18.0,34.5,1.3,1.06
+Qatar,Sweden,35.9,25.0,39.1,1.02,1.38
+Qatar,DR Congo,46.8,22.2,31.0,1.26,1.19
+Qatar,Colombia,16.0,15.8,68.2,0.8,1.93
+Qatar,Spain,11.6,24.3,64.1,0.7,2.06
+Qatar,Haiti,50.1,25.2,24.7,1.64,0.62
+Qatar,Canada,43.0,24.5,32.5,1.29,1.17
+Qatar,Senegal,18.5,18.5,63.0,0.87,1.75
+Qatar,Brazil,17.1,18.2,64.7,0.8,1.84
+Qatar,Netherlands,15.5,21.5,63.0,0.78,1.79
+Qatar,England,15.4,19.8,64.8,0.81,1.81
+Qatar,Croatia,24.6,31.0,44.3,0.91,1.49
+Qatar,Norway,37.1,26.3,36.6,1.13,1.31
+Qatar,Tunisia,43.7,21.5,34.8,1.15,1.25
+Qatar,Ivory Coast,36.8,20.6,42.6,1.03,1.37
+Qatar,Portugal,25.5,16.4,58.1,0.86,1.72
+Qatar,Panama,50.5,21.9,27.6,1.35,0.95
+Qatar,Austria,29.4,24.9,45.7,0.99,1.48
+Qatar,Uzbekistan,44.7,21.4,33.9,1.31,1.12
+Qatar,South Africa,46.7,17.1,36.2,1.29,1.09
+Qatar,Egypt,36.7,19.8,43.5,1.05,1.39
+Qatar,Japan,22.7,23.6,53.6,0.87,1.66
+Qatar,Switzerland,25.5,17.7,56.8,0.92,1.62
+Qatar,Argentina,8.9,17.2,73.9,0.72,2.09
+Qatar,Uruguay,20.9,16.0,63.1,0.87,1.77
+Qatar,Germany,17.3,19.3,63.4,0.82,1.85
+Qatar,Ecuador,35.3,25.6,39.1,1.08,1.38
+Qatar,Morocco,16.6,23.6,59.8,0.86,1.89
+Qatar,Belgium,27.1,18.6,54.3,0.91,1.65
+Qatar,United States,37.0,23.9,39.2,1.06,1.47
+Qatar,France,18.9,21.6,59.5,0.78,1.88
+Qatar,Czech Republic,34.5,26.0,39.5,1.14,1.26
+Qatar,Scotland,39.5,31.3,29.1,1.27,1.09
+Qatar,Turkey,27.5,25.7,46.8,1.08,1.33
+Qatar,New Zealand,51.5,30.6,17.9,1.58,0.74
+Qatar,South Korea,25.7,33.9,40.4,1.0,1.42
+Qatar,Jordan,44.2,15.6,40.3,1.31,1.14
+Qatar,Paraguay,46.2,29.1,24.8,1.28,1.01
+Qatar,Australia,33.5,24.6,41.9,1.0,1.58
+Qatar,Iraq,43.1,16.4,40.5,1.3,1.13
+Qatar,Algeria,36.7,24.2,39.1,1.08,1.43
+Qatar,Mexico,39.3,21.4,39.3,1.05,1.47
+Qatar,Saudi Arabia,47.4,21.8,30.9,1.29,1.13
+Qatar,Curaçao,51.1,26.6,22.3,1.65,0.79
+Jordan,Cape Verde,48.1,16.1,35.8,1.26,0.99
+Jordan,Ghana,43.2,27.0,29.8,1.24,0.93
+Jordan,Iran,32.9,20.0,47.1,0.94,1.44
+Jordan,Bosnia and Herzegovina,45.9,16.5,37.6,1.29,0.94
+Jordan,Sweden,36.0,24.9,39.1,1.01,1.22
+Jordan,DR Congo,53.4,19.7,26.9,1.26,1.05
+Jordan,Colombia,12.9,15.2,71.9,0.8,1.71
+Jordan,Spain,7.9,24.7,67.4,0.7,1.82
+Jordan,Haiti,62.9,21.9,15.2,1.63,0.55
+Jordan,Canada,55.1,20.7,24.1,1.28,1.47
+Jordan,Senegal,20.0,15.8,64.2,0.87,1.55
+Jordan,Brazil,16.2,14.8,69.1,0.8,1.63
+Jordan,Netherlands,11.9,18.6,69.6,0.78,1.58
+Jordan,England,13.5,17.8,68.7,0.8,1.6
+Jordan,Croatia,23.7,31.6,44.7,0.91,1.32
+Jordan,Norway,47.6,22.5,29.9,1.12,1.29
+Jordan,Tunisia,46.0,25.1,28.9,1.14,1.11
+Jordan,Ivory Coast,31.5,20.1,48.4,1.03,1.22
+Jordan,Portugal,25.5,15.5,59.0,0.86,1.52
+Jordan,Panama,57.6,18.6,23.7,1.35,0.84
+Jordan,Austria,43.2,20.3,36.5,0.99,1.31
+Jordan,Uzbekistan,50.9,16.6,32.5,1.3,0.99
+Jordan,South Africa,54.0,16.9,29.0,1.28,0.97
+Jordan,Egypt,36.3,21.4,42.3,1.05,1.23
+Jordan,Japan,22.1,27.7,50.2,0.87,1.47
+Jordan,Switzerland,28.0,18.6,53.3,0.92,1.44
+Jordan,Argentina,7.9,16.6,75.5,0.71,1.85
+Jordan,Uruguay,20.6,15.6,63.8,0.87,1.57
+Jordan,Germany,14.2,15.2,70.6,0.81,1.64
+Jordan,Ecuador,49.0,22.4,28.6,1.07,1.23
+Jordan,Morocco,15.7,20.8,63.5,0.85,1.67
+Jordan,Belgium,30.3,18.9,50.8,0.9,1.46
+Jordan,United States,47.0,20.4,32.7,1.06,1.3
+Jordan,France,16.8,21.0,62.2,0.78,1.67
+Jordan,Czech Republic,46.0,23.3,30.8,1.13,1.3
+Jordan,Scotland,56.2,27.1,16.6,1.27,1.46
+Jordan,Turkey,45.4,23.1,31.5,1.07,1.23
+Jordan,New Zealand,64.5,19.1,16.3,1.58,0.66
+Jordan,South Korea,37.4,31.7,30.8,1.0,1.25
+Jordan,Qatar,56.1,15.4,28.5,1.1,1.26
+Jordan,Paraguay,53.2,29.8,17.0,1.28,0.9
+Jordan,Australia,44.0,18.8,37.2,1.0,1.4
+Jordan,Iraq,44.3,17.1,38.6,1.25,1.0
+Jordan,Algeria,44.5,18.9,36.6,1.08,1.26
+Jordan,Mexico,41.9,18.6,39.4,1.05,1.3
+Jordan,Saudi Arabia,56.2,17.3,26.5,1.28,1.0
+Jordan,Curaçao,67.6,18.1,14.3,1.64,0.7
+Paraguay,Cape Verde,36.4,22.3,41.3,1.2,1.25
+Paraguay,Ghana,28.0,27.8,44.2,1.19,1.17
+Paraguay,Iran,25.3,35.7,39.0,0.9,1.82
+Paraguay,Bosnia and Herzegovina,32.6,27.8,39.6,1.23,1.19
+Paraguay,Sweden,22.4,30.0,47.6,0.97,1.54
+Paraguay,DR Congo,27.8,37.5,34.8,1.2,1.33
+Paraguay,Colombia,12.5,23.7,63.8,0.76,2.16
+Paraguay,Spain,9.4,31.3,59.3,0.67,2.3
+Paraguay,Haiti,55.2,21.6,23.2,1.56,0.7
+Paraguay,Canada,30.1,30.0,39.9,1.22,1.31
+Paraguay,Senegal,11.5,27.7,60.8,0.83,1.96
+Paraguay,Brazil,12.1,19.0,68.9,0.76,2.06
+Paraguay,Netherlands,12.7,26.9,60.4,0.74,2.0
+Paraguay,England,11.9,21.6,66.5,0.77,2.02
+Paraguay,Croatia,17.8,33.0,49.2,0.86,1.67
+Paraguay,Norway,29.2,36.5,34.3,1.07,1.46
+Paraguay,Tunisia,29.0,33.5,37.5,1.09,1.4
+Paraguay,Ivory Coast,17.8,30.4,51.8,0.98,1.54
+Paraguay,Portugal,13.8,18.5,67.7,0.82,1.92
+Paraguay,Panama,40.2,25.9,33.9,1.28,1.06
+Paraguay,Austria,29.0,36.3,34.8,0.94,1.66
+Paraguay,Uzbekistan,37.5,28.4,34.1,1.24,1.25
+Paraguay,South Africa,28.2,31.2,40.6,1.22,1.22
+Paraguay,Egypt,24.1,24.9,51.1,1.0,1.56
+Paraguay,Japan,14.8,32.7,52.5,0.83,1.85
+Paraguay,Switzerland,13.7,23.8,62.5,0.88,1.82
+Paraguay,Argentina,7.7,24.7,67.5,0.68,2.34
+Paraguay,Uruguay,12.1,25.7,62.2,0.83,1.98
+Paraguay,Germany,13.0,23.0,63.9,0.78,2.07
+Paraguay,Ecuador,28.0,37.9,34.2,1.02,1.54
+Paraguay,Morocco,10.4,35.2,54.4,0.81,2.11
+Paraguay,Belgium,15.6,19.4,64.9,0.86,1.85
+Paraguay,United States,32.5,33.3,34.3,1.01,1.64
+Paraguay,France,14.6,27.4,58.0,0.74,2.11
+Paraguay,Czech Republic,26.4,35.8,37.8,1.08,1.41
+Paraguay,Scotland,33.7,33.9,32.4,1.21,1.22
+Paraguay,Turkey,26.9,34.3,38.8,1.02,1.48
+Paraguay,New Zealand,39.2,36.3,24.5,1.5,0.83
+Paraguay,South Korea,26.1,38.7,35.1,0.95,1.59
+Paraguay,Qatar,25.6,37.1,37.2,1.04,1.55
+Paraguay,Jordan,35.1,24.3,40.7,1.17,1.27
+Paraguay,Australia,27.1,37.9,35.0,0.95,1.77
+Paraguay,Iraq,31.7,27.5,40.8,1.19,1.27
+Paraguay,Algeria,23.6,39.4,37.0,1.03,1.6
+Paraguay,Mexico,27.4,37.1,35.5,1.0,1.64
+Paraguay,Saudi Arabia,25.2,31.0,43.8,1.22,1.26
+Paraguay,Curaçao,45.9,24.8,29.3,1.57,0.88
+Australia,Cape Verde,51.3,20.6,28.1,1.37,1.02
+Australia,Ghana,53.9,19.8,26.2,1.35,0.96
+Australia,Iran,29.3,20.4,50.2,1.03,1.49
+Australia,Bosnia and Herzegovina,60.9,17.1,21.9,1.41,0.97
+Australia,Sweden,52.4,14.7,32.9,1.1,1.26
+Australia,DR Congo,59.7,15.8,24.5,1.37,1.08
+Australia,Colombia,21.5,15.0,63.5,0.87,1.76
+Australia,Spain,11.0,20.2,68.8,0.76,1.88
+Australia,Haiti,74.2,15.1,10.7,1.78,0.57
+Australia,Canada,62.8,16.8,20.4,1.4,1.07
+Australia,Senegal,25.7,18.2,56.1,0.95,1.6
+Australia,Brazil,22.7,13.7,63.6,0.87,1.68
+Australia,Netherlands,15.8,14.3,69.9,0.85,1.63
+Australia,England,21.2,14.9,63.8,0.88,1.65
+Australia,Croatia,35.3,23.3,41.4,0.99,1.36
+Australia,Norway,55.1,17.7,27.2,1.22,1.19
+Australia,Tunisia,55.4,15.9,28.6,1.25,1.14
+Australia,Ivory Coast,43.0,13.7,43.3,1.12,1.25
+Australia,Portugal,34.8,13.4,51.8,0.94,1.57
+Australia,Panama,72.5,16.3,11.2,1.47,0.87
+Australia,Austria,37.7,18.6,43.6,1.08,1.35
+Australia,Uzbekistan,54.1,26.2,19.7,1.42,1.02
+Australia,South Africa,60.7,14.2,25.1,1.39,1.0
+Australia,Egypt,50.8,16.0,33.1,1.14,1.27
+Australia,Japan,31.3,25.4,43.3,0.94,1.51
+Australia,Switzerland,37.5,15.4,47.1,1.0,1.48
+Australia,Argentina,12.3,14.3,73.5,0.78,1.91
+Australia,Uruguay,28.0,15.4,56.6,0.95,1.62
+Australia,Germany,25.1,15.5,59.4,0.89,1.69
+Australia,Ecuador,48.9,16.2,34.8,1.17,1.26
+Australia,Morocco,26.0,23.4,50.6,0.93,1.72
+Australia,Belgium,42.3,18.0,39.8,0.99,1.51
+Australia,United States,54.3,16.1,29.5,1.15,1.34
+Australia,France,22.3,14.5,63.2,0.85,1.72
+Australia,Czech Republic,56.3,16.7,27.0,1.23,1.15
+Australia,Scotland,67.6,15.1,17.3,1.38,0.99
+Australia,Turkey,47.8,17.9,34.2,1.17,1.21
+Australia,New Zealand,62.1,26.3,11.6,1.72,0.68
+Australia,South Korea,35.0,27.6,37.4,1.09,1.29
+Australia,Qatar,50.6,15.0,34.4,1.19,1.27
+Australia,Jordan,46.8,16.2,37.0,1.34,1.04
+Australia,Paraguay,55.9,23.5,20.6,1.39,0.92
+Australia,Iraq,56.4,17.1,26.5,1.36,1.03
+Australia,Algeria,42.8,20.1,37.0,1.17,1.3
+Australia,Mexico,46.4,19.3,34.3,1.14,1.34
+Australia,Saudi Arabia,50.6,19.8,29.6,1.4,1.03
+Australia,Curaçao,59.1,23.7,17.2,1.79,0.72
+Iraq,Cape Verde,39.7,18.0,42.3,1.22,1.05
+Iraq,Ghana,40.6,25.2,34.2,1.2,0.99
+Iraq,Iran,21.1,24.5,54.4,0.91,1.54
+Iraq,Bosnia and Herzegovina,42.7,17.7,39.6,1.25,1.0
+Iraq,Sweden,31.1,23.6,45.4,0.98,1.3
+Iraq,DR Congo,47.5,20.8,31.8,1.22,1.12
+Iraq,Colombia,10.6,14.5,74.9,0.77,1.82
+Iraq,Spain,7.9,25.5,66.5,0.68,1.93
+Iraq,Haiti,63.4,20.8,15.8,1.58,0.59
+Iraq,Canada,52.6,19.2,28.3,1.24,1.43
+Iraq,Senegal,18.1,14.1,67.8,0.84,1.65
+Iraq,Brazil,15.5,16.4,68.0,0.78,1.73
+Iraq,Netherlands,13.0,20.2,66.7,0.75,1.68
+Iraq,England,13.3,16.5,70.2,0.78,1.7
+Iraq,Croatia,23.2,28.9,47.9,0.88,1.4
+Iraq,Norway,45.9,22.0,32.1,1.09,1.25
+Iraq,Tunisia,42.7,25.9,31.4,1.11,1.27
+Iraq,Ivory Coast,25.8,19.7,54.6,0.99,1.29
+Iraq,Portugal,20.1,13.3,66.6,0.83,1.62
+Iraq,Panama,56.8,17.4,25.8,1.3,0.9
+Iraq,Austria,29.4,24.9,45.7,0.96,1.39
+Iraq,Uzbekistan,50.3,16.6,33.1,1.26,1.05
+Iraq,South Africa,48.5,17.3,34.2,1.24,1.03
+Iraq,Egypt,29.7,21.2,49.1,1.01,1.31
+Iraq,Japan,19.5,25.1,55.4,0.84,1.56
+Iraq,Switzerland,26.8,18.0,55.2,0.89,1.53
+Iraq,Argentina,8.0,19.3,72.7,0.69,1.97
+Iraq,Uruguay,15.2,13.3,71.5,0.84,1.67
+Iraq,Germany,11.3,13.4,75.3,0.79,1.74
+Iraq,Ecuador,46.1,23.3,30.6,1.04,1.3
+Iraq,Morocco,14.1,18.1,67.8,0.82,1.77
+Iraq,Belgium,29.6,15.8,54.6,0.88,1.55
+Iraq,United States,43.5,20.5,35.9,1.02,1.38
+Iraq,France,18.4,21.7,59.9,0.75,1.77
+Iraq,Czech Republic,43.4,24.6,32.0,1.09,1.26
+Iraq,Scotland,53.4,26.4,20.2,1.22,1.41
+Iraq,Turkey,42.0,24.2,33.7,1.04,1.25
+Iraq,New Zealand,50.3,28.8,20.9,1.53,0.7
+Iraq,South Korea,37.0,32.1,30.9,0.97,1.33
+Iraq,Qatar,43.6,18.8,37.6,1.06,1.31
+Iraq,Jordan,38.1,18.8,43.1,1.19,1.07
+Iraq,Paraguay,43.0,33.4,23.6,1.24,0.95
+Iraq,Australia,40.4,18.2,41.4,0.97,1.49
+Iraq,Algeria,33.2,22.5,44.3,1.04,1.34
+Iraq,Mexico,30.2,20.8,49.0,1.01,1.38
+Iraq,Saudi Arabia,41.4,21.6,37.0,1.24,1.06
+Iraq,Curaçao,58.5,21.7,19.8,1.59,0.74
+Algeria,Cape Verde,56.3,14.5,29.2,1.36,0.98
+Algeria,Ghana,52.4,23.9,23.8,1.34,0.92
+Algeria,Iran,33.0,20.1,46.9,1.01,1.44
+Algeria,Bosnia and Herzegovina,52.8,17.3,29.9,1.39,0.94
+Algeria,Sweden,46.1,15.3,38.5,1.09,1.22
+Algeria,DR Congo,55.0,20.1,24.9,1.35,1.05
+Algeria,Colombia,20.7,15.8,63.6,0.86,1.71
+Algeria,Spain,11.4,22.6,66.0,0.75,1.81
+Algeria,Haiti,68.5,17.6,14.0,1.76,0.55
+Algeria,Canada,57.6,18.2,24.3,1.38,1.03
+Algeria,Senegal,22.9,18.0,59.2,0.94,1.55
+Algeria,Brazil,23.6,15.7,60.7,0.86,1.62
+Algeria,Netherlands,21.6,18.1,60.3,0.84,1.58
+Algeria,England,22.6,17.1,60.4,0.87,1.6
+Algeria,Croatia,29.0,25.5,45.5,0.98,1.31
+Algeria,Norway,48.9,19.6,31.6,1.21,1.15
+Algeria,Tunisia,49.7,19.1,31.2,1.23,1.11
+Algeria,Ivory Coast,38.3,20.1,41.6,1.11,1.21
+Algeria,Portugal,37.0,18.5,44.5,0.93,1.52
+Algeria,Panama,73.9,13.5,12.6,1.45,0.84
+Algeria,Austria,40.2,20.6,39.2,1.06,1.31
+Algeria,Uzbekistan,60.7,15.3,24.0,1.4,0.99
+Algeria,South Africa,58.5,16.6,24.8,1.38,0.97
+Algeria,Egypt,41.0,16.6,42.4,1.12,1.23
+Algeria,Japan,27.7,23.0,49.4,0.93,1.46
+Algeria,Switzerland,34.1,16.5,49.3,0.99,1.43
+Algeria,Argentina,10.7,16.7,72.6,0.77,1.85
+Algeria,Uruguay,30.1,19.3,50.6,0.93,1.56
+Algeria,Germany,25.1,17.8,57.1,0.87,1.63
+Algeria,Ecuador,48.4,20.7,31.0,1.15,1.22
+Algeria,Morocco,23.7,25.3,51.0,0.92,1.66
+Algeria,Belgium,40.8,22.4,36.9,0.97,1.46
+Algeria,United States,53.6,15.4,31.0,1.14,1.29
+Algeria,France,21.5,16.6,62.0,0.84,1.66
+Algeria,Czech Republic,45.1,20.1,34.8,1.22,1.11
+Algeria,Scotland,61.1,23.0,15.9,1.36,0.96
+Algeria,Turkey,44.1,22.9,33.1,1.15,1.17
+Algeria,New Zealand,70.6,17.9,11.5,1.7,0.66
+Algeria,South Korea,36.2,30.6,33.2,1.07,1.25
+Algeria,Qatar,49.5,14.3,36.2,1.18,1.23
+Algeria,Jordan,55.5,14.3,30.2,1.32,1.0
+Algeria,Paraguay,70.1,17.5,12.3,1.37,0.89
+Algeria,Australia,47.1,15.8,37.1,1.08,1.4
+Algeria,Iraq,58.1,14.5,27.5,1.34,1.0
+Algeria,Mexico,44.0,18.2,37.8,1.13,1.3
+Algeria,Saudi Arabia,61.7,16.7,21.5,1.38,0.99
+Algeria,Curaçao,65.2,17.8,17.0,1.77,0.7
+Mexico,Cape Verde,46.9,20.5,32.6,1.4,1.13
+Mexico,Ghana,47.1,24.5,28.3,1.38,1.06
+Mexico,Iran,33.6,23.7,42.8,1.04,1.66
+Mexico,Bosnia and Herzegovina,54.8,20.3,24.9,1.43,1.08
+Mexico,Sweden,41.9,18.4,39.6,1.12,1.4
+Mexico,DR Congo,46.3,26.9,26.9,1.39,1.21
+Mexico,Colombia,21.0,24.4,54.6,0.89,1.96
+Mexico,Spain,11.2,27.1,61.8,0.77,2.09
+Mexico,Haiti,64.3,19.2,16.5,1.81,0.64
+Mexico,Canada,51.9,19.8,28.3,1.42,1.19
+Mexico,Senegal,30.7,27.1,42.2,0.96,1.78
+Mexico,Brazil,16.7,20.3,63.0,0.89,1.87
+Mexico,Netherlands,17.2,23.2,59.6,0.86,1.82
+Mexico,England,18.7,24.6,56.7,0.89,1.84
+Mexico,Croatia,32.4,33.6,34.0,1.01,1.51
+Mexico,Norway,40.8,21.7,37.5,1.25,1.33
+Mexico,Tunisia,40.7,20.3,39.1,1.47,1.28
+Mexico,Ivory Coast,34.8,19.7,45.5,1.61,1.4
+Mexico,Portugal,32.4,19.9,47.7,0.95,1.75
+Mexico,Panama,60.1,20.5,19.3,1.49,0.97
+Mexico,Austria,32.4,23.1,44.5,1.09,1.51
+Mexico,Uzbekistan,54.7,20.9,24.3,1.44,1.14
+Mexico,South Africa,46.3,23.2,30.5,1.42,1.11
+Mexico,Egypt,42.3,19.6,38.1,1.16,1.42
+Mexico,Japan,31.8,29.5,38.6,0.96,1.69
+Mexico,Switzerland,38.1,22.4,39.5,1.02,1.65
+Mexico,Argentina,9.7,21.4,68.9,0.79,2.13
+Mexico,Uruguay,34.1,24.4,41.5,0.96,1.8
+Mexico,Germany,24.5,25.4,50.0,0.9,1.88
+Mexico,Ecuador,48.4,20.5,31.2,1.19,1.4
+Mexico,Morocco,18.6,34.1,47.3,0.94,1.92
+Mexico,Belgium,29.5,23.5,47.0,1.0,1.68
+Mexico,United States,35.7,22.1,42.2,1.17,1.49
+Mexico,France,19.9,23.4,56.8,0.86,1.92
+Mexico,Czech Republic,45.4,19.1,35.4,1.25,1.28
+Mexico,Scotland,56.7,23.2,20.1,1.4,1.11
+Mexico,Turkey,37.9,17.7,44.4,1.19,1.35
+Mexico,New Zealand,54.7,27.6,17.7,1.75,0.76
+Mexico,South Korea,36.3,26.6,37.2,1.11,1.44
+Mexico,Qatar,42.1,18.9,39.0,1.21,1.41
+Mexico,Jordan,49.3,19.7,31.0,1.36,1.16
+Mexico,Paraguay,51.5,24.8,23.7,1.42,1.03
+Mexico,Australia,34.7,23.2,42.0,1.11,1.61
+Mexico,Iraq,47.1,19.6,33.3,1.39,1.15
+Mexico,Algeria,36.8,24.3,38.9,1.2,1.45
+Mexico,Saudi Arabia,48.3,24.1,27.6,1.42,1.15
+Mexico,Curaçao,55.9,23.8,20.3,1.82,0.8
+Saudi Arabia,Cape Verde,38.3,22.7,39.1,1.2,1.21
+Saudi Arabia,Ghana,32.0,25.2,42.8,1.18,1.13
+Saudi Arabia,Iran,23.0,33.6,43.4,0.89,1.77
+Saudi Arabia,Bosnia and Herzegovina,37.7,25.2,37.1,1.23,1.15
+Saudi Arabia,Sweden,27.6,29.0,43.4,0.96,1.5
+Saudi Arabia,DR Congo,31.2,34.2,34.6,1.19,1.29
+Saudi Arabia,Colombia,11.1,20.4,68.5,0.76,2.09
+Saudi Arabia,Spain,7.6,25.9,66.5,0.66,2.23
+Saudi Arabia,Haiti,50.1,24.6,25.3,1.55,0.68
+Saudi Arabia,Canada,32.1,32.9,35.1,1.22,1.27
+Saudi Arabia,Senegal,12.4,21.5,66.1,0.83,1.9
+Saudi Arabia,Brazil,13.1,17.0,69.9,0.76,1.99
+Saudi Arabia,Netherlands,14.4,21.9,63.7,0.74,1.94
+Saudi Arabia,England,12.4,18.1,69.4,0.76,1.96
+Saudi Arabia,Croatia,18.7,35.6,45.7,0.86,1.61
+Saudi Arabia,Norway,28.9,36.0,35.1,1.07,1.42
+Saudi Arabia,Tunisia,28.6,34.5,36.9,1.09,1.36
+Saudi Arabia,Ivory Coast,24.0,25.0,51.1,0.98,1.49
+Saudi Arabia,Portugal,15.8,17.5,66.7,0.82,1.86
+Saudi Arabia,Panama,41.9,23.7,34.3,1.28,1.03
+Saudi Arabia,Austria,25.1,34.7,40.2,0.94,1.6
+Saudi Arabia,Uzbekistan,40.5,26.6,32.9,1.24,1.21
+Saudi Arabia,South Africa,32.1,26.4,41.5,1.21,1.19
+Saudi Arabia,Egypt,27.1,23.2,49.7,0.99,1.51
+Saudi Arabia,Japan,16.5,30.3,53.2,0.82,1.8
+Saudi Arabia,Switzerland,16.1,22.1,61.8,0.87,1.76
+Saudi Arabia,Argentina,6.9,18.5,74.7,0.68,2.27
+Saudi Arabia,Uruguay,13.6,20.7,65.7,0.82,1.92
+Saudi Arabia,Germany,12.1,18.7,69.2,0.77,2.0
+Saudi Arabia,Ecuador,29.4,36.3,34.2,1.02,1.49
+Saudi Arabia,Morocco,11.8,28.6,59.6,0.81,2.04
+Saudi Arabia,Belgium,17.5,20.0,62.5,0.86,1.79
+Saudi Arabia,United States,37.5,29.7,32.8,1.0,1.59
+Saudi Arabia,France,14.2,22.3,63.5,0.74,2.04
+Saudi Arabia,Czech Republic,26.6,35.8,37.6,1.07,1.37
+Saudi Arabia,Scotland,33.9,39.9,26.2,1.2,1.18
+Saudi Arabia,Turkey,27.7,34.1,38.2,1.02,1.44
+Saudi Arabia,New Zealand,43.8,28.7,27.5,1.5,0.8
+Saudi Arabia,South Korea,20.3,45.0,34.7,0.95,1.54
+Saudi Arabia,Qatar,35.1,27.8,37.1,1.04,1.5
+Saudi Arabia,Jordan,37.2,24.1,38.7,1.16,1.23
+Saudi Arabia,Paraguay,30.0,34.1,35.9,1.21,1.1
+Saudi Arabia,Australia,28.0,35.2,36.8,0.95,1.71
+Saudi Arabia,Iraq,33.6,27.0,39.3,1.19,1.23
+Saudi Arabia,Algeria,27.2,32.9,39.9,1.02,1.55
+Saudi Arabia,Mexico,30.7,35.4,33.9,0.99,1.59
+Saudi Arabia,Curaçao,50.3,22.5,27.2,1.56,0.86
+Curaçao,Cape Verde,25.8,31.8,42.4,0.98,1.22
+Curaçao,Ghana,25.1,34.5,40.3,0.97,1.15
+Curaçao,Iran,14.0,37.9,48.1,0.73,1.79
+Curaçao,Bosnia and Herzegovina,30.0,34.4,35.6,1.0,1.17
+Curaçao,Sweden,15.6,37.5,46.9,0.79,1.52
+Curaçao,DR Congo,26.1,34.5,39.4,0.98,1.3
+Curaçao,Colombia,6.7,41.2,52.1,0.62,2.12
+Curaçao,Spain,6.1,38.9,55.1,0.54,2.26
+Curaçao,Haiti,38.9,36.1,25.0,1.27,0.69
+Curaçao,Canada,29.8,34.3,36.0,1.0,1.29
+Curaçao,Senegal,7.4,43.9,48.6,0.68,1.92
+Curaçao,Brazil,8.0,36.8,55.2,0.62,2.02
+Curaçao,Netherlands,8.7,38.1,53.2,0.6,1.97
+Curaçao,England,7.6,36.1,56.2,0.63,1.99
+Curaçao,Croatia,19.9,41.7,38.3,0.71,1.64
+Curaçao,Norway,20.4,36.1,43.5,0.87,1.43
+Curaçao,Tunisia,23.2,39.3,37.5,0.89,1.38
+Curaçao,Ivory Coast,11.4,26.7,61.9,0.8,1.51
+Curaçao,Portugal,9.6,37.9,52.5,0.67,1.89
+Curaçao,Panama,31.4,31.9,36.7,1.05,1.05
+Curaçao,Austria,13.9,38.3,47.8,0.77,1.63
+Curaçao,Uzbekistan,29.8,36.3,33.9,1.01,1.23
+Curaçao,South Africa,26.0,34.4,39.6,1.0,1.2
+Curaçao,Egypt,13.4,28.8,57.8,0.81,1.53
+Curaçao,Japan,12.8,42.7,44.6,0.67,1.82
+Curaçao,Switzerland,7.6,36.6,55.8,0.72,1.78
+Curaçao,Argentina,5.5,35.8,58.7,0.56,2.3
+Curaçao,Uruguay,7.5,42.1,50.4,0.68,1.95
+Curaçao,Germany,6.5,39.7,53.8,0.63,2.03
+Curaçao,Ecuador,23.1,39.3,37.5,0.84,1.51
+Curaçao,Morocco,6.4,44.1,49.5,0.66,2.07
+Curaçao,Belgium,12.7,36.7,50.6,0.7,1.81
+Curaçao,United States,26.9,35.9,37.3,0.82,1.61
+Curaçao,France,11.4,38.7,49.9,0.6,2.07
+Curaçao,Czech Republic,24.3,40.2,35.5,0.88,1.39
+Curaçao,Scotland,31.1,40.6,28.3,0.98,1.19
+Curaçao,Turkey,23.2,39.4,37.5,0.83,1.46
+Curaçao,New Zealand,32.0,40.0,28.0,1.23,0.82
+Curaçao,South Korea,21.5,42.2,36.2,0.78,1.56
+Curaçao,Qatar,26.4,33.6,40.0,0.85,1.53
+Curaçao,Jordan,25.0,26.6,48.4,0.95,1.25
+Curaçao,Paraguay,30.5,40.7,28.9,0.99,1.14
+Curaçao,Australia,21.6,38.1,40.3,0.78,1.74
+Curaçao,Iraq,24.8,31.2,44.0,0.97,1.24
+Curaçao,Algeria,19.5,30.6,50.0,0.84,1.57
+Curaçao,Mexico,23.6,40.5,35.9,0.82,1.61
+Curaçao,Saudi Arabia,28.1,34.5,37.4,1.0,1.24

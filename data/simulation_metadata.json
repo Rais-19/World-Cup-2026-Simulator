@@ -1,0 +1,41 @@
+{
+  "export_date": "2026-04-22 19:52:07",
+  "total_simulations": 5000,
+  "analyzed_simulations": 5000,
+  "num_teams": 48,
+  "num_groups": 12,
+  "model_type": "Random Forest (Fixed)",
+  "cache_size": 2256,
+  "most_likely_champion": "Spain",
+  "champion_probability": 15.32,
+  "top_5_favorites": [
+    {
+      "team": "Spain",
+      "probability": 15.32
+    },
+    {
+      "team": "Argentina",
+      "probability": 12.72
+    },
+    {
+      "team": "France",
+      "probability": 11.34
+    },
+    {
+      "team": "Netherlands",
+      "probability": 7.32
+    },
+    {
+      "team": "England",
+      "probability": 7.06
+    }
+  ],
+  "fixes_applied": [
+    "Tiebreaker function - no duplicate positions",
+    "Advancement probabilities capped at 100%",
+    "Match cache - all 2,256 matchups pre-computed",
+    "Winner validation in knockout matches",
+    "Bracket mapping corrected",
+    "No \"no data\" errors - every matchup works"
+  ]
+}
