@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
 from typing import Dict, List, Optional, Tuple
-
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from services.bracket_service import bracket_service, cascade_bracket
 from config.tournament_config import (
     ROUND_OF_16_PAIRINGS,

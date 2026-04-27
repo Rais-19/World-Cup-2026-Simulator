@@ -17,9 +17,7 @@ groups: Dict[str, List[str]] = {
     "Group L": ["England", "Croatia", "Ghana", "Panama"],
 }
 
-# ============================================
-# FIFA RANKING (For WC 2026 - Anchor Data)
-# ============================================
+# FIFA RANKING 
 
 FIFA_2026_RANK: Dict[str, int] = {
     "Argentina": 1, "France": 2, "Spain": 3, "England": 4,
@@ -37,9 +35,7 @@ FIFA_2026_RANK: Dict[str, int] = {
     "New Zealand": 90, "Haiti": 95, "Curaçao": 100,
 }
 
-# ============================================
 # ALL PARTICIPATING TEAMS (48 Teams)
-# ============================================
 
 ALL_TEAMS: List[str] = [
     "Mexico", "South Africa", "South Korea", "Czech Republic",
@@ -56,9 +52,7 @@ ALL_TEAMS: List[str] = [
     "England", "Croatia", "Ghana", "Panama",
 ]
 
-# ============================================
 # CONFEDERATION MAPPING
-# ============================================
 
 CONFEDERATION: Dict[str, str] = {
     "Argentina": "CONMEBOL", "Brazil": "CONMEBOL", "Colombia": "CONMEBOL",
@@ -88,10 +82,8 @@ CONFEDERATION_COLORS: Dict[str, str] = {
     "OFC":      "#EC4899",
 }
 
-# ============================================
-# BRACKET STRUCTURE (FIXED)
+# BRACKET STRUCTURE 
 # R32 matchups — each slot appears exactly once
-# ============================================
 
 # String notation: '1A' = Winner Group A, '2A' = Runner-up Group A
 ROUND_OF_32_MATCHUPS: List[Tuple[str, str]] = [
@@ -137,9 +129,7 @@ THIRD_PLACE_INDEX: Dict[str, int] = {
     '3DEIJKL': 7,
 }
 
-# ============================================
 # KNOCKOUT ROUND PAIRINGS
-# ============================================
 
 # R16: which two R32 match IDs feed each R16 match
 ROUND_OF_16_PAIRINGS: Dict[int, Tuple[int, int]] = {
@@ -189,9 +179,7 @@ ROUND_ORDER = [
     "Final",
 ]
 
-# ============================================
 # TOURNAMENT STAGES
-# ============================================
 
 TOURNAMENT_STAGES: Dict[str, Dict] = {
     'group_stage':  {'name': 'Group Stage',       'importance_weight': 0.8,  'has_extra_time': False, 'has_penalties': False},
@@ -203,10 +191,7 @@ TOURNAMENT_STAGES: Dict[str, Dict] = {
     'final':        {'name': 'Final',             'importance_weight': 2.0,  'has_extra_time': True,  'has_penalties': True},
 }
 
-# ============================================
 # CONSTANTS
-# ============================================
-
 NUM_TEAMS         = 48
 NUM_GROUPS        = 12
 TEAMS_PER_GROUP   = 4
@@ -229,9 +214,7 @@ TOP_FAVORITES: List[Tuple[str, float]] = [
     ("Germany",      5.2),
 ]
 
-# ============================================
 # HELPER FUNCTIONS
-# ============================================
 
 def get_team_group(team: str) -> str:
     for group_name, teams in groups.items():

@@ -1,19 +1,8 @@
-"""
-bracket_service.py
-==================
-Handles all bracket logic for the WC 2026 Streamlit app.
-
-Two modes:
-  - AI mode   : loads pre-computed results from knockout_bracket.csv
-  - Manual mode: cascade_bracket() propagates user picks through rounds
-"""
-
 import random
 import numpy as np
 import pandas as pd
 from pathlib import Path
 from typing import Dict, List, Tuple, Optional, Any
-
 from config.tournament_config import (
     ROUND_OF_16_PAIRINGS,
     QUARTER_FINAL_PAIRINGS,
