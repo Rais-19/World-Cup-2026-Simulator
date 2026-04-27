@@ -60,7 +60,7 @@ st.sidebar.markdown("---")
 st.sidebar.info(
     f"""
     **Simulation Stats:**
-    - {data['metadata'].get('total_simulations', '500')} simulations
+    - {data['metadata'].get('total_simulations', '5000')} simulations
     - 48 teams | 12 groups
     - Most likely: {data['metadata'].get('most_likely_champion', 'Spain')}
     """
