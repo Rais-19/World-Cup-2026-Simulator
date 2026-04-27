@@ -69,7 +69,7 @@ st.sidebar.info(
 # PAGE 1: CHAMPION PROBABILITIES
 if page == "🏆 Champion Probabilities":
     st.title("🏆 World Cup 2026 Champion Probabilities")
-    st.markdown(f"Based on **{data['metadata'].get('total_simulations', '500')}** Monte Carlo simulations")
+    st.markdown(f"Based on **{data['metadata'].get('total_simulations', '5000')}** Monte Carlo simulations")
 
     col1, col2 = st.columns([2, 1])
     with col1:
