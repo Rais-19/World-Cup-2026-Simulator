@@ -11,6 +11,7 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from services.bracket_service import bracket_service, cascade_bracket
+from services.data_store import get_matchup_probabilities, get_knockout_bracket
 
 R16_FEEDERS = {
     89: (74, 77),
@@ -59,8 +60,7 @@ def flag(team: str) -> str:
 
 @st.cache_data
 def load_matchup_data() -> pd.DataFrame:
-    data_dir = Path(__file__).parent.parent / "data"
-    return pd.read_csv(data_dir / "matchup_probabilities.csv")
+    return get_matchup_probabilities()
 
 
 @st.cache_data
@@ -71,8 +71,7 @@ def load_r32_teams() -> Dict[int, Tuple[str, str]]:
     All later rounds are determined dynamically by simulation results.
     This is the core fix — we never load R16/QF/SF/Final from the CSV.
     """
-    data_dir = Path(__file__).parent.parent / "data"
-    df = pd.read_csv(data_dir / "knockout_bracket.csv")
+    df = get_knockout_bracket()
     r32_df = df[df["Round"] == "Round of 32"]
     result = {}
     for _, row in r32_df.iterrows():
@@ -243,8 +242,7 @@ def simulate_match(
 @st.cache_data
 def load_most_likely_bracket() -> Dict[int, Dict]:
     """Reads the pre-computed CSV. Cached — never changes."""
-    data_dir = Path(__file__).parent.parent / "data"
-    df = pd.read_csv(data_dir / "knockout_bracket.csv")
+    df = get_knockout_bracket()
     bracket = {}
     for _, row in df.iterrows():
         mid    = int(row["Match_ID"])
