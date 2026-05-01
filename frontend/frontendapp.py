@@ -4,7 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import json
 from pathlib import Path
-from services.data_store import get_matchup_probabilities
 
 # Page config 
 st.set_page_config(
@@ -34,6 +33,7 @@ def load_data():
         "knockout":       pd.read_csv(data_dir / "knockout_bracket.csv"),
         "stage_survival": pd.read_csv(data_dir / "stage_survival.csv"),
         "upset":          pd.read_csv(data_dir / "upset_probabilities.csv"),
+        "matchup":        pd.read_csv(data_dir / "matchup_probabilities.csv"),
         "metadata":       master_data.get("metadata", {}),
     }
 
@@ -242,10 +242,9 @@ elif page == "🔍 Matchup Predictor":
     if home_team == away_team:
         st.warning("Please select two different teams")
     else:
-        matchup_df = get_matchup_probabilities()
-        m = matchup_df[
-            ((matchup_df["Home"] == home_team) & (matchup_df["Away"] == away_team)) |
-            ((matchup_df["Home"] == away_team) & (matchup_df["Away"] == home_team))
+        m = data["matchup"][
+            ((data["matchup"]["Home"] == home_team) & (data["matchup"]["Away"] == away_team)) |
+            ((data["matchup"]["Home"] == away_team) & (data["matchup"]["Away"] == home_team))
         ]
         if len(m):
             r = m.iloc[0]

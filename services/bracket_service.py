@@ -12,7 +12,6 @@ from config.tournament_config import (
     BRACKET_ROUNDS,
     FIFA_2026_RANK,
 )
-from services.data_store import get_knockout_bracket, get_matchup_probabilities
 
 #  Data paths
 _HERE = Path(__file__).parent.parent
@@ -33,7 +32,8 @@ def load_bracket_data() -> Dict[int, Dict]:
     """
     if not _BRACKET_CSV.exists():
         return {}
-    df = get_knockout_bracket()
+
+    df = pd.read_csv(_BRACKET_CSV)
 
     # Normalise column names defensively
     df.columns = [c.strip() for c in df.columns]
@@ -67,7 +67,7 @@ def load_matchup_data() -> pd.DataFrame:
     """
     if not _MATCHUP_CSV.exists():
         return pd.DataFrame()
-    return get_matchup_probabilities()
+    return pd.read_csv(_MATCHUP_CSV)
 
 
 def load_group_data() -> pd.DataFrame:
