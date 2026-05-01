@@ -10,10 +10,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-# ─────────────────────────────────────────────────────────────────
 # BRACKET WIRING
-# ─────────────────────────────────────────────────────────────────
-
 R16_FEEDERS = {
     89: (74, 77), 90: (73, 75), 91: (76, 78), 92: (79, 80),
     93: (83, 84), 94: (81, 82), 95: (86, 88), 96: (85, 87),
@@ -23,9 +20,7 @@ SF_FEEDERS  = {101: (97, 98), 102: (99, 100)}
 FINAL_ID       = 103
 THIRD_PLACE_ID = 104
 
-# ─────────────────────────────────────────────────────────────────
 # FLAGS
-# ─────────────────────────────────────────────────────────────────
 
 FLAG_EMOJI = {
     "Argentina": "🇦🇷", "France": "🇫🇷", "Spain": "🇪🇸", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -45,10 +40,6 @@ FLAG_EMOJI = {
 
 def flag(team: str) -> str:
     return FLAG_EMOJI.get(team or "", "🏳️")
-
-# ─────────────────────────────────────────────────────────────────
-# DATA HELPERS — work on passed DataFrames, ZERO CSV reads
-# ─────────────────────────────────────────────────────────────────
 
 @st.cache_data
 def load_r32_from_df(knockout_df: pd.DataFrame) -> Dict[int, Tuple[str, str]]:
@@ -75,9 +66,7 @@ def load_most_likely_from_df(knockout_df: pd.DataFrame) -> Dict[int, Dict]:
         }
     return bracket
 
-# ─────────────────────────────────────────────────────────────────
 # SCENARIO CONFIG
-# ─────────────────────────────────────────────────────────────────
 
 SCENARIOS = {
     "Most Likely (Default)":  {"modifier": 0,   "deterministic": True,  "description": "Based purely on team strengths. Same outcome every time."},
@@ -110,9 +99,7 @@ def get_elo(team: str) -> float:
     except Exception:
         return ELO_FALLBACK.get(team, 1500)
 
-# ─────────────────────────────────────────────────────────────────
 # MATCH SIMULATION
-# ─────────────────────────────────────────────────────────────────
 
 def simulate_match(team1: str, team2: str, matchup_df: pd.DataFrame,
                    modifier: float = 0, strength: float = 1.0) -> Dict:
@@ -168,9 +155,7 @@ def simulate_match(team1: str, team2: str, matchup_df: pd.DataFrame,
     return {"team1": team1, "team2": team2, "score": f"{g1} - {g2}",
             "winner": winner, "is_penalties": is_penalties}
 
-# ─────────────────────────────────────────────────────────────────
 # FULL TOURNAMENT SIMULATION
-# ─────────────────────────────────────────────────────────────────
 
 def simulate_full_tournament(
     scenario_name: str,
@@ -217,9 +202,7 @@ def simulate_full_tournament(
 
     return results
 
-# ─────────────────────────────────────────────────────────────────
 # SINGLE MATCH REGENERATION
-# ─────────────────────────────────────────────────────────────────
 
 def regenerate_from_match(results, match_id, r32_teams, matchup_df, scenario_name, strength):
     modifier = SCENARIOS[scenario_name]["modifier"]
@@ -253,9 +236,7 @@ def regenerate_from_match(results, match_id, r32_teams, matchup_df, scenario_nam
 
     return results
 
-# ─────────────────────────────────────────────────────────────────
 # FAVORITES
-# ─────────────────────────────────────────────────────────────────
 
 def _fav_path():
     return Path(__file__).parent.parent / "data" / "favorite_brackets.json"
@@ -275,10 +256,7 @@ def load_favorites():
     path = _fav_path()
     return json.loads(path.read_text()) if path.exists() else []
 
-# ─────────────────────────────────────────────────────────────────
 # BRACKET RENDERER
-# ─────────────────────────────────────────────────────────────────
-
 def render_complete_bracket(results, title, show_regenerate=False,
                              r32_teams=None, matchup_df=None,
                              scenario_name=None, strength=1.0):
@@ -350,9 +328,7 @@ def render_complete_bracket(results, title, show_regenerate=False,
             {third_line}
         </div>""", unsafe_allow_html=True)
 
-# ─────────────────────────────────────────────────────────────────
 # MAIN PAGE
-# ─────────────────────────────────────────────────────────────────
 
 def render_scenarios_page(matchup_df: pd.DataFrame = None, knockout_df: pd.DataFrame = None):
     st.title("🎲 Alternate Realities")

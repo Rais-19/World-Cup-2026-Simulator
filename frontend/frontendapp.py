@@ -6,7 +6,6 @@ import plotly.graph_objects as go
 import json
 from pathlib import Path
 
-# ── Add project root to path ──────────────────────────────────────
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
@@ -16,11 +15,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
-# ─────────────────────────────────────────────────────────────────
-# SINGLE DATA LOAD — loaded once, shared across ALL pages
-# No page ever re-reads a CSV. Data passed as function arguments.
-# ─────────────────────────────────────────────────────────────────
 
 @st.cache_data(show_spinner="Loading simulation data...")
 def load_all_data():
@@ -46,7 +40,7 @@ def load_all_data():
 
     if not meta:
         meta = {
-            "total_simulations": 500,
+            "total_simulations": 5000,
             "most_likely_champion": champion_df.iloc[0]["Team"] if len(champion_df) else "Spain",
         }
 
@@ -63,7 +57,7 @@ def load_all_data():
 
 data = load_all_data()
 
-# ── Sidebar ───────────────────────────────────────────────────────
+#  Sidebar 
 st.sidebar.title("🏆 WC 2026 Simulator")
 st.sidebar.markdown("---")
 
@@ -82,16 +76,15 @@ page = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.info(
-    f"**{data['metadata'].get('total_simulations', 500):,}** simulations\n\n"
+    f"**{data['metadata'].get('total_simulations', 5000):,}** simulations\n\n"
     f"Most likely: **{data['metadata'].get('most_likely_champion', 'Spain')}**"
 )
 
-# ─────────────────────────────────────────────────────────────────
+
 # PAGE 1: CHAMPION PROBABILITIES
-# ─────────────────────────────────────────────────────────────────
 if page == "🏆 Champion Probabilities":
     st.title("🏆 World Cup 2026 Champion Probabilities")
-    st.caption(f"Based on {data['metadata'].get('total_simulations', 500):,} Monte Carlo simulations")
+    st.caption(f"Based on {data['metadata'].get('total_simulations', 5000):,} Monte Carlo simulations")
 
     col1, col2 = st.columns([2, 1])
     with col1:
@@ -124,9 +117,7 @@ if page == "🏆 Champion Probabilities":
             use_container_width=True, height=400,
         )
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 2: GROUP STAGE
-# ─────────────────────────────────────────────────────────────────
 elif page == "📊 Group Stage":
     st.title("📊 Group Stage Analysis")
 
@@ -179,9 +170,7 @@ elif page == "📊 Group Stage":
         for _, r in gc.tail(3).iterrows():
             st.write(f"• {r['Group']}: {r['Advance_Prob']:.1f}%")
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 3: KNOCKOUT BRACKET
-# ─────────────────────────────────────────────────────────────────
 elif page == "🥅 Knockout Bracket":
     st.title("🥅 Knockout Bracket — Most Likely Path")
 
@@ -223,9 +212,7 @@ elif page == "🥅 Knockout Bracket":
             <p style="color:#1a1a2e;">defeated {opp} in the final</p>
         </div>""", unsafe_allow_html=True)
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 4: MATCHUP PREDICTOR
-# ─────────────────────────────────────────────────────────────────
 elif page == "🔍 Matchup Predictor":
     st.title("🔍 Matchup Predictor")
 
@@ -276,10 +263,7 @@ elif page == "🔍 Matchup Predictor":
         else:
             st.error("Matchup data not found. Try another combination.")
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 5: ALTERNATE REALITIES
-# matchup_df and knockout_df passed in — scenarios_page never reads CSV
-# ─────────────────────────────────────────────────────────────────
 elif page == "🎲 Alternate Realities":
     try:
         from frontend.scenarios_page import render_scenarios_page
@@ -291,10 +275,7 @@ elif page == "🎲 Alternate Realities":
         st.error(f"Page error: {e}")
         st.exception(e)
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 6: INTERACTIVE BRACKET
-# matchup_df and knockout_df passed in — bracket_page never reads CSV
-# ─────────────────────────────────────────────────────────────────
 elif page == "🏟️ Interactive Bracket":
     try:
         from frontend.bracket_page import render_bracket_page
@@ -306,9 +287,7 @@ elif page == "🏟️ Interactive Bracket":
         st.error(f"Page error: {e}")
         st.exception(e)
 
-# ─────────────────────────────────────────────────────────────────
 # PAGE 7: TEAM STATS
-# ─────────────────────────────────────────────────────────────────
 elif page == "📈 Team Stats":
     st.title("📈 Team Strength & Statistics")
 
@@ -340,7 +319,7 @@ elif page == "📈 Team Stats":
                           yaxis_title="Probability (%)", height=380)
         st.plotly_chart(fig, use_container_width=True)
 
-# ── Footer ────────────────────────────────────────────────────────
+# Footer 
 st.markdown("---")
 st.markdown(
     "<p style='text-align:center;color:#666;font-size:0.8rem;'>"

@@ -12,10 +12,7 @@ from config.tournament_config import (
 )
 from services.bracket_service import cascade_bracket, get_matchup_probs, build_r32_bracket
 
-# ─────────────────────────────────────────────────────────────────
 # CONSTANTS
-# ─────────────────────────────────────────────────────────────────
-
 ROUND_DISPLAY_ORDER = ["Round of 32", "Round of 16", "Quarter-Final", "Semi-Final", "Final"]
 
 ROUND_ACCENT = {
@@ -97,9 +94,7 @@ def _round_header(round_name: str, n: int) -> str:
       <span class="round-count">{n} match{'es' if n != 1 else ''}</span>
     </div>"""
 
-# ─────────────────────────────────────────────────────────────────
-# GROUP QUALIFIED TEAMS (for R32 seeding)
-# ─────────────────────────────────────────────────────────────────
+# GROUP QUALIFIED TEAMS 
 
 @st.cache_data
 def get_group_qualified(group_df: pd.DataFrame) -> Tuple[Dict, Dict, List]:
@@ -133,9 +128,7 @@ def get_group_qualified(group_df: pd.DataFrame) -> Tuple[Dict, Dict, List]:
     best_8 = [t["team"] for t in sorted(thirds_raw, key=lambda x: x["points"], reverse=True)[:8]]
     return winners, runners_up, best_8
 
-# ─────────────────────────────────────────────────────────────────
 # MANUAL BRACKET
-# ─────────────────────────────────────────────────────────────────
 
 def render_manual_bracket(matchup_df: pd.DataFrame, group_df: pd.DataFrame):
     st.markdown("""
@@ -283,9 +276,7 @@ def render_manual_bracket(matchup_df: pd.DataFrame, group_df: pd.DataFrame):
                     if len(round_picks) > 4:
                         st.caption(f"+{len(round_picks) - 4} more")
 
-# ─────────────────────────────────────────────────────────────────
-# MATCHUP LOOKUP (sidebar)
-# ─────────────────────────────────────────────────────────────────
+# MATCHUP LOOKUP 
 
 def render_matchup_lookup(matchup_df: pd.DataFrame):
     from config.tournament_config import ALL_TEAMS
@@ -322,10 +313,7 @@ def render_matchup_lookup(matchup_df: pd.DataFrame):
         <span class="stat-value">{ag:.2f}</span></div>
     </div>""", unsafe_allow_html=True)
 
-# ─────────────────────────────────────────────────────────────────
-# MAIN ENTRY POINT  ← accepts matchup_df and knockout_df from app.py
-# ─────────────────────────────────────────────────────────────────
-
+# MAIN ENTRY POINT  
 def render_bracket_page(
     matchup_df: pd.DataFrame = None,
     knockout_df: pd.DataFrame = None,
@@ -333,7 +321,6 @@ def render_bracket_page(
 ):
     """
     Interactive bracket page.
-    All DataFrames passed from app.py — no CSV reads happen here.
     """
     st.markdown(CSS, unsafe_allow_html=True)
 
