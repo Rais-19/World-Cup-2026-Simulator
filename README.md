@@ -78,7 +78,7 @@ The **WC 2026 Tournament Simulator** is a full-stack data science project that p
 | **Machine Learning** | Scikit-learn, Random Forest, Poisson | Match prediction, goals, penalties |
 | **Simulation Engine** | Monte Carlo, NumPy Poisson | 5,000 full tournament iterations |
 | **Web Application** | Streamlit | 7-page interactive dashboard |
-| **Deployment** | Hugging Face Spaces | Always-on public link, zero cold starts |
+| **Deployment** | StreamlitCloud | Always-on public link, zero cold starts |
 | **Version Control** | GitHub | Source code & CSV data hosting |
 
 ---
